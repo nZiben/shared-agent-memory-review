@@ -1,0 +1,45 @@
+[
+  {
+    "id": "shared-memory",
+    "name": "Общая память агентов",
+    "focus": true,
+    "reader_title": "Как агентам делиться опытом, не распространяя ошибки?",
+    "description": "Как несколько агентов сохраняют и используют общий опыт при решении задач.",
+    "subtopics": [
+      "multi agent collaborative shared memory experience transfer",
+      "language agents memory admission provenance access control"
+    ],
+    "starter_topic": "Как агентам делиться опытом, не распространяя ошибки?",
+    "questions": [
+      "Как агентам делиться опытом, не распространяя ошибки?"
+    ],
+    "queries": [
+      "multi agent collaborative shared memory experience transfer",
+      "language agents memory admission provenance access control"
+    ],
+    "suggested_check_days": 7,
+    "tree": [
+      {
+        "label": "Механизм",
+        "section": "mechanism"
+      },
+      {
+        "label": "Подходы",
+        "section": "approaches"
+      },
+      {
+        "label": "Ограничения",
+        "section": "disagreements"
+      },
+      {
+        "label": "Следующая проверка",
+        "section": "questions"
+      }
+    ],
+    "reader_goals": [
+      "Чем обмен опытом через память отличается от обучения весов модели.",
+      "Как отбирают полезные записи и передают их другим агентам.",
+      "Что делать с ошибками, устаревшей информацией и правами доступа."
+    ]
+  }
+]

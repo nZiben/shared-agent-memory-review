@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-11-16",
+  "through": "2026-11-16",
+  "method": "Retained initial bounded corpus plus incremental, paginated arXiv submission/update discovery with a seven-day overlap. Explicit title/abstract filters; metadata-only candidates. No automatic scientific synthesis or review changes.",
+  "topics": {
+    "shared-memory": []
+  },
+  "searches": [],
+  "coverage": {
+    "shared-memory": {
+      "papers": 0,
+      "first_year": null,
+      "last_year": null,
+      "years": {},
+      "groups": {},
+      "note": "Automatic candidate scan not yet run for this new focus; reviewed sources are in its review."
+    }
+  },
+  "plan_sha256": "97b575903f8069550ba0542f8ba1d30a6d89c44a5d47c10226e9dce467b332d2",
+  "last_update": {
+    "checked_at": "2026-11-16",
+    "window_start": "2026-11-06",
+    "topics": {}
+  }
+}

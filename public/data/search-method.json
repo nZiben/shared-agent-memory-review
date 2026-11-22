@@ -1,0 +1,6 @@
+{
+  "checked_at": "2026-11-16",
+  "method": "Retained initial bounded corpus plus incremental, paginated arXiv submission/update discovery with a seven-day overlap. Explicit title/abstract filters; metadata-only candidates. No automatic scientific synthesis or review changes.",
+  "plan_sha256": "97b575903f8069550ba0542f8ba1d30a6d89c44a5d47c10226e9dce467b332d2",
+  "searches": []
+}

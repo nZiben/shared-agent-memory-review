@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Как несколько агентов сохраняют и используют общий опыт при решении задач.">
+  <title>Общая память агентов</title>
+  <link rel="icon" type="image/svg+xml" href="./mark.svg"><link rel="stylesheet" href="./style.css"><script src="./app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#content">Перейти к содержанию</a>
+  <header class="site-header"><a class="brand" href="#home"><img src="./mark.svg" width="30" height="30" alt="">Общая память агентов</a><nav aria-label="Основная навигация"><a href="#home">О проекте</a><a href="#shared-memory">Обзор</a><a href="./related.html">Метод и источники</a></nav></header>
+  <main id="content" tabindex="-1">
+    <section id="home-panel"><p class="loading" role="status">Загружаем исследования…</p></section>
+    <div id="reader" hidden>
+      <a class="back-link" href="#home">О проекте</a>
+      <section class="hero" aria-labelledby="topic-title"><p class="eyebrow" id="topic-kicker"></p><h1 id="topic-title"></h1><p class="hero-description" id="topic-description"></p></section>
+      <div class="topic-meta"><span id="review-status" class="pill"></span><span id="cadence"></span><span id="last-updated"></span></div>
+      <div class="view-bar"><div role="tablist" aria-label="Чтение темы" class="tabs"><button id="tab-overview" role="tab" aria-selected="true" aria-controls="view-panel" data-view="overview">Разбор</button><button id="tab-map" role="tab" aria-selected="false" aria-controls="view-panel" data-view="map" tabindex="-1">Карта вопроса</button><button id="tab-sources" role="tab" aria-selected="false" aria-controls="view-panel" data-view="sources" tabindex="-1">Источники <span id="source-count">0</span></button><button id="tab-history" role="tab" aria-selected="false" aria-controls="view-panel" data-view="history" tabindex="-1">Обновления</button></div></div>
+      <div id="view-panel" role="tabpanel" aria-labelledby="tab-overview" tabindex="0"></div>
+    </div>
+    <footer class="page-footer"><span>Общая память агентов · Обзоры исследований</span><button id="method-button">О проверке источников</button><a href="https://github.com/nZiben/shared-agent-memory-review" rel="noreferrer">Исходный код</a></footer>
+  </main>
+  <dialog id="method-dialog" aria-labelledby="method-title"><button class="close-dialog" data-close="method-dialog" aria-label="Закрыть">×</button><p class="eyebrow">МЕТОД</p><h2 id="method-title">От вопроса к доказательству</h2><ol class="setup-list"><li><strong>Прочитать краткий вывод.</strong><p>Он относится к выбранным работам и условиям, а не ко всей области.</p></li><li><strong>Проверить разногласия.</strong><p>«Карта вопроса» связывает подходы, ограничения и ещё не выполненные проверки. Связи редакционные, не вычисленные по цитированиям.</p></li><li><strong>Открыть ссылку [1].</strong><p>Утверждение ведёт к карточке с условиями, короткой цитатой и конкретным разделом прочитанной версии.</p></li></ol><p class="review-notice">Прочитаны выбранные разделы источников. Независимой экспертной рецензии и воспроизведения экспериментов нет. Поиск новых кандидатов автоматизирован; научные выводы автоматически не обновляются.</p><button class="button primary" data-close="method-dialog">Понятно</button></dialog>
+</body></html>

@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "shared-memory",
+      "name": "Общая память агентов",
+      "focus": true,
+      "reader_title": "Как агентам делиться опытом, не распространяя ошибки?",
+      "description": "Как несколько агентов сохраняют и используют общий опыт при решении задач.",
+      "subtopics": [
+        "multi agent collaborative shared memory experience transfer",
+        "language agents memory admission provenance access control"
+      ],
+      "starter_topic": "Как агентам делиться опытом, не распространяя ошибки?",
+      "questions": [
+        "Как агентам делиться опытом, не распространяя ошибки?"
+      ],
+      "queries": [
+        "multi agent collaborative shared memory experience transfer",
+        "language agents memory admission provenance access control"
+      ],
+      "suggested_check_days": 7,
+      "tree": [
+        {
+          "label": "Механизм",
+          "section": "mechanism"
+        },
+        {
+          "label": "Подходы",
+          "section": "approaches"
+        },
+        {
+          "label": "Ограничения",
+          "section": "disagreements"
+        },
+        {
+          "label": "Следующая проверка",
+          "section": "questions"
+        }
+      ],
+      "reader_goals": [
+        "Чем обмен опытом через память отличается от обучения весов модели.",
+        "Как отбирают полезные записи и передают их другим агентам.",
+        "Что делать с ошибками, устаревшей информацией и правами доступа."
+      ],
+      "topic": "Как агентам делиться опытом, не распространяя ошибки?",
+      "has_review": true,
+      "snapshot_id": "editorial-2026-11-22.2",
+      "review_papers": 50,
+      "papers": 50,
+      "bibliography_checked_at": null,
+      "bibliography_coverage": {
+        "count": 0,
+        "first_year": null,
+        "last_year": null,
+        "years": {},
+        "groups": {
+          "relevance": 0,
+          "recent": 0,
+          "earlier": 0,
+          "evaluation": 0
+        },
+        "full_text_reviewed": 0,
+        "searches": 0,
+        "truncated_searches": 0
+      },
+      "discovery": null,
+      "updated_at": "2026-11-22"
+    }
+  ]
+}

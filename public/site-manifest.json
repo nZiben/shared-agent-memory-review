@@ -1,0 +1,21 @@
+{
+  "kind": "review-forge-public-site",
+  "files": {
+    "app.js": "61a8b10725314875c3f56cd34d82054d2431f7b60fabb8ec7b09e60cc150c097",
+    "data/discovery.json": "05ce0a5283df56df723691cb49dbbd7ccc352fa38fda5d4551c5bb1704499c7d",
+    "data/library.json": "e2a1407fec2fe78d5b4083cfa7cc009c6b7a3194eca2cb6ab03ee3efb9728e91",
+    "data/reviews/shared-memory/editorial-2026-11-22.2.json": "4284537016fddc74b89d5135f94af18c1c2b533bb17a48799f507959a419dac5",
+    "data/reviews/shared-memory/editorial-2026-11-22.json": "ece0b9ca6a41ee3203cdaa01cff7a3f19921078cc7b4ffc7ed47367ae93e21d6",
+    "data/search-method.json": "7049df6201cba591f8de524be58594580d3e01b71fb5d7613430f8e68ea722d5",
+    "data/topics/shared-memory.json": "a84a806ad1e3f8a851fc4709512d210864f889e2bf1e4aa3dd2311dc7105377a",
+    "exports/reading-lists/shared-memory/references.bib": "8808962539cae20351c01cfbaa63786f1f2efcf84987b5312653f6ebe25eff2a",
+    "exports/shared-memory/editorial-2026-11-22/index.html": "d67b1caf25f2d12c5cd31f970a9008d7e948dfc61c81d656c94fb564662d9239",
+    "exports/shared-memory/editorial-2026-11-22/references.bib": "7b8bc37f1d3ac665a2ecb04866cbee9552e792faf7860c3d04b4a9ef74a89e4e",
+    "exports/shared-memory/editorial-2026-11-22.2/index.html": "aa0f472e99e30e834f2180ab976996bc5cbc4b80415d6871acf6a51f6dfa3e12",
+    "exports/shared-memory/editorial-2026-11-22.2/references.bib": "8808962539cae20351c01cfbaa63786f1f2efcf84987b5312653f6ebe25eff2a",
+    "index.html": "9d7201f9d92c22a4dd10a5659885e1b147eeeab853f9b1cb391a1de91648019d",
+    "mark.svg": "0b0223a5be0c67a3c8fe3c9a78cc817a8a4fda609ca495427aede09f1f185bfb",
+    "related.html": "9c8dd3a04f26786c482108090286fa9d65ec0a7ca714f0936a0d03c664bee802",
+    "style.css": "b286f3584f978b218543fdc50b774bf4f0ea52be39847421dd7dda7fe452dd35"
+  }
+}

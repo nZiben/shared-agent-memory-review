@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "through": "2026-11-08",
+  "year_from": 2017,
+  "scope": "One focused review: shared-memory. Incremental candidates are separate from reviewed publications.",
+  "strategies": [
+    {
+      "id": "relevance",
+      "label": "Методы и постановка задачи",
+      "sort": "relevance",
+      "order": "descending",
+      "limit": 60,
+      "query": "main"
+    },
+    {
+      "id": "recent",
+      "label": "Последние публикации",
+      "sort": "submittedDate",
+      "order": "descending",
+      "limit": 50,
+      "query": "main"
+    },
+    {
+      "id": "earlier",
+      "label": "Ранние работы",
+      "sort": "submittedDate",
+      "order": "ascending",
+      "limit": 100,
+      "query": "main"
+    },
+    {
+      "id": "evaluation",
+      "label": "Оценка, ограничения и надёжность",
+      "sort": "relevance",
+      "order": "descending",
+      "limit": 40,
+      "query": "evaluation"
+    }
+  ],
+  "topics": {
+    "shared-memory": {
+      "main": "(all:\"shared memory\" OR all:\"collaborative memory\" OR all:\"memory sharing\") AND (all:\"agent\" OR all:\"agents\")",
+      "evaluation": "all:\"memory\" AND all:\"agent\" AND all:\"evaluation\"",
+      "must_match": [
+        "shared.memory|collaborative.memory|memory.sharing",
+        "agent"
+      ]
+    }
+  }
+}
