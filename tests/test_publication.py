@@ -27,8 +27,8 @@ class FocusedPublication(unittest.TestCase):
         library=json.loads((site/'data/library.json').read_text())
         self.assertEqual([t['id'] for t in library['topics']],[self.topic])
         data=json.loads((site/f'data/topics/{self.topic}.json').read_text())
-        self.assertEqual(len(data['review']['papers']),50)
-        self.assertEqual(len(data['versions']),2)
+        self.assertEqual(len(data['review']['papers']),100)
+        self.assertEqual(len(data['versions']),3)
         self.assertEqual(len(list((site/'data/topics').glob('*.json'))),1)
         for version in data['versions']:
             self.assertTrue((site/f"exports/{self.topic}/{version['id']}/index.html").exists())
@@ -52,8 +52,8 @@ class FocusedPublication(unittest.TestCase):
 
     def test_evidence_versions_and_claim_references_validate(self):
         data=load_editorial(ROOT/f'reviews/{self.topic}.json')
-        self.assertEqual(len({p['arxiv_id'].split('v')[0] for p in data['papers']}),50)
-        self.assertEqual(len(data['comparison']),50)
+        self.assertEqual(len({p['arxiv_id'].split('v')[0] for p in data['papers']}),100)
+        self.assertEqual(len(data['comparison']),100)
         self.assertTrue(all(row['theme'] and row['study_type'] for row in data['comparison']))
 
 if __name__=='__main__':

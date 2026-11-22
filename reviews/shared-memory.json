@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "kind": "editorial_review",
-  "snapshot_id": "editorial-2026-11-22.2",
+  "snapshot_id": "editorial-2026-11-22.3",
   "at": "2026-11-22",
   "review": {
     "topic": "Как агентам делиться опытом, не распространяя ошибки?",
@@ -980,6 +980,1009 @@
       "source_sha256": "24b6871348823ef007cbed1859c7acfaefbab6fdd9b79a4716ebf4da61b2bb34",
       "checked_at": "2026-11-22",
       "read_sections": "Выбранные абзацы, не полный разбор всех разделов: S5.SS1.SSS0.Px1 5 Experiment / 5.1 Experiment Setup / Datasets and Benchmarks.; S5.SS2 5 Experiment / 5.2 Main Results (RQ1); S6 6 Conclusion & Limitation"
+    },
+    {
+      "id": "arxiv-2508-04903",
+      "title": "RCR-Router: Efficient Role-Aware Context Routing for Multi-Agent LLM Systems with Structured Memory",
+      "authors": [
+        "Jun Liu",
+        "Zhenglun Kong",
+        "Changdi Yang",
+        "Fan Yang",
+        "Tianqi Li",
+        "Peiyan Dong",
+        "Joannah Nanjekye",
+        "Hao Tang",
+        "Geng Yuan",
+        "Wei Niu",
+        "Wenbin Zhang",
+        "Pu Zhao",
+        "Xue Lin",
+        "Dong Huang",
+        "Yanzhi Wang"
+      ],
+      "year": 2025,
+      "arxiv_id": "2508.04903v5",
+      "url": "https://arxiv.org/abs/2508.04903v5",
+      "doi": "",
+      "source_sha256": "f07d103e9a867d783fa04de722a65877de2e949ce5ef1fbf186de979b7a6da4e",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S3.SS3 3 The Proposed Method / 3.3 Iterative Routing with Feedback; S4.SS2 4 Experiments / 4.2 Results; Sx1 Limitations Название HTML отличается от метаданных карточки arXiv; сверены обе страницы той же точной версии."
+    },
+    {
+      "id": "arxiv-2501-13200",
+      "title": "SRMT: Shared Memory for Multi-agent Lifelong Pathfinding",
+      "authors": [
+        "Alsu Sagirova",
+        "Yuri Kuratov",
+        "Mikhail Burtsev"
+      ],
+      "year": 2025,
+      "arxiv_id": "2501.13200v2",
+      "url": "https://arxiv.org/abs/2501.13200v2",
+      "doi": "",
+      "source_sha256": "e5b9eae72a3daf42b328a84c0963bb5d51e968d9cb95366584d7b69c0fd093f0",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: A5.SS0.SSS0.Px1 Appendix E Evaluation scores / Reward design motivation; S5.SS0.SSS0.Px2 5 Experiments and Results / Classical MAPF on Bottlenecks; A2 Appendix B Limitations"
+    },
+    {
+      "id": "arxiv-2508-08997",
+      "title": "Intrinsic Memory Agents: Heterogeneous Multi-Agent LLM Systems through Structured Contextual Memory",
+      "authors": [
+        "Sizhe Yuen",
+        "Francisco Gomez Medina",
+        "Ting Su",
+        "Yali Du",
+        "Adam J. Sobey"
+      ],
+      "year": 2025,
+      "arxiv_id": "2508.08997v2",
+      "url": "https://arxiv.org/abs/2508.08997v2",
+      "doi": "",
+      "source_sha256": "f68bdb47c6a121e5b59193042384f21e404e0de09be26416e4b12525f09f140c",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S4 4 Quantitative benchmarks; S4.SS1 4 Quantitative benchmarks / 4.1 Benchmarking results; S6 6 Discussion and Limitations"
+    },
+    {
+      "id": "arxiv-2507-07957",
+      "title": "MIRIX: Multi-Agent Memory System for LLM-Based Agents",
+      "authors": [
+        "Yu Wang",
+        "Xi Chen"
+      ],
+      "year": 2025,
+      "arxiv_id": "2507.07957v1",
+      "url": "https://arxiv.org/abs/2507.07957v1",
+      "doi": "",
+      "source_sha256": "4d7116051ab0c0875646fc2ec223aedee203e90733bde16bf214a88c0319c943",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S3.SS1.SSS0.Px1 3 Methodology / 3.1 Memory Components / Core Memory; S4.SS2 4 Experiments / 4.2 Experimental Results on ScreenshotVQA; S6 6 Conclusion and Future Work"
+    },
+    {
+      "id": "arxiv-2512-13564",
+      "title": "Memory in the Age of AI Agents",
+      "authors": [
+        "Yuyang Hu",
+        "Shichun Liu",
+        "Yanwei Yue",
+        "Guibin Zhang",
+        "Boyang Liu",
+        "Fangyi Zhu",
+        "Jiahang Lin",
+        "Honglin Guo",
+        "Shihan Dou",
+        "Zhiheng Xi",
+        "Senjie Jin",
+        "Jiejun Tan",
+        "Yanbin Yin",
+        "Jiongnan Liu",
+        "Zeyu Zhang",
+        "Zhongxiang Sun",
+        "Yutao Zhu",
+        "Hao Sun",
+        "Boci Peng",
+        "Zhenrong Cheng",
+        "Xuanbo Fan",
+        "Jiaxin Guo",
+        "Xinlei Yu",
+        "Zhenhong Zhou",
+        "Zewen Hu",
+        "Jiahao Huo",
+        "Junhao Wang",
+        "Yuwei Niu",
+        "Yu Wang",
+        "Zhenfei Yin",
+        "Xiaobin Hu",
+        "Yue Liao",
+        "Qiankun Li",
+        "Kun Wang",
+        "Wangchunshu Zhou",
+        "Yixin Liu",
+        "Dawei Cheng",
+        "Qi Zhang",
+        "Tao Gui",
+        "Shirui Pan",
+        "Yan Zhang",
+        "Philip Torr",
+        "Zhicheng Dou",
+        "Ji-Rong Wen",
+        "Xuanjing Huang",
+        "Yu-Gang Jiang",
+        "Shuicheng Yan"
+      ],
+      "year": 2025,
+      "arxiv_id": "2512.13564v2",
+      "url": "https://arxiv.org/abs/2512.13564v2",
+      "doi": "",
+      "source_sha256": "6cbfd7c15d4f8790e83afd425a47f711ea4060a4b967faa25d92b21df41c0707",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S6.SS1.SSS1 6 Resources and Frameworks / 6.1 Benchmarks and Datasets / 6.1.1 Benchmarks for Memory / Lifelong / Self-Evolving Agents; S3.SS1.SSS2.Px4 3 Form: What Carries Memory? / 3.1 Token-level Memory / 3.1.2 Planar Memory (2D) / Discussion; S3.SS1.SSS1.Px6 3 Form: What Carries Memory? / 3.1 Token-level Memory / 3.1.1 Flat Memory (1D) / Discussion Название HTML отличается от метаданных карточки arXiv; сверены обе страницы той же точной версии."
+    },
+    {
+      "id": "arxiv-2510-04851",
+      "title": "LEGOMem: Modular Procedural Memory for Multi-agent LLM Systems for Workflow Automation",
+      "authors": [
+        "Dongge Han",
+        "Camille Couturier",
+        "Daniel Madrigal Diaz",
+        "Xuchao Zhang",
+        "Victor Rühle",
+        "Saravan Rajmohan"
+      ],
+      "year": 2025,
+      "arxiv_id": "2510.04851v1",
+      "url": "https://arxiv.org/abs/2510.04851v1",
+      "doi": "",
+      "source_sha256": "50504d59a62ff13dbdca8836c5cc623698a894e827561cec065b7e851ab130de",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S4.SS1.SSS1 4. Experiments / 4.1. Experimental setup / 4.1.1. Dataset and metrics; S4.SS2 4. Experiments / 4.2. Main results; S3.SS1.SSS2 3. LEGOMem: Modular Procedural Memory for Multi-agent LLM Systems / 3.1. Problem formulation / 3.1.2. Multi-agent procedural memory."
+    },
+    {
+      "id": "arxiv-2511-01912",
+      "title": "EvoMem: Improving Multi-Agent Planning with Dual-Evolving Memory",
+      "authors": [
+        "Wenzhe Fan",
+        "Ning Yan",
+        "Masood Mortazavi"
+      ],
+      "year": 2025,
+      "arxiv_id": "2511.01912v2",
+      "url": "https://arxiv.org/abs/2511.01912v2",
+      "doi": "",
+      "source_sha256": "9e78a0e21048dc7eced18ef457b55d20e35e330b1fb3a3191ed8bc577c50316d",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S2.SS1 2 EvoMem / 2.1 Multi-Agent Design; S3.SS1 3 Experiment / 3.1 Main Result; S4 4 Conclusion and Future work"
+    },
+    {
+      "id": "arxiv-2512-04668",
+      "title": "Topology Matters: Measuring Memory Leakage in Multi-Agent LLMs",
+      "authors": [
+        "Jinbo Liu",
+        "Defu Cao",
+        "Yifei Wei",
+        "Tianyao Su",
+        "Yuan Liang",
+        "Yushun Dong",
+        "Yan Liu",
+        "Yue Zhao",
+        "Xiyang Hu"
+      ],
+      "year": 2025,
+      "arxiv_id": "2512.04668v4",
+      "url": "https://arxiv.org/abs/2512.04668v4",
+      "doi": "",
+      "source_sha256": "8cefb66c97872a6f65bb32e4058dc2cd64f4e1d6ccb86ac9c070ea98dabb577b",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S3.SS3 3 Methodology / 3.3 Topological Structures; S4.SS0.SSS0.Px1 4 Experiments / Synthesis of Empirical Findings.; Sx1 Limitations"
+    },
+    {
+      "id": "arxiv-2512-15790",
+      "title": "Bilevel Optimization for Covert Memory Tampering in Heterogeneous Multi-Agent Architectures (XAMT)",
+      "authors": [
+        "Akhil Sharma",
+        "Shaikh Yaser Arafat",
+        "Jai Kumar Sharma",
+        "Ken Huang"
+      ],
+      "year": 2025,
+      "arxiv_id": "2512.15790v1",
+      "url": "https://arxiv.org/abs/2512.15790v1",
+      "doi": "",
+      "source_sha256": "639554955c91093f04239989ecbeb718e8d5f976a177f3033f16c305cf06663e",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S2 II Formal Threat Model and Assumptions; S6.SS1.SSS1 VI Experimental Protocols and Evaluation / VI-A MARL Evaluation: XAMT-RL on Cooperative Domains / VI-A1 Environment and Victim Selection; S2.SS3.SSS2 II Formal Threat Model and Assumptions / II-C System Scope and Limitations / II-C2 Architectural Scope"
+    },
+    {
+      "id": "arxiv-2511-10030",
+      "title": "Multi-agent In-context Coordination via Decentralized Memory Retrieval",
+      "authors": [
+        "Tao Jiang",
+        "Zichuan Lin",
+        "Lihe Li",
+        "Yi-Chen Li",
+        "Cong Guan",
+        "Lei Yuan",
+        "Zongzhang Zhang",
+        "Yang Yu",
+        "Deheng Ye"
+      ],
+      "year": 2025,
+      "arxiv_id": "2511.10030v1",
+      "url": "https://arxiv.org/abs/2511.10030v1",
+      "doi": "10.1609/aaai.v40i27.39394",
+      "source_sha256": "7d5ef614e6edd00ed8079223bc42240c7e625c326035568b01badcaeb3fbe073",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S4.SS3 4 Method / 4.3 Decentralized In-Context Fast Coordination; S5.SS2 5 Experiments / 5.2 Main Results; S6 6 Conclusion and Discussion"
+    },
+    {
+      "id": "arxiv-2509-09498",
+      "title": "SEDM: Selective Self-Evolving Distributed Memory for Agents",
+      "authors": [
+        "Yichen Liu",
+        "Anna Min",
+        "Yinzhi Wang",
+        "Yuhang Yao",
+        "Yichen Han",
+        "Rui Zhang",
+        "Jiantao He",
+        "Zhiheng Li",
+        "Yingying Qi",
+        "Haoran Xu",
+        "Zhimin Ding",
+        "Yuxin Tang",
+        "Qi You",
+        "Lynn Ai",
+        "Eric Yang",
+        "Lewei He",
+        "Tianyu Shi"
+      ],
+      "year": 2025,
+      "arxiv_id": "2509.09498v4",
+      "url": "https://arxiv.org/abs/2509.09498v4",
+      "doi": "",
+      "source_sha256": "247504519767d42585051f3587295cc8c0556e01667e229228cd4365e145b3d4",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S3.SS2.SSS0.Px1 3 Methodology / 3.2 SCEC-based Verifiable Write Admission / Self-contained packaging and replay.; S4.SS2 4 Experiments / 4.2 Main Results on LoCoMo; Sx1.SS0.SSS0.Px1 Limitations / Scope."
+    },
+    {
+      "id": "arxiv-2409-07429",
+      "title": "Agent Workflow Memory",
+      "authors": [
+        "Zora Zhiruo Wang",
+        "Jiayuan Mao",
+        "Daniel Fried",
+        "Graham Neubig"
+      ],
+      "year": 2024,
+      "arxiv_id": "2409.07429v1",
+      "url": "https://arxiv.org/abs/2409.07429v1",
+      "doi": "",
+      "source_sha256": "d155636da9084ec325f57e574e31a0a8b6154e100faa4aaeae5c41835b9660a0",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S3.SS2.SSS2.Px1 3 Experiments / 3.2 Mind2Web / 3.2.2 Online AWM Enables Generalization / In-domain, cross-task scenario; S3.SS1.SSS1 3 Experiments / 3.1 WebArena / 3.1.1 Main results; S3 3 Experiments"
+    },
+    {
+      "id": "arxiv-2512-10166",
+      "title": "Emergent Collective Memory in Decentralized Multi-Agent AI Systems",
+      "authors": [
+        " Khushiyant"
+      ],
+      "year": 2025,
+      "arxiv_id": "2512.10166v1",
+      "url": "https://arxiv.org/abs/2512.10166v1",
+      "doi": "",
+      "source_sha256": "41ba25ddee4ed4fe187687f0c7c0f5fb6a31ed731995ce553ec45f35fdd8cbce",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S5.SS4 5 Experimental Design and Validation / 5.4 Validation Protocol; S6.SS2 6 Results / 6.2 Robustness Tests; S7.SS4 7 Discussion / 7.4 Study Limitations and Future Work"
+    },
+    {
+      "id": "arxiv-2502-12110",
+      "title": "A-MEM: Agentic Memory for LLM Agents",
+      "authors": [
+        "Wujiang Xu",
+        "Zujie Liang",
+        "Kai Mei",
+        "Hang Gao",
+        "Juntao Tan",
+        "Yongfeng Zhang"
+      ],
+      "year": 2025,
+      "arxiv_id": "2502.12110v11",
+      "url": "https://arxiv.org/abs/2502.12110v11",
+      "doi": "",
+      "source_sha256": "00699fe82d03985fd6639a4a46038a8f920a9d28288c61ed988e8b7c8cb265cd",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S3 3 Methodolodgy; S4.SS3 4 Experiment / 4.3 Empricial Results; S6 6 Limitations"
+    },
+    {
+      "id": "arxiv-2506-19846",
+      "title": "HiMA-Ecom: A Long-Horizon Memory Benchmark for Hierarchical Multi-Agent E-commerce Assistants",
+      "authors": [
+        "Junxing Hu",
+        "Ai Han",
+        "Haolan Zhan",
+        "Pu Wei",
+        "Zhiqian Zhang",
+        "Yuhang Guo",
+        "Jiawei Lu",
+        "Zhen Chen",
+        "Haoran Li",
+        "Zicheng Zhang",
+        "Ling Li"
+      ],
+      "year": 2025,
+      "arxiv_id": "2506.19846v3",
+      "url": "https://arxiv.org/abs/2506.19846v3",
+      "doi": "",
+      "source_sha256": "994b2db831fbc085ccaa0c6bf830a9172a694afece93be7685f53fe389442ebb",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S3 3 The HiMA-Ecom Benchmark; A1.SS6.SSS0.Px2 Appendix A Appendix / A.6 Additional comparative results / Comparative results on the ToolBench dataset.; S6 6 Conclusion and Limitations"
+    },
+    {
+      "id": "arxiv-2506-17338",
+      "title": "PBFT-Backed Semantic Voting for Multi-Agent Memory Pruning",
+      "authors": [
+        "Duong Bach"
+      ],
+      "year": 2025,
+      "arxiv_id": "2506.17338v2",
+      "url": "https://arxiv.org/abs/2506.17338v2",
+      "doi": "",
+      "source_sha256": "433aa3b0821dfc372a6016b64faea593adf0312b993f34b94dc5343ef97db21f",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S3 III Methodology; S5.SS1 V Evaluation and Results / V-A Evaluation Metrics; S6 VI Discussion"
+    },
+    {
+      "id": "arxiv-2507-06229",
+      "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+      "authors": [
+        "Xiangru Tang",
+        "Tianrui Qin",
+        "Tianhao Peng",
+        "Ziyang Zhou",
+        "Daniel Shao",
+        "Tingting Du",
+        "Xinming Wei",
+        "Peng Xia",
+        "Fang Wu",
+        "He Zhu",
+        "Ge Zhang",
+        "Jiaheng Liu",
+        "Xingyao Wang",
+        "Sirui Hong",
+        "Chenglin Wu",
+        "Hao Cheng",
+        "Chi Wang",
+        "Wangchunshu Zhou"
+      ],
+      "year": 2025,
+      "arxiv_id": "2507.06229v5",
+      "url": "https://arxiv.org/abs/2507.06229v5",
+      "doi": "",
+      "source_sha256": "24ad8f589134309d3ed7d045fea31577e06b38fde224c46133a6a2239f9db7a5",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S4.SS1 4 Experiment / 4.1 Setup; S4.SS2 4 Experiment / 4.2 Main Results"
+    },
+    {
+      "id": "arxiv-2506-06326",
+      "title": "Memory OS of AI Agent",
+      "authors": [
+        "Jiazheng Kang",
+        "Mingming Ji",
+        "Zhe Zhao",
+        "Ting Bai"
+      ],
+      "year": 2025,
+      "arxiv_id": "2506.06326v1",
+      "url": "https://arxiv.org/abs/2506.06326v1",
+      "doi": "",
+      "source_sha256": "870757f63e473467d0d4fa7711460a08ebf90ab7d4004741c77f550572bedb50",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S4.SS1.SSS0.Px1 4 Experiments / 4.1 Experimental Settings / Datasets.; S4.SS2 4 Experiments / 4.2 Main Results; S5 5 Conclusion"
+    },
+    {
+      "id": "arxiv-2508-06433",
+      "title": "Memp: Exploring Agent Procedural Memory",
+      "authors": [
+        "Runnan Fang",
+        "Yuan Liang",
+        "Xiaobin Wang",
+        "Jialong Wu",
+        "Shuofei Qiao",
+        "Pengjun Xie",
+        "Fei Huang",
+        "Huajun Chen",
+        "Ningyu Zhang"
+      ],
+      "year": 2025,
+      "arxiv_id": "2508.06433v4",
+      "url": "https://arxiv.org/abs/2508.06433v4",
+      "doi": "",
+      "source_sha256": "1b3bdb5088417bd260c5171e3333fd8dd60b89c8fc67aeaecab6cbee60e995d5",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S4.SS1.SSS0.Px1 4 Experiment / 4.1 Experimental Settings / Datasets.; S6 6 Conclusion and Future Work; Sx1 Limitations"
+    },
+    {
+      "id": "arxiv-2308-01542",
+      "title": "Memory Sandbox: Transparent and Interactive Memory Management for Conversational Agents",
+      "authors": [
+        "Ziheng Huang",
+        "Sebastian Gutierrez",
+        "Hemanth Kamana",
+        "Stephen MacNeil"
+      ],
+      "year": 2023,
+      "arxiv_id": "2308.01542v1",
+      "url": "https://arxiv.org/abs/2308.01542v1",
+      "doi": "",
+      "source_sha256": "8aee845120a9207c886d62c8111979c68ab16b4f02c8112f1169a8230e8901d2",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S2 2. System Overview; S3 3. Discussion"
+    },
+    {
+      "id": "arxiv-2508-03341",
+      "title": "What Deserves Memory: Adaptive Memory Distillation for LLM Agents",
+      "authors": [
+        "Wenquan Ma",
+        "Jiayan Nan",
+        "Wenlong Wu",
+        "Yize Chen"
+      ],
+      "year": 2025,
+      "arxiv_id": "2508.03341v4",
+      "url": "https://arxiv.org/abs/2508.03341v4",
+      "doi": "",
+      "source_sha256": "57e3d97858471e66071ee5bc5e73bdf2cae23148f8989cfadf5385aacb771af1",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S4.SS1.SSS0.Px1 4 Experiments / 4.1 Experimental Setup / Datasets.; A3.SS0.SSS0.Px2 Appendix C Additional Experiment Results / Ablation Study (Table 10).; Sx1 Limitations"
+    },
+    {
+      "id": "arxiv-2508-11733",
+      "title": "SafeSieve: From Heuristics to Experience in Progressive Pruning for LLM-based Multi-Agent Communication",
+      "authors": [
+        "Ruijia Zhang",
+        "Xinyan Zhao",
+        "Ruixiang Wang",
+        "Sigen Chen",
+        "Guibin Zhang",
+        "An Zhang",
+        "Kun Wang",
+        "Qingsong Wen"
+      ],
+      "year": 2025,
+      "arxiv_id": "2508.11733v3",
+      "url": "https://arxiv.org/abs/2508.11733v3",
+      "doi": "",
+      "source_sha256": "a888e1a4eb6604f2373cfb027674e0fb785aad649481da50b4a8c39507c9ba64",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: Sx4.SSx1.SSS0.Px1 Experiments / Experiment Setup / Models & Benchmarks.; Sx4.SSx2.SSS0.Px1 Experiments / Main Results / Takeaway 1: Carefully designed communication graphs outperform single-agent methods, with post-pruning paradigms comprehensively surpassing pre-design approaches.; Sx3.SSx2.SSS0.Px1 SafeSieve: Integrated Pruning Strategy / Progressive Pruning with Historical Feedback / Historical Complementarity."
+    },
+    {
+      "id": "arxiv-2506-22815",
+      "title": "Memory as a Service (MaaS): Purpose-Bound Memory Mediation for Cooperative Agents",
+      "authors": [
+        "Haichang Li"
+      ],
+      "year": 2025,
+      "arxiv_id": "2506.22815v2",
+      "url": "https://arxiv.org/abs/2506.22815v2",
+      "doi": "",
+      "source_sha256": "4178ebc4c6cfb2481809e3da906ced9cc4d3fcd77623c36d383a7da65b1377ad",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S4.SS1 4. Empirical Grounding: Diagnostic Stress Tests / 4.1. Dataset and framing; S4.SS3 4. Empirical Grounding: Diagnostic Stress Tests / 4.3. Stress test 2: natural-language prompts as governance; S5 5. Discussion"
+    },
+    {
+      "id": "arxiv-2511-03506",
+      "title": "HaluMem: Evaluating Hallucinations in Memory Systems of Agents",
+      "authors": [
+        "Ding Chen",
+        "Simin Niu",
+        "Kehang Li",
+        "Peng Liu",
+        "Xiangping Zheng",
+        "Bo Tang",
+        "Xinchi Li",
+        "Feiyu Xiong",
+        "Zhiyu Li"
+      ],
+      "year": 2025,
+      "arxiv_id": "2511.03506v3",
+      "url": "https://arxiv.org/abs/2511.03506v3",
+      "doi": "",
+      "source_sha256": "974d98fc9a9a09320ce831f0e6f354bf23c158fd34f54ee6318117c21d8b97c6",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S4 4 Methodology for Constructing HaluMem; S6.SS2.SSS1 6 Experiments / 6.2 Experimental Results / 6.2.1 Overall Evaluation on HaluMem"
+    },
+    {
+      "id": "arxiv-2511-21730",
+      "title": "A Benchmark for Procedural Memory Retrieval in Language Agents",
+      "authors": [
+        "Ishant Kohar",
+        "Aswanth Krishnan"
+      ],
+      "year": 2025,
+      "arxiv_id": "2511.21730v1",
+      "url": "https://arxiv.org/abs/2511.21730v1",
+      "doi": "",
+      "source_sha256": "161a7d734a82d4165f1c1ce25f049a0e22a090bbf1c89ac70a86aebf42ff2b30",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S3.SS4.SSS2 3 Methodology / 3.4 Evaluation Framework / 3.4.2 Coverage-Balanced Benchmark Development; S4.SS1 4 Experimental Results / 4.1 Exploratory Analysis: Cross-Context Performance Divergence; S5.SS5 5 Discussion / 5.5 Limitations"
+    },
+    {
+      "id": "arxiv-2502-13172",
+      "title": "Unveiling Privacy Risks in LLM Agent Memory",
+      "authors": [
+        "Bo Wang",
+        "Weiyi He",
+        "Shenglai Zeng",
+        "Zhen Xiang",
+        "Yue Xing",
+        "Jiliang Tang",
+        "Pengfei He"
+      ],
+      "year": 2025,
+      "arxiv_id": "2502.13172v2",
+      "url": "https://arxiv.org/abs/2502.13172v2",
+      "doi": "",
+      "source_sha256": "9c480c670255a04706a026b5e7782379e1db673434c1127eda1e4e81e8347083",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S3.SS2 3 Paradigm of Attack Design / 3.2 Automated Diverse Prompts Generation; S4.SS2.SSS0.Px1 4 RQ1: LLM Agent Memory Extraction / 4.2 Attacking Results / The attacking prompt design and automated generation instruction are essential for revealing privacy risk.; Sx1 Limitation"
+    },
+    {
+      "id": "arxiv-2511-20857",
+      "title": "Evo-Memory: Benchmarking LLM Agent Test-time Learning with Self-Evolving Memory",
+      "authors": [
+        "Tianxin Wei",
+        "Noveen Sachdeva",
+        "Benjamin Coleman",
+        "Zhankui He",
+        "Yuanchen Bei",
+        "Xuying Ning",
+        "Mengting Ai",
+        "Yunzhe Li",
+        "Jingrui He",
+        "Ed H. Chi",
+        "Chi Wang",
+        "Shuo Chen",
+        "Fernando Pereira",
+        "Wang-Cheng Kang",
+        "Derek Zhiyuan Cheng"
+      ],
+      "year": 2025,
+      "arxiv_id": "2511.20857v2",
+      "url": "https://arxiv.org/abs/2511.20857v2",
+      "doi": "",
+      "source_sha256": "7fdee5bee05b8ab96291e54218eabba0b43adbf3642823d24bf062805493bf4b",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S4.SS1.SSS2 4 Experiments / 4.1 Experimental Setup / 4.1.2 Methods; S4.SS2.SSS1 4 Experiments / 4.2 Experimental Results / 4.2.1 Analysis of Results (RQ1); A9 Appendix I Limitations"
+    },
+    {
+      "id": "arxiv-2505-16067",
+      "title": "How Memory Management Impacts LLM Agents: An Empirical Study of Experience-Following Behavior",
+      "authors": [
+        "Zidi Xiong",
+        "Yuping Lin",
+        "Wenya Xie",
+        "Pengfei He",
+        "Zirui Liu",
+        "Jiliang Tang",
+        "Himabindu Lakkaraju",
+        "Zhen Xiang"
+      ],
+      "year": 2025,
+      "arxiv_id": "2505.16067v2",
+      "url": "https://arxiv.org/abs/2505.16067v2",
+      "doi": "",
+      "source_sha256": "b5e742914a29971b77ed38374cd6aad704501c7d5e63275b8222aa12839005e6",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S4.SS1 4 Deletion of Memory / 4.1 Setup for Memory Deletion Experiments; S5.SS1.SSS0.Px1 5 Memory Management under Challenging Scenarios / 5.1 Memory Management with Task distribution shift / Results; Sx1 Limitations"
+    },
+    {
+      "id": "arxiv-2605-04264",
+      "title": "Governed Collaborative Memory as Artificial Selection in LLM-Based Multi-Agent Systems",
+      "authors": [
+        "Diego F. Cuadros",
+        "Abdoul-Aziz Maiga",
+        "Helen Meskhidze",
+        "Andre Curtis-Trudel"
+      ],
+      "year": 2026,
+      "arxiv_id": "2605.04264v1",
+      "url": "https://arxiv.org/abs/2605.04264v1",
+      "doi": "",
+      "source_sha256": "0f18aedc8eba3646a711c04943eb9393856d4fc0b037550ae0bfbbf0056b17f0",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: page.3 ; page.2 "
+    },
+    {
+      "id": "arxiv-2606-14445",
+      "title": "tap: A File-Based Protocol for Heterogeneous LLM Agent Collaboration",
+      "authors": [
+        "Minseo Kim"
+      ],
+      "year": 2026,
+      "arxiv_id": "2606.14445v1",
+      "url": "https://arxiv.org/abs/2606.14445v1",
+      "doi": "",
+      "source_sha256": "53df7c79812603644a00818c8ae378e5ca1a0f10d358244fbea6b93911c178e0",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S3 3 tap Architecture; S4 4 Operational Results; S5 5 Discussion"
+    },
+    {
+      "id": "arxiv-2609-15054",
+      "title": "BusMA: A Bus Communication Substrate for Multi-Agent Systems",
+      "authors": [
+        "Yanwen Peng",
+        "Delvin Ce Zhang",
+        "Xi Wang",
+        "Nikolaos Aletras"
+      ],
+      "year": 2026,
+      "arxiv_id": "2609.15054v2",
+      "url": "https://arxiv.org/abs/2609.15054v2",
+      "doi": "",
+      "source_sha256": "c5832740263fd764db75a078ad2709b3a004ad78daef2cd0ed3b7a6e4668b6d5",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S3.SS4 3 The BusMA Framework / 3.4 Overall Information Flow in BusMA; S5.SS1 5 Results / 5.1 Diversity Benchmarks; Sx1 Limitations"
+    },
+    {
+      "id": "arxiv-2606-00610",
+      "title": "MemGraphRAG: Memory-based Multi-Agent System for Graph Retrieval-Augmented Generation",
+      "authors": [
+        "Chuanjie Wu",
+        "Zhishang Xiang",
+        "Yunbo Tang",
+        "Zerui Chen",
+        "Qinggang Zhang",
+        "Jinsong Su"
+      ],
+      "year": 2026,
+      "arxiv_id": "2606.00610v1",
+      "url": "https://arxiv.org/abs/2606.00610v1",
+      "doi": "",
+      "source_sha256": "8c22efa721a2b6e996f425474c32e7f53ee778173efbcb4d9629553fa394b34c",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S4 4. Our Framework; S5.SS1 5. Experiments / 5.1. Experimental Setting; Sx1 Limitation"
+    },
+    {
+      "id": "arxiv-2608-11436",
+      "title": "When Agents Talk: Honeytokens under Shared Memory",
+      "authors": [
+        "Joshua S. Gans"
+      ],
+      "year": 2026,
+      "arxiv_id": "2608.11436v1",
+      "url": "https://arxiv.org/abs/2608.11436v1",
+      "doi": "",
+      "source_sha256": "a9d4bba8282a35b08dbab69e6879913919842beb985005ad0e87b9594cef29a6",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S2.SS1 2 Honeytokens under common information / 2.1 Threat model and non-goals; S6 6 Conclusion; S2.SS2 2 Honeytokens under common information / 2.2 Object selection"
+    },
+    {
+      "id": "arxiv-2506-02049",
+      "title": "EvoGit: Decentralized Code Evolution via Git-Based Multi-Agent Collaboration",
+      "authors": [
+        "Beichen Huang",
+        "Ran Cheng",
+        "Kay Chen Tan"
+      ],
+      "year": 2025,
+      "arxiv_id": "2506.02049v1",
+      "url": "https://arxiv.org/abs/2506.02049v1",
+      "doi": "",
+      "source_sha256": "2d83126581c5e6658e4d4b42318280e1f0de8be19b876272ab6050e9ff411018",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S2.SS2 2 Methodology / 2.2 Code Evolution as Graph Expansion; S3.SS2 3 Experiments / 3.2 Experimental Results; A5 Appendix E Discussion on Reproducibility"
+    },
+    {
+      "id": "arxiv-2603-17787",
+      "title": "Governed Memory: A Production Architecture for Multi-Agent Workflows",
+      "authors": [
+        "Hamed Taheri"
+      ],
+      "year": 2026,
+      "arxiv_id": "2603.17787v1",
+      "url": "https://arxiv.org/abs/2603.17787v1",
+      "doi": "",
+      "source_sha256": "9fb15675f59432cc87ed2abd7ff08703951ae37083311a26f3c7c385fe2d76b0",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S4.SS1 4 Dual Memory Model / 4.1 Problem Statement; A6.SSx1 Appendix F Extended Experimental Results / Memory Density and Output Quality (E2); S9.SS1 9 Discussion / 9.1 Limitations"
+    },
+    {
+      "id": "arxiv-2603-12631",
+      "title": "Joint Optimization of Multi-agent Memory System",
+      "authors": [
+        "Wenyu Mao",
+        "Haoyang Liu",
+        "Haosong Tan",
+        "Yaorui Shi",
+        "Jiancan Wu",
+        "An Zhang",
+        "Xiang Wang"
+      ],
+      "year": 2026,
+      "arxiv_id": "2603.12631v2",
+      "url": "https://arxiv.org/abs/2603.12631v2",
+      "doi": "",
+      "source_sha256": "664039dc1d4ada73910c8d6b1c037245050fa903a66ee357c56397705b579d67",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S5.SS1.SSS0.Px1 5 Experiments / 5.1 Experimental Settings / Dataset; A3.SS1 Appendix C More Detailed Experimental Results / C.1 The Impact of Joint Optimization on Local Task Specialization; A5 Appendix E Limitation"
+    },
+    {
+      "id": "arxiv-2609-30289",
+      "title": "Not All Memories Are Equal: Hierarchical Collaborative Memory for Validity-Aware Retrieval in LLM Agents",
+      "authors": [
+        "Yufei Shi",
+        "Rujing Yao",
+        "Ang Li",
+        "Yang Wu",
+        "Zhuoren Jiang",
+        "Xiaozhong Liu"
+      ],
+      "year": 2026,
+      "arxiv_id": "2609.30289v1",
+      "url": "https://arxiv.org/abs/2609.30289v1",
+      "doi": "",
+      "source_sha256": "044c8422892c3de4e0ecfc04cdef10ededc04a626335260e6c3d1e71a1f48974",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S3.SS1 3 Methodology / 3.1 Framework Overview; S4.SS4 4 Experiments / 4.4 Results; Sx1 Limitations"
+    },
+    {
+      "id": "arxiv-2602-03224",
+      "title": "TAME: A Trustworthy Test-Time Evolution of Agent Memory with Systematic Benchmarking",
+      "authors": [
+        "Yu Cheng",
+        "Yongkang Hu",
+        "Jiuan Zhou",
+        "Yushuo Zhang",
+        "Yihang Chen",
+        "Huichi Zhou",
+        "Mingang Chen",
+        "Zhizhong Zhang",
+        "Kun Shao",
+        "Yuan Xie",
+        "Zhaoxia Yin"
+      ],
+      "year": 2026,
+      "arxiv_id": "2602.03224v2",
+      "url": "https://arxiv.org/abs/2602.03224v2",
+      "doi": "",
+      "source_sha256": "2e9f2ae0a63b02775152544113ccf5cfb8a18fad1c8154a7e2ad6a9e13aeef4d",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S3.SS2 3 Problem Formulation and the Trust-Memevo Benchmark / 3.2 Trust-Memevo: Benchmark Design and Empirical Observation; Sx1 Limitations"
+    },
+    {
+      "id": "arxiv-2608-10509",
+      "title": "MAP-Graph: Provenance-Aware Shared Memory for Multi-Agent Workflows",
+      "authors": [
+        "Yiqi Wang",
+        "Zihao Yan",
+        "Jiaqi Zhang",
+        "Zhangkai Wu",
+        "Mingkai Zheng",
+        "Zequn Sun",
+        "Yanming Zhu",
+        "Taotao Cai"
+      ],
+      "year": 2026,
+      "arxiv_id": "2608.10509v1",
+      "url": "https://arxiv.org/abs/2608.10509v1",
+      "doi": "",
+      "source_sha256": "824259ada1f4961d7877d5cdcede6cde7607b80370298766dafcf6641ef5d112",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S3.SS2 3 MAP-Graph Framework / 3.2 Memory Construction and Provenance Capture; S4.SS4.SSS0.Px2 4 Experiments / 4.4 Main Results / Safety outcomes.; S4.SS4.SSS0.Px4 4 Experiments / 4.4 Main Results / Scope and limitations."
+    },
+    {
+      "id": "arxiv-2602-03036",
+      "title": "LatentMem: Customizing Latent Memory for Multi-Agent Systems",
+      "authors": [
+        "Muxin Fu",
+        "Xiangyuan Xue",
+        "Yafu Li",
+        "Zefeng He",
+        "Siyuan Huang",
+        "Xiaoye Qu",
+        "Yu Cheng",
+        "Yang Yang"
+      ],
+      "year": 2026,
+      "arxiv_id": "2602.03036v2",
+      "url": "https://arxiv.org/abs/2602.03036v2",
+      "doi": "",
+      "source_sha256": "bcbcfa46fd9521574b6b123614ffa46a3386dd682a8fd27a2acee974ec4d23c0",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S4.SS4 4 Methodology / 4.4 Latent Memory Policy Optimization (LMPO); S5.SS2 5 Experiments / 5.2 Main Results; S3.SS0.SSS0.Px2 3 Preliminary / Problem Formulation."
+    },
+    {
+      "id": "arxiv-2606-00756",
+      "title": "CoMIC: Collaborative Memory and Insights Circulation for Long-Horizon LLM Agents in Web Cloud-Edge Systems",
+      "authors": [
+        "Yannan Wang",
+        "Longli Yang",
+        "Zhen Liu",
+        "Abhishek Kumar",
+        "Carsten Maple"
+      ],
+      "year": 2026,
+      "arxiv_id": "2606.00756v2",
+      "url": "https://arxiv.org/abs/2606.00756v2",
+      "doi": "",
+      "source_sha256": "9110903ec08f023c2eca6c098b02d4f08be8c853b9a8b8dfb76f27d4c33f892f",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S5.SS1.SSS0.Px2 5. Experiments / 5.1. Experimental Setup / Evaluation Tasks.; S5.SS2.SSS0.Px1 5. Experiments / 5.2. Main Results / CoMIC brings weak edge agents from zero to non-zero success and improves their progress.; S6 6. Limitations"
+    },
+    {
+      "id": "arxiv-2609-03619",
+      "title": "Remember and Reweight: Enhancing Multi-Agent Debate with Experience Memory and Confidence Estimation",
+      "authors": [
+        "Xuanfa Jin",
+        "Zhijian Ma",
+        "Yongcheng Zeng",
+        "Xinyu Cui",
+        "Haifeng Zhang",
+        "Jun Wang"
+      ],
+      "year": 2026,
+      "arxiv_id": "2609.03619v1",
+      "url": "https://arxiv.org/abs/2609.03619v1",
+      "doi": "",
+      "source_sha256": "b7fc24877adeda77393879e76a5e3fa373da56b7e7a498624b8db826fbd99673",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S4.SS1 4 R2-MAD Framework / 4.1 Overview; S5.SS2.SSS0.Px3 5 Experiments / 5.2 Results and Analysis / RQ3: Does the debate-state-aware policy drive the gain?; Sx1 Limitations"
+    },
+    {
+      "id": "arxiv-2604-03295",
+      "title": "Scaling Teams or Scaling Time? Memory Enabled Lifelong Learning in LLM Multi-Agent Systems",
+      "authors": [
+        "Shanglin Wu",
+        "Yuyang Luo",
+        "Yueqing Liang",
+        "Kaiwen Shi",
+        "Yanfang Ye",
+        "Ali Payani",
+        "Kai Shu"
+      ],
+      "year": 2026,
+      "arxiv_id": "2604.03295v1",
+      "url": "https://arxiv.org/abs/2604.03295v1",
+      "doi": "",
+      "source_sha256": "e2f4e2cfd7f577c87d791dfe92c5d395665a57a26a7d54102abeb16926c14387",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S3.SS2 3 Method / 3.2 Memory Architecture; S4.SS2 4 Experiments / 4.2 Main Results; S6 6 Limitations"
+    },
+    {
+      "id": "arxiv-2310-08560",
+      "title": "MemGPT: Towards LLMs as Operating Systems",
+      "authors": [
+        "Charles Packer",
+        "Sarah Wooders",
+        "Kevin Lin",
+        "Vivian Fang",
+        "Shishir G. Patil",
+        "Ion Stoica",
+        "Joseph E. Gonzalez"
+      ],
+      "year": 2023,
+      "arxiv_id": "2310.08560v2",
+      "url": "https://arxiv.org/abs/2310.08560v2",
+      "doi": "",
+      "source_sha256": "454a01f499215ee1a7c4de220f41fee6f32869510b2851d88a1004c51ab3e1b2",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S3.SS1.SSS1 3 Experiments / 3.1 MemGPT for conversational agents / 3.1.1 Deep memory retrieval task (consistency).; S3.SS1 3 Experiments / 3.1 MemGPT for conversational agents; S2.SS3 2 MemGPT (MemoryGPT) / 2.3 Function executor (handling of completion tokens)"
+    },
+    {
+      "id": "arxiv-2308-10144",
+      "title": "ExpeL: LLM Agents Are Experiential Learners",
+      "authors": [
+        "Andrew Zhao",
+        "Daniel Huang",
+        "Quentin Xu",
+        "Matthieu Lin",
+        "Yong-Jin Liu",
+        "Gao Huang"
+      ],
+      "year": 2023,
+      "arxiv_id": "2308.10144v3",
+      "url": "https://arxiv.org/abs/2308.10144v3",
+      "doi": "",
+      "source_sha256": "b222d246e1832c08c75d2f1e1fc9643b9af611172d664459a2d8284dc09f0372",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S5.SS1 5 Experiments / 5.1 Experimental Setup; S5.SS2 5 Experiments / 5.2 Main Results; S6.SS0.SSSx1 6 Conclusion and Limitations / Limitations"
+    },
+    {
+      "id": "arxiv-2303-11366",
+      "title": "Reflexion: Language Agents with Verbal Reinforcement Learning",
+      "authors": [
+        "Noah Shinn",
+        "Federico Cassano",
+        "Edward Berman",
+        "Ashwin Gopinath",
+        "Karthik Narasimhan",
+        "Shunyu Yao"
+      ],
+      "year": 2023,
+      "arxiv_id": "2303.11366v4",
+      "url": "https://arxiv.org/abs/2303.11366v4",
+      "doi": "",
+      "source_sha256": "91beae5ab4b95ff2c5aa590d1e899c7098b4ab593e60b3c60b7ca80b340b9ae1",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S4 4 Experiments; S4.SS1.SSS0.Px1 4 Experiments / 4.1 Sequential decision making: ALFWorld / Results; S5 5 Limitations"
+    },
+    {
+      "id": "arxiv-2304-03442",
+      "title": "Generative Agents: Interactive Simulacra of Human Behavior",
+      "authors": [
+        "Joon Sung Park",
+        "Joseph C. O'Brien",
+        "Carrie J. Cai",
+        "Meredith Ringel Morris",
+        "Percy Liang",
+        "Michael S. Bernstein"
+      ],
+      "year": 2023,
+      "arxiv_id": "2304.03442v2",
+      "url": "https://arxiv.org/abs/2304.03442v2",
+      "doi": "",
+      "source_sha256": "1f012b7e4913ed32e6d172a824ce983a752894058fa7386680b0842f8dd02179",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S4.SS1.SSSx2 4. Generative Agent Architecture / 4.1. Memory and Retrieval / Approach:; S6.SS5 6. Controlled Evaluation / 6.5. Results; S8.SS2 8. Discussion / 8.2. Future Work and Limitations"
+    },
+    {
+      "id": "arxiv-2606-21024",
+      "title": "Negative Knowledge as Failure-aware Shared Memory for AutoResearch",
+      "authors": [
+        "Hanchun Wang"
+      ],
+      "year": 2026,
+      "arxiv_id": "2606.21024v1",
+      "url": "https://arxiv.org/abs/2606.21024v1",
+      "doi": "",
+      "source_sha256": "8ac9ca22f402f9adf95e1c5dd1c7569288b4ca7c75ad8fc077d3d8089629d059",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S2 2 Method: Negative Knowledge Memory Layer; S3.SS0.SSS0.Px2 3 Evaluation: Negative-Knowledge Retry / Main result."
+    },
+    {
+      "id": "arxiv-2609-18094",
+      "title": "Agora: Git as Shared Memory for Collective AutoResearch",
+      "authors": [
+        "Yifan Zhang",
+        "Yunheng Zou",
+        "Shaokun Zhang",
+        "Jian Hu",
+        "Hao Zhang",
+        "Binfeng Xu",
+        "Jan Kautz",
+        "Yi Dong"
+      ],
+      "year": 2026,
+      "arxiv_id": "2609.18094v4",
+      "url": "https://arxiv.org/abs/2609.18094v4",
+      "doi": "",
+      "source_sha256": "59406cfeb7d1559f8f8f29a6c3a5709d19a4e5c28171e841635055df52980c07",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S3.SS1 3 Agora: A Git-Backed Research DAG / 3.1 Problem setting and design goals; S4.SS5.SSS0.Px2 4 Experiments / 4.5 Evidence / Negative results.; S3.SS2.SSS0.Px1 3 Agora: A Git-Backed Research DAG / 3.2 Contribution graph and provenance / Contribution vocabulary."
+    },
+    {
+      "id": "arxiv-2601-20352",
+      "title": "AMA: Adaptive Memory via Multi-Agent Collaboration",
+      "authors": [
+        "Weiquan Huang",
+        "Zixuan Wang",
+        "Hehai Lin",
+        "Sudong Wang",
+        "Bo Xu",
+        "Qian Li",
+        "Beier Zhu",
+        "Linyi Yang",
+        "Chengwei Qin"
+      ],
+      "year": 2026,
+      "arxiv_id": "2601.20352v4",
+      "url": "https://arxiv.org/abs/2601.20352v4",
+      "doi": "",
+      "source_sha256": "a7d17d1206b383d26a91de76bed64b36071ae41c9ff587c1281ed441f52e6d1b",
+      "checked_at": "2026-11-22",
+      "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S4.SS1 4 Experiment / 4.1 Experimental Setup; S4.SS2 4 Experiment / 4.2 Main Results; Sx1 Limitations"
     }
   ],
   "cards": [
@@ -2792,6 +3795,1888 @@
           ]
         }
       ]
+    },
+    {
+      "paper_id": "arxiv-2508-04903",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c51",
+          "paper_id": "arxiv-2508-04903",
+          "kind": "source_finding",
+          "text": "RCR-Router отбирает контекст по роли агента; в контролируемом сравнении atomic memory items и правила обработки памяти одинаковы. Это позволяет отличать вклад routing от вклада сжатия памяти.",
+          "conditions": [
+            "Система и benchmark. HotPotQA, ALFWorld и WebShop; разные метрики задач и backbone."
+          ],
+          "limitations": [
+            "Набор задач и конфигурации ролей ограничены; стоимость и качество нужно сравнивать при одинаковом содержимом памяти."
+          ],
+          "evidence": [
+            {
+              "quote": "Memory control. All controlled methods use the same",
+              "url": "https://arxiv.org/html/2508.04903v5#S3.SS3",
+              "locator": "3 The Proposed Method / 3.3 Iterative Routing with Feedback · S3.SS3",
+              "segment_id": "S3.SS3"
+            },
+            {
+              "quote": "Table 1 reports the main results under the",
+              "url": "https://arxiv.org/html/2508.04903v5#S4.SS2",
+              "locator": "4 Experiments / 4.2 Results · S4.SS2",
+              "segment_id": "S4.SS2"
+            },
+            {
+              "quote": "Our evaluation covers multi-hop reasoning on HotPotQA Yang",
+              "url": "https://arxiv.org/html/2508.04903v5#Sx1",
+              "locator": "Limitations · Sx1",
+              "segment_id": "Sx1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2501-13200",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c52",
+          "paper_id": "arxiv-2501-13200",
+          "kind": "source_finding",
+          "text": "SRMT исследует общую рекуррентную память для координации агентов на сетке. Это полезный контраст к внешней базе текстового опыта: состояние в обученной политике и переносимые записи имеют разные механизмы и критерии успеха.",
+          "conditions": [
+            "Система и benchmark · граница темы. Grid-based multi-agent pathfinding в POGEMA; CTDE, memory и planning baselines."
+          ],
+          "limitations": [
+            "Результаты по навигации не доказывают эффективность общей текстовой памяти LLM; reward design влияет на координацию."
+          ],
+          "evidence": [
+            {
+              "quote": "Directional reward may be exemplified with automated baggage",
+              "url": "https://arxiv.org/html/2501.13200v2#A5.SS0.SSS0.Px1",
+              "locator": "Appendix E Evaluation scores / Reward design motivation · A5.SS0.SSS0.Px1",
+              "segment_id": "A5.SS0.SSS0.Px1"
+            },
+            {
+              "quote": "Results are presented in Table 2. Communicative MAMBA",
+              "url": "https://arxiv.org/html/2501.13200v2#S5.SS0.SSS0.Px2",
+              "locator": "5 Experiments and Results / Classical MAPF on Bottlenecks · S5.SS0.SSS0.Px2",
+              "segment_id": "S5.SS0.SSS0.Px2"
+            },
+            {
+              "quote": "We evaluated SRMT using the POGEMA suite and",
+              "url": "https://arxiv.org/html/2501.13200v2#A2",
+              "locator": "Appendix B Limitations · A2",
+              "segment_id": "A2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2508-08997",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c53",
+          "paper_id": "arxiv-2508-08997",
+          "kind": "source_finding",
+          "text": "Intrinsic Memory Agents сохраняют структурированный контекст в специализированных шаблонах. На ALFWorld авторский метод не лидировал по среднему reward, но имел меньшую вариативность, поэтому лучший средний результат и стабильность надо различать.",
+          "conditions": [
+            "Система и benchmark. ALFWorld и задачи структурированного планирования; повторный запуск G-Memory."
+          ],
+          "limitations": [
+            "Нужна более широкая проверка задач и числа агентов; показатели стабильности не заменяют качество решения."
+          ],
+          "evidence": [
+            {
+              "quote": "For numerical benchmarks, we follow the same experimental",
+              "url": "https://arxiv.org/html/2508.08997v2#S4",
+              "locator": "4 Quantitative benchmarks · S4",
+              "segment_id": "S4"
+            },
+            {
+              "quote": "In the ALFWorld benchmark, the Voyager and Generative",
+              "url": "https://arxiv.org/html/2508.08997v2#S4.SS1",
+              "locator": "4 Quantitative benchmarks / 4.1 Benchmarking results · S4.SS1",
+              "segment_id": "S4.SS1"
+            },
+            {
+              "quote": "Although the Intrinsic Memory Agent approach shows improved",
+              "url": "https://arxiv.org/html/2508.08997v2#S6",
+              "locator": "6 Discussion and Limitations · S6",
+              "segment_id": "S6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2507-07957",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c54",
+          "paper_id": "arxiv-2507-07957",
+          "kind": "source_finding",
+          "text": "MIRIX разделяет память на компоненты и поручает управление ими нескольким агентам. В screenshot-задачах извлечённая база заменяет хранение сырых изображений; экономию хранения нельзя сравнивать без учёта потери исходной информации.",
+          "conditions": [
+            "Система и benchmark. Screenshot-based память и долговременная персонализация; сравнение с визуальным и long-context baselines."
+          ],
+          "limitations": [
+            "Хранение извлечённых фактов и сырых изображений даёт разные возможности последующей проверки; общего доказательства приватности это не даёт."
+          ],
+          "evidence": [
+            {
+              "quote": "Core Memory stores high-priority, persistent information that should",
+              "url": "https://arxiv.org/html/2507.07957v1#S3.SS1.SSS0.Px1",
+              "locator": "3 Methodology / 3.1 Memory Components / Core Memory · S3.SS1.SSS0.Px1",
+              "segment_id": "S3.SS1.SSS0.Px1"
+            },
+            {
+              "quote": "The results are summarized in Table 1. As",
+              "url": "https://arxiv.org/html/2507.07957v1#S4.SS2",
+              "locator": "4 Experiments / 4.2 Experimental Results on ScreenshotVQA · S4.SS2",
+              "segment_id": "S4.SS2"
+            },
+            {
+              "quote": "In this work, we introduce MIRIX, a novel",
+              "url": "https://arxiv.org/html/2507.07957v1#S6",
+              "locator": "6 Conclusion and Future Work · S6",
+              "segment_id": "S6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2512-13564",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c55",
+          "paper_id": "arxiv-2512-13564",
+          "kind": "source_finding",
+          "text": "Обзор систематизирует формы, функции и динамику agent memory. Плоская, связанная и иерархическая память имеют разные компромиссы; multi-agent memory и trustworthiness выделены как отдельные проблемы.",
+          "conditions": [
+            "Обзор. Обзор существующих архитектур; сравнение flat, planar и hierarchical memory."
+          ],
+          "limitations": [
+            "Сводная классификация не является независимой проверкой результатов включённых систем; единый рейтинг по ней не обоснован."
+          ],
+          "evidence": [
+            {
+              "quote": "Memory-oriented benchmarks focus primarily on how well an",
+              "url": "https://arxiv.org/html/2512.13564v2#S6.SS1.SSS1",
+              "locator": "6 Resources and Frameworks / 6.1 Benchmarks and Datasets / 6.1.1 Benchmarks for Memory / Lifelong / Self-Evolving Agents · S6.SS1.SSS1",
+              "segment_id": "S6.SS1.SSS1"
+            },
+            {
+              "quote": "The Planar Memory, by effectively establishing links between",
+              "url": "https://arxiv.org/html/2512.13564v2#S3.SS1.SSS2.Px4",
+              "locator": "3 Form: What Carries Memory? / 3.1 Token-level Memory / 3.1.2 Planar Memory (2D) / Discussion · S3.SS1.SSS2.Px4",
+              "segment_id": "S3.SS1.SSS2.Px4"
+            },
+            {
+              "quote": "The primary advantage of Flat Memory is their",
+              "url": "https://arxiv.org/html/2512.13564v2#S3.SS1.SSS1.Px6",
+              "locator": "3 Form: What Carries Memory? / 3.1 Token-level Memory / 3.1.1 Flat Memory (1D) / Discussion · S3.SS1.SSS1.Px6",
+              "segment_id": "S3.SS1.SSS1.Px6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2510-04851",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c56",
+          "paper_id": "arxiv-2510-04851",
+          "kind": "source_finding",
+          "text": "LEGOMem модульно распределяет procedural memory между агентами. В OfficeBench варианты памяти улучшали success rate относительно memory-less teams; наличие train/test-разделения позволяет отдельно обсуждать накопление и применение опыта.",
+          "conditions": [
+            "Система и benchmark. OfficeBench: 148 задач для memory curation и 152 тестовых; LLM, Hybrid и SLM teams."
+          ],
+          "limitations": [
+            "Разделение задач одного benchmark не гарантирует перенос на новые приложения; task-success gain не доказывает изолированного вклада каждого модуля."
+          ],
+          "evidence": [
+            {
+              "quote": "We evaluate the agents on the OfficeBench, which",
+              "url": "https://arxiv.org/html/2510.04851v1#S4.SS1.SSS1",
+              "locator": "4. Experiments / 4.1. Experimental setup / 4.1.1. Dataset and metrics · S4.SS1.SSS1",
+              "segment_id": "S4.SS1.SSS1"
+            },
+            {
+              "quote": "Across all scenarios and agent team configurations, LEGOMem",
+              "url": "https://arxiv.org/html/2510.04851v1#S4.SS2",
+              "locator": "4. Experiments / 4.2. Main results · S4.SS2",
+              "segment_id": "S4.SS2"
+            },
+            {
+              "quote": "While the orchestration loop above defines how agents",
+              "url": "https://arxiv.org/html/2510.04851v1#S3.SS1.SSS2",
+              "locator": "3. LEGOMem: Modular Procedural Memory for Multi-agent LLM Systems / 3.1. Problem formulation / 3.1.2. Multi-agent procedural memory. · S3.SS1.SSS2",
+              "segment_id": "S3.SS1.SSS2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2511-01912",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c57",
+          "paper_id": "arxiv-2511-01912",
+          "kind": "source_finding",
+          "text": "EvoMem разделяет память ограничений и память неудач между Constraint Extractor, Actor и Verifier. Обе памяти сбрасываются после query session: это улучшение планирования внутри запроса, а не доказательство накопленного межзадачного обучения.",
+          "conditions": [
+            "Система и benchmark. NaturalPlan: trip, meeting и calendar planning; CoT, Self-Reflect и PlanGen baselines."
+          ],
+          "limitations": [
+            "Сессионный reset ограничивает вывод о долговременном переносе; рост success rate не подтверждает пользу бесконечного накопления опыта."
+          ],
+          "evidence": [
+            {
+              "quote": "Constraint Extractor Constraints are the rules and limitations",
+              "url": "https://arxiv.org/html/2511.01912v2#S2.SS1",
+              "locator": "2 EvoMem / 2.1 Multi-Agent Design · S2.SS1",
+              "segment_id": "S2.SS1"
+            },
+            {
+              "quote": "We conduct experiments on three datasets in NaturalPlan",
+              "url": "https://arxiv.org/html/2511.01912v2#S3.SS1",
+              "locator": "3 Experiment / 3.1 Main Result · S3.SS1",
+              "segment_id": "S3.SS1"
+            },
+            {
+              "quote": "In this work, we introduced EvoMem, a dual-evolving",
+              "url": "https://arxiv.org/html/2511.01912v2#S4",
+              "locator": "4 Conclusion and Future work · S4",
+              "segment_id": "S4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2512-04668",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c58",
+          "paper_id": "arxiv-2512-04668",
+          "kind": "source_finding",
+          "text": "Плотные топологии в эксперименте с leakage были уязвимее разреженных и иерархических. Положение атакующего и тип данных меняли масштаб утечки; connectivity нельзя считать безусловным улучшением сотрудничества.",
+          "conditions": [
+            "Benchmark безопасности. Синтетические PII, текстовая коммуникация и горизонт десять раундов."
+          ],
+          "limitations": [
+            "Один атакующий и конкретный indirect-information prompt; exact/fuzzy detection и синтетические данные не дают гарантии для реальной приватности."
+          ],
+          "evidence": [
+            {
+              "quote": "We evaluate six distinct topological families: chain, circle,",
+              "url": "https://arxiv.org/html/2512.04668v4#S3.SS3",
+              "locator": "3 Methodology / 3.3 Topological Structures · S3.SS3",
+              "segment_id": "S3.SS3"
+            },
+            {
+              "quote": "Overall, the experiments paint a consistent picture. The",
+              "url": "https://arxiv.org/html/2512.04668v4#S4.SS0.SSS0.Px1",
+              "locator": "4 Experiments / Synthesis of Empirical Findings. · S4.SS0.SSS0.Px1",
+              "segment_id": "S4.SS0.SSS0.Px1"
+            },
+            {
+              "quote": "Our study uses synthetic PII rather than real",
+              "url": "https://arxiv.org/html/2512.04668v4#Sx1",
+              "locator": "Limitations · Sx1",
+              "segment_id": "Sx1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2512-15790",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c59",
+          "paper_id": "arxiv-2512-15790",
+          "kind": "source_finding",
+          "text": "XAMT формулирует covert memory tampering как bilevel-задачу и описывает разные operational assumptions. Раздел experimental protocols содержит предписывающую постановку проверки; её нельзя принимать за независимо подтверждённую универсальность атаки.",
+          "conditions": [
+            "Формальная постановка и протокол. В том числе CTDE/MARL с общими critics и experience buffers; SMAC как предлагаемый стенд."
+          ],
+          "limitations": [
+            "Полностью децентрализованные методы без shared buffers не являются прямой целью этой MARL-модели; обучение весов отличается от poisoning внешних записей."
+          ],
+          "evidence": [
+            {
+              "quote": "We formalize the adversarial scenario underpinning XAMT through",
+              "url": "https://arxiv.org/html/2512.15790v1#S2",
+              "locator": "II Formal Threat Model and Assumptions · S2",
+              "segment_id": "S2"
+            },
+            {
+              "quote": "The evaluation environment must capture the complexity of",
+              "url": "https://arxiv.org/html/2512.15790v1#S6.SS1.SSS1",
+              "locator": "VI Experimental Protocols and Evaluation / VI-A MARL Evaluation: XAMT-RL on Cooperative Domains / VI-A1 Environment and Victim Selection · S6.SS1.SSS1",
+              "segment_id": "S6.SS1.SSS1"
+            },
+            {
+              "quote": "MARL: Limited to CTDE algorithms with centralized critics",
+              "url": "https://arxiv.org/html/2512.15790v1#S2.SS3.SSS2",
+              "locator": "II Formal Threat Model and Assumptions / II-C System Scope and Limitations / II-C2 Architectural Scope · S2.SS3.SSS2",
+              "segment_id": "S2.SS3.SSS2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2511-10030",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c60",
+          "paper_id": "arxiv-2511-10030",
+          "kind": "source_finding",
+          "text": "MAICC после предварительного обучения адаптирует команды к новым задачам через decentralized memory retrieval без обновления параметров во время адаптации. Это отделяет in-context адаптацию политики от обычного дообучения.",
+          "conditions": [
+            "Система и benchmark · граница темы. Cooperative MARL: Level-Based Foraging и SMAC v1/v2; шесть тестовых сценариев."
+          ],
+          "limitations": [
+            "Предобучение остаётся обязательным, а memory не является универсальной текстовой базой LLM; перенос ограничен задачами из исследуемого распределения."
+          ],
+          "evidence": [
+            {
+              "quote": "After pretraining the embedding and decision models, a",
+              "url": "https://arxiv.org/html/2511.10030v1#S4.SS3",
+              "locator": "4 Method / 4.3 Decentralized In-Context Fast Coordination · S4.SS3",
+              "segment_id": "S4.SS3"
+            },
+            {
+              "quote": "We first evaluate the in-context adaptation performance of",
+              "url": "https://arxiv.org/html/2511.10030v1#S5.SS2",
+              "locator": "5 Experiments / 5.2 Main Results · S5.SS2",
+              "segment_id": "S5.SS2"
+            },
+            {
+              "quote": "In this paper, we address rapid cooperative adaptation",
+              "url": "https://arxiv.org/html/2511.10030v1#S6",
+              "locator": "6 Conclusion and Discussion · S6",
+              "segment_id": "S6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2509-09498",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c61",
+          "paper_id": "arxiv-2509-09498",
+          "kind": "source_finding",
+          "text": "SEDM показывает, почему память следует применять избирательно: indiscriminate injection может вредить, а gate — восстанавливать пользу. На LoCoMo преимущества различаются по типу вопросов; единого лидерства по всем типам нет.",
+          "conditions": [
+            "Система и benchmark. HotpotQA и LoCoMo, один agent model и gate backbone."
+          ],
+          "limitations": [
+            "Society-setting ограничен; G-Memory входит в retrieval-основу, поэтому сравнения нужно читать с учётом общей архитектуры."
+          ],
+          "evidence": [
+            {
+              "quote": "Each task run is packaged as a Self-Contained",
+              "url": "https://arxiv.org/html/2509.09498v4#S3.SS2.SSS0.Px1",
+              "locator": "3 Methodology / 3.2 SCEC-based Verifiable Write Admission / Self-contained packaging and replay. · S3.SS2.SSS0.Px1",
+              "segment_id": "S3.SS2.SSS0.Px1"
+            },
+            {
+              "quote": "SEDM gives the best open-domain F1 (47.5), 15.1",
+              "url": "https://arxiv.org/html/2509.09498v4#S4.SS2",
+              "locator": "4 Experiments / 4.2 Main Results on LoCoMo · S4.SS2",
+              "segment_id": "S4.SS2"
+            },
+            {
+              "quote": "We evaluate selective memory use on two datasets",
+              "url": "https://arxiv.org/html/2509.09498v4#Sx1.SS0.SSS0.Px1",
+              "locator": "Limitations / Scope. · Sx1.SS0.SSS0.Px1",
+              "segment_id": "Sx1.SS0.SSS0.Px1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2409-07429",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c62",
+          "paper_id": "arxiv-2409-07429",
+          "kind": "source_finding",
+          "text": "Agent Workflow Memory извлекает повторно используемые workflows из прошлых траекторий. Offline и online накопление опыта — разные режимы; website-based коллекции ограничивают область доступных подсказок.",
+          "conditions": [
+            "Система и benchmark. Mind2Web и WebArena; cross-task, website и domain evaluation."
+          ],
+          "limitations": [
+            "Online-память меняется по мере тестирования, поэтому её нельзя приравнивать к замороженному train/test-корпусу; группировка по сайтам влияет на перенос."
+          ],
+          "evidence": [
+            {
+              "quote": "When tested in-domain, AWMonline and AWMoffline perform comparably",
+              "url": "https://arxiv.org/html/2409.07429v1#S3.SS2.SSS2.Px1",
+              "locator": "3 Experiments / 3.2 Mind2Web / 3.2.2 Online AWM Enables Generalization / In-domain, cross-task scenario · S3.SS2.SSS2.Px1",
+              "segment_id": "S3.SS2.SSS2.Px1"
+            },
+            {
+              "quote": "As shown in Table 1, our AWM achieves",
+              "url": "https://arxiv.org/html/2409.07429v1#S3.SS1.SSS1",
+              "locator": "3 Experiments / 3.1 WebArena / 3.1.1 Main results · S3.SS1.SSS1",
+              "segment_id": "S3.SS1.SSS1"
+            },
+            {
+              "quote": "For both benchmarks, we conduct AWM on a",
+              "url": "https://arxiv.org/html/2409.07429v1#S3",
+              "locator": "3 Experiments · S3",
+              "segment_id": "S3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2512-10166",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c63",
+          "paper_id": "arxiv-2512-10166",
+          "kind": "source_finding",
+          "text": "В симуляции коллективная память может возникать через следы в среде, а не общий текстовый store. Результаты зависят от плотности и размера сетки; повреждение следов снижало качество даже при частичной устойчивости.",
+          "conditions": [
+            "Симуляционное исследование · граница темы. Повторные grid-world симуляции с разными seeds и плотностью агентов."
+          ],
+          "limitations": [
+            "Небольшие сетки ведут себя иначе; simulation crossover и composite metrics не устанавливают эффективность памяти языковых агентов."
+          ],
+          "evidence": [
+            {
+              "quote": "Each configuration was tested over 50 independent runs",
+              "url": "https://arxiv.org/html/2512.10166v1#S5.SS4",
+              "locator": "5 Experimental Design and Validation / 5.4 Validation Protocol · S5.SS4",
+              "segment_id": "S5.SS4"
+            },
+            {
+              "quote": "We further gauged the system’s robustness to information",
+              "url": "https://arxiv.org/html/2512.10166v1#S6.SS2",
+              "locator": "6 Results / 6.2 Robustness Tests · S6.SS2",
+              "segment_id": "S6.SS2"
+            },
+            {
+              "quote": "Spatial scale constraints: Phase transition validation successfully confirmed",
+              "url": "https://arxiv.org/html/2512.10166v1#S7.SS4",
+              "locator": "7 Discussion / 7.4 Study Limitations and Future Work · S7.SS4",
+              "segment_id": "S7.SS4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2502-12110",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c64",
+          "paper_id": "arxiv-2502-12110",
+          "kind": "source_finding",
+          "text": "A-MEM создаёт связанные атомарные заметки по принципу Zettelkasten и меняет связи при поступлении опыта. Сравнения по LoCoMo различаются между моделями и типами вопросов; единое утверждение о превосходстве памяти скрывает эти различия.",
+          "conditions": [
+            "Система и benchmark · базовый механизм. LoCoMo, шесть foundation models и memory baselines."
+          ],
+          "limitations": [
+            "Качество организации зависит от возможностей самой LLM; single-agent memory не устанавливает безопасность совместного доступа нескольких пользователей."
+          ],
+          "evidence": [
+            {
+              "quote": "Our proposed agentic memory system draws inspiration from",
+              "url": "https://arxiv.org/html/2502.12110v11#S3",
+              "locator": "3 Methodolodgy · S3",
+              "segment_id": "S3"
+            },
+            {
+              "quote": "Performance Analysis. In our empirical evaluation, we compared",
+              "url": "https://arxiv.org/html/2502.12110v11#S4.SS3",
+              "locator": "4 Experiment / 4.3 Empricial Results · S4.SS3",
+              "segment_id": "S4.SS3"
+            },
+            {
+              "quote": "While our agentic memory system achieves promising results,",
+              "url": "https://arxiv.org/html/2502.12110v11#S6",
+              "locator": "6 Limitations · S6",
+              "segment_id": "S6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2506-19846",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c65",
+          "paper_id": "arxiv-2506-19846",
+          "kind": "source_finding",
+          "text": "HiMA-Ecom соединяет benchmark и обучение иерархической команды с reward-driven memory. Планирование, действия и конечные ответы оцениваются раздельно; вклад memory надо отличать от SFT, reasoning process и RL команды.",
+          "conditions": [
+            "Benchmark и обучение команд. E-commerce benchmark с in-domain и out-of-domain проверками."
+          ],
+          "limitations": [
+            "Один вертикальный домен, небольшие/средние модели и короткие траектории; накопленные prompt tokens не равны полной фактической стоимости."
+          ],
+          "evidence": [
+            {
+              "quote": "HiMA-Ecom is a hierarchical multi-agent benchmark for training",
+              "url": "https://arxiv.org/html/2506.19846v3#S3",
+              "locator": "3 The HiMA-Ecom Benchmark · S3",
+              "segment_id": "S3"
+            },
+            {
+              "quote": "Table 10 shows consistent results across in-domain and",
+              "url": "https://arxiv.org/html/2506.19846v3#A1.SS6.SSS0.Px2",
+              "locator": "Appendix A Appendix / A.6 Additional comparative results / Comparative results on the ToolBench dataset. · A1.SS6.SSS0.Px2",
+              "segment_id": "A1.SS6.SSS0.Px2"
+            },
+            {
+              "quote": "Scale and scope. This study covers small to",
+              "url": "https://arxiv.org/html/2506.19846v3#S6",
+              "locator": "6 Conclusion and Limitations · S6",
+              "segment_id": "S6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2506-17338",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c66",
+          "paper_id": "arxiv-2506-17338",
+          "kind": "source_finding",
+          "text": "Co-Forgetting Protocol сочетает semantic voting и PBFT для согласованного удаления памяти. Memory footprint, согласие о pruning и сохранение полезной информации — разные критерии, которые нельзя заменять одним consensus success rate.",
+          "conditions": [
+            "Протокол и авторская оценка. Оценка retention, forgetting decisions и memory access в модельном MAS."
+          ],
+          "limitations": [
+            "Согласованное удаление не доказывает истинность решения; заявленные свойства зависят от модели атак и используемой разметки."
+          ],
+          "evidence": [
+            {
+              "quote": "The Co-Forgetting Protocol is engineered to establish a",
+              "url": "https://arxiv.org/html/2506.17338v2#S3",
+              "locator": "III Methodology · S3",
+              "segment_id": "S3"
+            },
+            {
+              "quote": "Memory Footprint: This metric measures the total number",
+              "url": "https://arxiv.org/html/2506.17338v2#S5.SS1",
+              "locator": "V Evaluation and Results / V-A Evaluation Metrics · S5.SS1",
+              "segment_id": "S5.SS1"
+            },
+            {
+              "quote": "The empirical results presented in the previous section",
+              "url": "https://arxiv.org/html/2506.17338v2#S6",
+              "locator": "VI Discussion · S6",
+              "segment_id": "S6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2507-06229",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c67",
+          "paper_id": "arxiv-2507-06229",
+          "kind": "source_finding",
+          "text": "Agent KB извлекает обобщённый опыт для разных agent stacks и доменов. Hybrid retrieval и feedback stages рассматриваются отдельно, что помогает исследовать, какой именно компонент переносится между агентами.",
+          "conditions": [
+            "Система и benchmark. GAIA и software-engineering suites, разные model families и agent frameworks."
+          ],
+          "limitations": [
+            "Нужно сопоставлять одинаковые backbone и число попыток; pass@3 не является pass@1, а corpus provenance важен для оценки переноса."
+          ],
+          "evidence": [
+            {
+              "quote": "Dataset We benchmark Agent KB on four suites",
+              "url": "https://arxiv.org/html/2507.06229v5#S4.SS1",
+              "locator": "4 Experiment / 4.1 Setup · S4.SS1",
+              "segment_id": "S4.SS1"
+            },
+            {
+              "quote": "Table 1 shows that Agent KB delivers consistent",
+              "url": "https://arxiv.org/html/2507.06229v5#S4.SS2",
+              "locator": "4 Experiment / 4.2 Main Results · S4.SS2",
+              "segment_id": "S4.SS2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2506-06326",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c68",
+          "paper_id": "arxiv-2506-06326",
+          "kind": "source_finding",
+          "text": "MemoryOS использует иерархическое хранение и управление conversational memory. В авторских сравнениях одного decay-механизма было недостаточно; содержание записи и способ извлечения дают дополнительные различия.",
+          "conditions": [
+            "Система и benchmark · базовый механизм. LoCoMo и GVD с виртуальными пользователями."
+          ],
+          "limitations": [
+            "Долговременная персонализация одной беседы не равна sharing между пользователями; эффективность иерархии не доказывает корректность прав доступа."
+          ],
+          "evidence": [
+            {
+              "quote": "We conduct our experiments on GVD Zhong et",
+              "url": "https://arxiv.org/html/2506.06326v1#S4.SS1.SSS0.Px1",
+              "locator": "4 Experiments / 4.1 Experimental Settings / Datasets. · S4.SS1.SSS0.Px1",
+              "segment_id": "S4.SS1.SSS0.Px1"
+            },
+            {
+              "quote": "(1) Among all memory methods, MemoryBank performs the",
+              "url": "https://arxiv.org/html/2506.06326v1#S4.SS2",
+              "locator": "4 Experiments / 4.2 Main Results · S4.SS2",
+              "segment_id": "S4.SS2"
+            },
+            {
+              "quote": "Inspired by memory management mechanisms in operating systems,",
+              "url": "https://arxiv.org/html/2506.06326v1#S5",
+              "locator": "5 Conclusion · S5",
+              "segment_id": "S5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2508-06433",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c69",
+          "paper_id": "arxiv-2508-06433",
+          "kind": "source_finding",
+          "text": "MemP систематизирует construction, retrieval и update procedural memory. Авторы отдельно рассматривают перенос процедур от более сильной модели к более слабой: это проверяемая форма обмена опытом, отличная от обучения весов.",
+          "conditions": [
+            "Система и benchmark. TravelPlanner и ALFWorld, построение и повторное использование процедур."
+          ],
+          "limitations": [
+            "Retrieval ограничен vector similarity с ручными ключами; качество памяти зависит от исходных траекторий и не гарантировано вне сходных задач."
+          ],
+          "evidence": [
+            {
+              "quote": "For our experiments, we adapt TravelPlanner (Xie et",
+              "url": "https://arxiv.org/html/2508.06433v4#S4.SS1.SSS0.Px1",
+              "locator": "4 Experiment / 4.1 Experimental Settings / Datasets. · S4.SS1.SSS0.Px1",
+              "segment_id": "S4.SS1.SSS0.Px1"
+            },
+            {
+              "quote": "We introduce M​e​mpMem^{p}, a task-agnostic framework that elevates",
+              "url": "https://arxiv.org/html/2508.06433v4#S6",
+              "locator": "6 Conclusion and Future Work · S6",
+              "segment_id": "S6"
+            },
+            {
+              "quote": "M​e​mpMem^{p} is still constrained by two key limitations:",
+              "url": "https://arxiv.org/html/2508.06433v4#Sx1",
+              "locator": "Limitations · Sx1",
+              "segment_id": "Sx1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2308-01542",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c70",
+          "paper_id": "arxiv-2308-01542",
+          "kind": "source_finding",
+          "text": "Memory Sandbox делает память видимым редактируемым объектом: её можно просматривать, суммировать, менять и переносить между разговорами. Это ранний UI-подход к контролю контекста пользователем.",
+          "conditions": [
+            "Архитектурный и интерфейсный прототип. Общий для пользователя и агента view памяти текущего разговора."
+          ],
+          "limitations": [
+            "System overview и discussion не дают сравнительного доказательства точности или приватности; возможности интерфейса нужно проверять отдельным user study."
+          ],
+          "evidence": [
+            {
+              "quote": "Memory sandbox is a system that provides users",
+              "url": "https://arxiv.org/html/2308.01542v1#S2",
+              "locator": "2. System Overview · S2",
+              "segment_id": "S2"
+            },
+            {
+              "quote": "Conversing is a collaborative activity where participants develop",
+              "url": "https://arxiv.org/html/2308.01542v1#S3",
+              "locator": "3. Discussion · S3",
+              "segment_id": "S3"
+            },
+            {
+              "quote": "Tools are beginning to emerge that focus on",
+              "url": "https://arxiv.org/html/2308.01542v1#S3",
+              "locator": "3. Discussion · S3",
+              "segment_id": "S3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2508-03341",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c71",
+          "paper_id": "arxiv-2508-03341",
+          "kind": "source_finding",
+          "text": "NEMORI отбирает и дистиллирует информацию по свойствам последовательности взаимодействий. В ablation prediction-error distillation отличается от прямой дистилляции знаний; запись полезного опыта и его последующее извлечение — отдельные задачи.",
+          "conditions": [
+            "Система и benchmark. LoCoMo и LongMemEvalS, temporal и другие категории вопросов."
+          ],
+          "limitations": [
+            "Management и retrieval намеренно просты и могут стать bottleneck; результат distillation не подтверждает готовый governance для общей памяти."
+          ],
+          "evidence": [
+            {
+              "quote": "We evaluate Nemori on two distinct benchmarks. LoCoMo",
+              "url": "https://arxiv.org/html/2508.03341v4#S4.SS1.SSS0.Px1",
+              "locator": "4 Experiments / 4.1 Experimental Setup / Datasets. · S4.SS1.SSS0.Px1",
+              "segment_id": "S4.SS1.SSS0.Px1"
+            },
+            {
+              "quote": "Finer-grained results of Section 4.4. Prediction-error-based distillation consistently",
+              "url": "https://arxiv.org/html/2508.03341v4#A3.SS0.SSS0.Px2",
+              "locator": "Appendix C Additional Experiment Results / Ablation Study (Table 10). · A3.SS0.SSS0.Px2",
+              "segment_id": "A3.SS0.SSS0.Px2"
+            },
+            {
+              "quote": "We acknowledge two limitations. First, Nemori focuses on",
+              "url": "https://arxiv.org/html/2508.03341v4#Sx1",
+              "locator": "Limitations · Sx1",
+              "segment_id": "Sx1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2508-11733",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c72",
+          "paper_id": "arxiv-2508-11733",
+          "kind": "source_finding",
+          "text": "SafeSieve использует накопленный опыт для progressive pruning коммуникаций. Сравнение pre-design и post-pruning подходов важно для разделения качества команды и цены обмена, а robustness оценивается в заданных атаках.",
+          "conditions": [
+            "Система и benchmark. Однородные и неоднородные команды, основные и меньшие backbone."
+          ],
+          "limitations": [
+            "Лидерство в авторской таблице относится к выбранным задачам и baseline; оно не является универсальной оптимальностью и не заменяет threat-model-specific проверку."
+          ],
+          "evidence": [
+            {
+              "quote": "In our main experiments, we adopt Deepseek-V3 (671B)",
+              "url": "https://arxiv.org/html/2508.11733v3#Sx4.SSx1.SSS0.Px1",
+              "locator": "Experiments / Experiment Setup / Models & Benchmarks. · Sx4.SSx1.SSS0.Px1",
+              "segment_id": "Sx4.SSx1.SSS0.Px1"
+            },
+            {
+              "quote": "Multi-agent collaboration demonstrates significant performance improvements, with SafeSieve",
+              "url": "https://arxiv.org/html/2508.11733v3#Sx4.SSx2.SSS0.Px1",
+              "locator": "Experiments / Main Results / Takeaway 1: Carefully designed communication graphs outperform single-agent methods, with post-pruning paradigms comprehensively surpassing pre-design approaches. · Sx4.SSx2.SSS0.Px1",
+              "segment_id": "Sx4.SSx2.SSS0.Px1"
+            },
+            {
+              "quote": "Throughout SafeSieve, we use ε>0\\varepsilon>0 as a small",
+              "url": "https://arxiv.org/html/2508.11733v3#Sx3.SSx2.SSS0.Px1",
+              "locator": "SafeSieve: Integrated Pruning Strategy / Progressive Pruning with Historical Feedback / Historical Complementarity. · Sx3.SSx2.SSS0.Px1",
+              "segment_id": "Sx3.SSx2.SSS0.Px1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2506-22815",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c73",
+          "paper_id": "arxiv-2506-22815",
+          "kind": "source_finding",
+          "text": "MaaS рассматривает выдачу памяти как purpose-bound mediation. На MAGPIE contextual-integrity prompting снижал утечку, но оставлял заметную остаточную утечку: prompt с правилами не заменяет enforceable gate.",
+          "conditions": [
+            "Концептуальная архитектура и диагностическое исследование. MAGPIE: cooperative scenarios с shareable и private items."
+          ],
+          "limitations": [
+            "Диагностический prompt-only стенд не доказывает безопасность полноценного сервиса; генерация безопасной абстракции требует отдельной проверки."
+          ],
+          "evidence": [
+            {
+              "quote": "We use MAGPIE (Juneja et al., 2025), a",
+              "url": "https://arxiv.org/html/2506.22815v2#S4.SS1",
+              "locator": "4. Empirical Grounding: Diagnostic Stress Tests / 4.1. Dataset and framing · S4.SS1",
+              "segment_id": "S4.SS1"
+            },
+            {
+              "quote": "Results. ContextualIntegrity reduces leakage by 21.8 percentage points",
+              "url": "https://arxiv.org/html/2506.22815v2#S4.SS3",
+              "locator": "4. Empirical Grounding: Diagnostic Stress Tests / 4.3. Stress test 2: natural-language prompts as governance · S4.SS3",
+              "segment_id": "S4.SS3"
+            },
+            {
+              "quote": "The second problem is abstraction. Many cooperative requests",
+              "url": "https://arxiv.org/html/2506.22815v2#S5",
+              "locator": "5. Discussion · S5",
+              "segment_id": "S5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2511-03506",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c74",
+          "paper_id": "arxiv-2511-03506",
+          "kind": "source_finding",
+          "text": "HaluMem разделяет ошибки extraction, updating и downstream QA. На длинных последовательностях модели памяти ведут себя по-разному; меньше извлечённых записей не обязательно означает лучшее подавление галлюцинаций.",
+          "conditions": [
+            "Benchmark. HaluMem-Medium/Long, системы с разной организацией памяти."
+          ],
+          "limitations": [
+            "Виртуальные persona и контролируемая генерация ограничивают реалистичность; качество конструктора и evaluators нужно учитывать отдельно."
+          ],
+          "evidence": [
+            {
+              "quote": "To systematically evaluate memory systems in realistic scenarios,",
+              "url": "https://arxiv.org/html/2511.03506v3#S4",
+              "locator": "4 Methodology for Constructing HaluMem · S4",
+              "segment_id": "S4"
+            },
+            {
+              "quote": "Overall, most memory systems perform worse on HaluMem-Long",
+              "url": "https://arxiv.org/html/2511.03506v3#S6.SS2.SSS1",
+              "locator": "6 Experiments / 6.2 Experimental Results / 6.2.1 Overall Evaluation on HaluMem · S6.SS2.SSS1",
+              "segment_id": "S6.SS2.SSS1"
+            },
+            {
+              "quote": "Stage 1: Persona Construction. This stage initiates the",
+              "url": "https://arxiv.org/html/2511.03506v3#S4",
+              "locator": "4 Methodology for Constructing HaluMem · S4",
+              "segment_id": "S4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2511-21730",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c75",
+          "paper_id": "arxiv-2511-21730",
+          "kind": "source_finding",
+          "text": "Procedural-memory retrieval надо проверять на новых процедурах при контроле покрытия корпуса. Coverage-balanced дизайн отделяет нехватку подходящего опыта от неспособности encoder распознать полезную процедуру.",
+          "conditions": [
+            "Диагностический benchmark. 40 coverage-balanced запросов, corpus из 336 траекторий, выбранные embedding variants."
+          ],
+          "limitations": [
+            "LLM-based relevance judgments дороги и ограничивают охват; низкая согласованность с человеческой разметкой усложняет интерпретацию ceiling."
+          ],
+          "evidence": [
+            {
+              "quote": "Query Bank Composition: The final benchmark uses all",
+              "url": "https://arxiv.org/html/2511.21730v1#S3.SS4.SSS2",
+              "locator": "3 Methodology / 3.4 Evaluation Framework / 3.4.2 Coverage-Balanced Benchmark Development · S3.SS4.SSS2",
+              "segment_id": "S3.SS4.SSS2"
+            },
+            {
+              "quote": "Transition. While the exploratory analysis uncovers broad generalization",
+              "url": "https://arxiv.org/html/2511.21730v1#S4.SS1",
+              "locator": "4 Experimental Results / 4.1 Exploratory Analysis: Cross-Context Performance Divergence · S4.SS1",
+              "segment_id": "S4.SS1"
+            },
+            {
+              "quote": "Several limitations should be noted. LLM-as-judge evaluation incurs",
+              "url": "https://arxiv.org/html/2511.21730v1#S5.SS5",
+              "locator": "5 Discussion / 5.5 Limitations · S5.SS5",
+              "segment_id": "S5.SS5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2502-13172",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c76",
+          "paper_id": "arxiv-2502-13172",
+          "kind": "source_finding",
+          "text": "MEXTRA исследует extraction приватной памяти через ответы агента. Доступ к retrieval-подсказкам и knowledge assumptions атакующего влияют на риск; доступность памяти агенту не означает допустимость её раскрытия пользователю.",
+          "conditions": [
+            "Benchmark безопасности · базовый механизм. Репрезентативные single-agent системы, включая RAP и EHRAgent."
+          ],
+          "limitations": [
+            "Авторы явно ограничивают проверку single-agent setup; распространение результата на общую multi-agent память требует отдельного испытания."
+          ],
+          "evidence": [
+            {
+              "quote": "Under the level of advanced knowledge, the diversity",
+              "url": "https://arxiv.org/html/2502.13172v2#S3.SS2",
+              "locator": "3 Paradigm of Attack Design / 3.2 Automated Diverse Prompts Generation · S3.SS2",
+              "segment_id": "S3.SS2"
+            },
+            {
+              "quote": "According to Table 1, all baselines perform consistently",
+              "url": "https://arxiv.org/html/2502.13172v2#S4.SS2.SSS0.Px1",
+              "locator": "4 RQ1: LLM Agent Memory Extraction / 4.2 Attacking Results / The attacking prompt design and automated generation instruction are essential for revealing privacy risk. · S4.SS2.SSS0.Px1",
+              "segment_id": "S4.SS2.SSS0.Px1"
+            },
+            {
+              "quote": "Our memory extraction attack has only been evaluated",
+              "url": "https://arxiv.org/html/2502.13172v2#Sx1",
+              "locator": "Limitation · Sx1",
+              "segment_id": "Sx1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2511-20857",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c77",
+          "paper_id": "arxiv-2511-20857",
+          "kind": "source_finding",
+          "text": "Evo-Memory оценивает test-time learning из меняющегося опыта и сравнивает retrieval с evolving-memory systems. ReMem связывает reasoning, действия и memory refinement; состояние памяти и порядок задач важны для воспроизводимости.",
+          "conditions": [
+            "Benchmark и система. Single/multi-turn reasoning, QA и tool-use при разных backbone."
+          ],
+          "limitations": [
+            "Ограниченный набор моделей из-за бюджета/API; успех адаптивной системы не равен результату замороженного независимого корпуса."
+          ],
+          "evidence": [
+            {
+              "quote": "We benchmark a broad range of agents and",
+              "url": "https://arxiv.org/html/2511.20857v2#S4.SS1.SSS2",
+              "locator": "4 Experiments / 4.1 Experimental Setup / 4.1.2 Methods · S4.SS1.SSS2",
+              "segment_id": "S4.SS1.SSS2"
+            },
+            {
+              "quote": "Tables 1 and 1 summarize the results across",
+              "url": "https://arxiv.org/html/2511.20857v2#S4.SS2.SSS1",
+              "locator": "4 Experiments / 4.2 Experimental Results / 4.2.1 Analysis of Results (RQ1) · S4.SS2.SSS1",
+              "segment_id": "S4.SS2.SSS1"
+            },
+            {
+              "quote": "While Evo-Memory offers a comprehensive evaluation of self-evolving",
+              "url": "https://arxiv.org/html/2511.20857v2#A9",
+              "locator": "Appendix I Limitations · A9",
+              "segment_id": "A9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2505-16067",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c78",
+          "paper_id": "arxiv-2505-16067",
+          "kind": "source_finding",
+          "text": "Исследование experience-following проверяет, как качество сохранённого опыта связано с последующими действиями. Addition и deletion сравниваются при смене распределения задач: история применения записи может служить обратной связью для управления памятью.",
+          "conditions": [
+            "Эмпирическое исследование. EHRAgent и AgentDriver, сценарии с distribution shift и без него."
+          ],
+          "limitations": [
+            "Изучены только добавление и удаление; выводы не покрывают весь цикл редактирования, консолидации и sharing."
+          ],
+          "evidence": [
+            {
+              "quote": "2) History-Based Deletion: Following the previous discussion on",
+              "url": "https://arxiv.org/html/2505.16067v2#S4.SS1",
+              "locator": "4 Deletion of Memory / 4.1 Setup for Memory Deletion Experiments · S4.SS1",
+              "segment_id": "S4.SS1"
+            },
+            {
+              "quote": "In Figure 7, we compare performance trends across",
+              "url": "https://arxiv.org/html/2505.16067v2#S5.SS1.SSS0.Px1",
+              "locator": "5 Memory Management under Challenging Scenarios / 5.1 Memory Management with Task distribution shift / Results · S5.SS1.SSS0.Px1",
+              "segment_id": "S5.SS1.SSS0.Px1"
+            },
+            {
+              "quote": "One limitation of this work lies in the",
+              "url": "https://arxiv.org/html/2505.16067v2#Sx1",
+              "locator": "Limitations · Sx1",
+              "segment_id": "Sx1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2605-04264",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c79",
+          "paper_id": "arxiv-2605-04264",
+          "kind": "source_finding",
+          "text": "Governed Collaborative Memory предлагает рассматривать отбор записей как selection regime. Provenance, причины принятия/отклонения, исправление ошибок и сохранение ролей становятся отдельными требованиями к памяти.",
+          "conditions": [
+            "Концептуальная работа. Анализ candidate variants, retention и governance-as-learning."
+          ],
+          "limitations": [
+            "Метафора artificial selection и требования к системе не являются benchmark-доказательством её эффективности."
+          ],
+          "evidence": [
+            {
+              "quote": "A selection regime is the policy, mechanism, or",
+              "url": "https://arxiv.org/pdf/2605.04264v1#page=3",
+              "locator": "PDF, стр. 3",
+              "segment_id": "page.3"
+            },
+            {
+              "quote": "Multi-agent systems increasingly include language-model-based agents that act",
+              "url": "https://arxiv.org/pdf/2605.04264v1#page=2",
+              "locator": "PDF, стр. 2",
+              "segment_id": "page.2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2606-14445",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c80",
+          "paper_id": "arxiv-2606-14445",
+          "kind": "source_finding",
+          "text": "tap сохраняет сообщения как файлы с метаданными и отдельно организует уведомления. Persistence, delivery и coordination — разные слои; применение протокола для собственной разработки даёт operational evidence, а не контролируемый тест роста качества команды.",
+          "conditions": [
+            "Протокол и эксплуатационный отчёт. Небольшая группа неоднородных агентов в одном repository/Git workflow."
+          ],
+          "limitations": [
+            "Локальный filesystem-сценарий не равен межорганизационной системе; self-applied experience не изолирует причинный вклад протокола."
+          ],
+          "evidence": [
+            {
+              "quote": "File messages. When an agent calls tap_reply, a",
+              "url": "https://arxiv.org/html/2606.14445v1#S3",
+              "locator": "3 tap Architecture · S3",
+              "segment_id": "S3"
+            },
+            {
+              "quote": "Self-applied operation. tap was used to coordinate the",
+              "url": "https://arxiv.org/html/2606.14445v1#S4",
+              "locator": "4 Operational Results · S4",
+              "segment_id": "S4"
+            },
+            {
+              "quote": "Unlike A2A’s [7] HTTP-based inter-organization integration, tap is",
+              "url": "https://arxiv.org/html/2606.14445v1#S5",
+              "locator": "5 Discussion · S5",
+              "segment_id": "S5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2609-15054",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c81",
+          "paper_id": "arxiv-2609-15054",
+          "kind": "source_finding",
+          "text": "BusMA разделяет private reasoning и публичную информацию на нескольких уровнях гранулярности. Дополнительная коммуникация не устраняет ограничения perception: авторы отмечают более скромные улучшения при сильном visual backbone.",
+          "conditions": [
+            "Система и benchmark. 13 visual, mathematical и knowledge-retrieval задач, два LLM backbone."
+          ],
+          "limitations": [
+            "Визуальный bottleneck может давать малые выигрыши или регрессии; взаимодействие не улучшает базовую способность модели автоматически."
+          ],
+          "evidence": [
+            {
+              "quote": "We propose a new method to organize information",
+              "url": "https://arxiv.org/html/2609.15054v2#S3.SS4",
+              "locator": "3 The BusMA Framework / 3.4 Overall Information Flow in BusMA · S3.SS4",
+              "segment_id": "S3.SS4"
+            },
+            {
+              "quote": "In visual reasoning (AlgoPuzzleVQA, Hallusion-VD, PuzzleVQA, and VQA",
+              "url": "https://arxiv.org/html/2609.15054v2#S5.SS1",
+              "locator": "5 Results / 5.1 Diversity Benchmarks · S5.SS1",
+              "segment_id": "S5.SS1"
+            },
+            {
+              "quote": "BusMA improves collaboration through interaction but does not",
+              "url": "https://arxiv.org/html/2609.15054v2#Sx1",
+              "locator": "Limitations · Sx1",
+              "segment_id": "Sx1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2606-00610",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c82",
+          "paper_id": "arxiv-2606-00610",
+          "kind": "source_finding",
+          "text": "MemGraphRAG использует memory-based multi-agent процесс для согласованного построения knowledge graph и иерархического retrieval. Качество извлечения и качество конечного QA оцениваются отдельно.",
+          "conditions": [
+            "Система и benchmark. Текстовые QA/GraphRAG benchmarks, string-based и LLM-based accuracy."
+          ],
+          "limitations": [
+            "Только текстовые входы; substring accuracy и LLM-as-judge имеют разные ограничения и не должны смешиваться с истинностью графа."
+          ],
+          "evidence": [
+            {
+              "quote": "To overcome fragmented extraction and enable coherent graph",
+              "url": "https://arxiv.org/html/2606.00610v1#S4",
+              "locator": "4. Our Framework · S4",
+              "segment_id": "S4"
+            },
+            {
+              "quote": "Evaluation Metrics. We evaluate our method using four",
+              "url": "https://arxiv.org/html/2606.00610v1#S5.SS1",
+              "locator": "5. Experiments / 5.1. Experimental Setting · S5.SS1",
+              "segment_id": "S5.SS1"
+            },
+            {
+              "quote": "While MemGraphRAG demonstrates strong robustness in processing large-scale",
+              "url": "https://arxiv.org/html/2606.00610v1#Sx1",
+              "locator": "Limitation · Sx1",
+              "segment_id": "Sx1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2608-11436",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c83",
+          "paper_id": "arxiv-2608-11436",
+          "kind": "source_finding",
+          "text": "Формальный анализ honeytokens показывает важность общей информации и возможностей атакующего. Если атакующий может имитировать допустимую политику, активация токена сама по себе не образует надёжную security boundary.",
+          "conditions": [
+            "Формальный анализ. Shared-memory agents, наблюдение токенов и допустимых объектов при заданных assumptions."
+          ],
+          "limitations": [
+            "Результат не распространяется автоматически на внешнего атакующего с меньшей информацией; гарантии относятся к определённому нарушению политики."
+          ],
+          "evidence": [
+            {
+              "quote": "An outside attacker that cannot observe the same",
+              "url": "https://arxiv.org/html/2608.11436v1#S2.SS1",
+              "locator": "2 Honeytokens under common information / 2.1 Threat model and non-goals · S2.SS1",
+              "segment_id": "S2.SS1"
+            },
+            {
+              "quote": "The Hugging Face incident revealed two forms of",
+              "url": "https://arxiv.org/html/2608.11436v1#S6",
+              "locator": "6 Conclusion · S6",
+              "segment_id": "S6"
+            },
+            {
+              "quote": "If PR=PHP_{R}=P_{H}, every policy uses genuine objects and",
+              "url": "https://arxiv.org/html/2608.11436v1#S2.SS2",
+              "locator": "2 Honeytokens under common information / 2.2 Object selection · S2.SS2",
+              "segment_id": "S2.SS2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2506-02049",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c84",
+          "paper_id": "arxiv-2506-02049",
+          "kind": "source_finding",
+          "text": "EvoGit использует Git-структуру для децентрализованной эволюции кода: изменения и результаты сохраняются как общая история. Эксперименты демонстрируют feasibility recursive development, а не гарантированное открытое самосовершенствование.",
+          "conditions": [
+            "Прототип и авторская оценка. Генерация software frameworks и solver для bin packing."
+          ],
+          "limitations": [
+            "Контролируемая случайность важна для разнообразия, но требует seeds и точных trajectories; воспроизводимость не равна детерминированности."
+          ],
+          "evidence": [
+            {
+              "quote": "For mutation, the agent receives the design specification,",
+              "url": "https://arxiv.org/html/2506.02049v1#S2.SS2",
+              "locator": "2 Methodology / 2.2 Code Evolution as Graph Expansion · S2.SS2",
+              "segment_id": "S2.SS2"
+            },
+            {
+              "quote": "While the generated project is narrower in scope",
+              "url": "https://arxiv.org/html/2506.02049v1#S3.SS2",
+              "locator": "3 Experiments / 3.2 Experimental Results · S3.SS2",
+              "segment_id": "S3.SS2"
+            },
+            {
+              "quote": "Importantly, this controlled randomness is not a flaw",
+              "url": "https://arxiv.org/html/2506.02049v1#A5",
+              "locator": "Appendix E Discussion on Reproducibility · A5",
+              "segment_id": "A5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2603-17787",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c85",
+          "paper_id": "arxiv-2603-17787",
+          "kind": "source_finding",
+          "text": "Governed Memory разделяет unstructured insights и structured properties и вводит schema/quality gates. В авторском стенде качество насыщалось при небольшой memory density; это аргумент измерять полезность записей, а не только объём store.",
+          "conditions": [
+            "Архитектура и авторская оценка. Enterprise-style entity memory и LoCoMo, density ablations."
+          ],
+          "limitations": [
+            "Quality gates эвристические, а часть оценивания основана на self-judgment; насыщение около семи записей не является универсальной нормой."
+          ],
+          "evidence": [
+            {
+              "quote": "Enterprise agents must store both unstructured insights and",
+              "url": "https://arxiv.org/html/2603.17787v1#S4.SS1",
+              "locator": "4 Dual Memory Model / 4.1 Problem Statement · S4.SS1",
+              "segment_id": "S4.SS1"
+            },
+            {
+              "quote": "Zero entity memory produces measurably lower output quality",
+              "url": "https://arxiv.org/html/2603.17787v1#A6.SSx1",
+              "locator": "Appendix F Extended Experimental Results / Memory Density and Output Quality (E2) · A6.SSx1",
+              "segment_id": "A6.SSx1"
+            },
+            {
+              "quote": "Quality gates are heuristic. Coreference, self-containment, and temporal",
+              "url": "https://arxiv.org/html/2603.17787v1#S9.SS1",
+              "locator": "9 Discussion / 9.1 Limitations · S9.SS1",
+              "segment_id": "S9.SS1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2603-12631",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c86",
+          "paper_id": "arxiv-2603-12631",
+          "kind": "source_finding",
+          "text": "CoMAM совместно оптимизирует Extraction, Profile и Retrieval agents через локальные и глобальные rewards. Это обучаемая координация memory operations; её вклад нельзя приписать только смене структуры хранения.",
+          "conditions": [
+            "Обучаемая память и benchmark. PersonaMem и LongMemEval с разными длинами conversational history."
+          ],
+          "limitations": [
+            "Компактный набор агентов исключает более полное editing, consistency maintenance и redundancy removal; комплексная система не покрывает весь lifecycle."
+          ],
+          "evidence": [
+            {
+              "quote": "We conduct experiments on the PersonaMem [12] and",
+              "url": "https://arxiv.org/html/2603.12631v2#S5.SS1.SSS0.Px1",
+              "locator": "5 Experiments / 5.1 Experimental Settings / Dataset · S5.SS1.SSS0.Px1",
+              "segment_id": "S5.SS1.SSS0.Px1"
+            },
+            {
+              "quote": "Superior local reward convergence: For all three agents",
+              "url": "https://arxiv.org/html/2603.12631v2#A3.SS1",
+              "locator": "Appendix C More Detailed Experimental Results / C.1 The Impact of Joint Optimization on Local Task Specialization · A3.SS1",
+              "segment_id": "A3.SS1"
+            },
+            {
+              "quote": "1. Simplified Agent Design. We adopt a compact",
+              "url": "https://arxiv.org/html/2603.12631v2#A5",
+              "locator": "Appendix E Limitation · A5",
+              "segment_id": "A5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2609-30289",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c87",
+          "paper_id": "arxiv-2609-30289",
+          "kind": "source_finding",
+          "text": "HiCoMER различает Team и Individual memories и связывает conflict updating с validity-aware retrieval. Retrieval текущего состояния и итоговая QA-точность измеряются отдельно, что помогает анализировать устаревшие или конфликтующие записи.",
+          "conditions": [
+            "Система и benchmark. Два новых memory-grounded QA datasets, retrieval и answer-level metrics."
+          ],
+          "limitations": [
+            "Шумные, неполные или несогласованные Team/Individual records ухудшают maintenance; авторские datasets не доказывают устойчивость к любому источнику конфликтов."
+          ],
+          "evidence": [
+            {
+              "quote": "HiCoMER is a collaborative memory framework for long-horizon",
+              "url": "https://arxiv.org/html/2609.30289v1#S3.SS1",
+              "locator": "3 Methodology / 3.1 Framework Overview · S3.SS1",
+              "segment_id": "S3.SS1"
+            },
+            {
+              "quote": "Tables 2 and 3 report the end-to-end performance",
+              "url": "https://arxiv.org/html/2609.30289v1#S4.SS4",
+              "locator": "4 Experiments / 4.4 Results · S4.SS4",
+              "segment_id": "S4.SS4"
+            },
+            {
+              "quote": "While HiCoMER demonstrates consistent improvements in hierarchical memory",
+              "url": "https://arxiv.org/html/2609.30289v1#Sx1",
+              "locator": "Limitations · Sx1",
+              "segment_id": "Sx1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2602-03224",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c88",
+          "paper_id": "arxiv-2602-03224",
+          "kind": "source_finding",
+          "text": "TAME рассматривает memory misevolution даже на benign task stream. Trust-Memevo разделяет capability evolution и trustworthiness tracking: рост решения задач не исключает ухудшения поведения при обновлении памяти.",
+          "conditions": [
+            "Benchmark и система. Math, Science, Code и Tool-use; evolution tasks и связанные проверки trustworthiness."
+          ],
+          "limitations": [
+            "В основном aggregate behavioral measures и текстовая память; механизм drift и перенос на multimodal shared memory требуют дополнительных проверок."
+          ],
+          "evidence": [
+            {
+              "quote": "To systematically quantify the risks associated with benign",
+              "url": "https://arxiv.org/html/2602.03224v2#S3.SS2",
+              "locator": "3 Problem Formulation and the Trust-Memevo Benchmark / 3.2 Trust-Memevo: Benchmark Design and Empirical Observation · S3.SS2",
+              "segment_id": "S3.SS2"
+            },
+            {
+              "quote": "This study focuses on text-based memory evolution, with",
+              "url": "https://arxiv.org/html/2602.03224v2#Sx1",
+              "locator": "Limitations · Sx1",
+              "segment_id": "Sx1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2608-10509",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c89",
+          "paper_id": "arxiv-2608-10509",
+          "kind": "source_finding",
+          "text": "MAP-Graph использует provenance как сигнал для permission filtering, path trust и action gating. Нулевые наблюдённые leakage/ASR на авторском тесте — условный результат стенда, а не доказательство отсутствия всех атак.",
+          "conditions": [
+            "Система и benchmark безопасности. Синтетические шаблонные задачи, один четырёхагентный раунд и симулированные действия."
+          ],
+          "limitations": [
+            "Один temperature-zero запуск не оценивает inference variance; отдельный trajectory-retaining baseline может зависеть от порядка задач."
+          ],
+          "evidence": [
+            {
+              "quote": "Construction uses only observable workflow state and task-provided",
+              "url": "https://arxiv.org/html/2608.10509v1#S3.SS2",
+              "locator": "3 MAP-Graph Framework / 3.2 Memory Construction and Provenance Capture · S3.SS2",
+              "segment_id": "S3.SS2"
+            },
+            {
+              "quote": "MAP-Graph reduces ASR, measured leakage, and revocation violation",
+              "url": "https://arxiv.org/html/2608.10509v1#S4.SS4.SSS0.Px2",
+              "locator": "4 Experiments / 4.4 Main Results / Safety outcomes. · S4.SS4.SSS0.Px2",
+              "segment_id": "S4.SS4.SSS0.Px2"
+            },
+            {
+              "quote": "The benchmark is synthetic and templated, actions are",
+              "url": "https://arxiv.org/html/2608.10509v1#S4.SS4.SSS0.Px4",
+              "locator": "4 Experiments / 4.4 Main Results / Scope and limitations. · S4.SS4.SSS0.Px4",
+              "segment_id": "S4.SS4.SSS0.Px4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2602-03036",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c90",
+          "paper_id": "arxiv-2602-03036",
+          "kind": "source_finding",
+          "text": "LatentMem создаёт специализированные latent representations памяти и обучает их через LMPO, вариант GRPO. Сравнение с vanilla MAS включает обучение memory policy, а не только подбор внешних текстовых записей.",
+          "conditions": [
+            "Обучаемая память и benchmark · граница темы. Разные домены, размеры моделей и in-domain/cross-framework проверки."
+          ],
+          "limitations": [
+            "Выигрыш комплексной обучаемой архитектуры не устанавливает эффект общего store сам по себе; latent representations сложнее напрямую аудировать как текстовые свидетельства."
+          ],
+          "evidence": [
+            {
+              "quote": "To enable end-to-end optimization of LatentMem while preserving",
+              "url": "https://arxiv.org/html/2602.03036v2#S4.SS4",
+              "locator": "4 Methodology / 4.4 Latent Memory Policy Optimization (LMPO) · S4.SS4",
+              "segment_id": "S4.SS4"
+            },
+            {
+              "quote": "LatentMem Delivers High-Performance Memory Across Domains and MAS",
+              "url": "https://arxiv.org/html/2602.03036v2#S5.SS2",
+              "locator": "5 Experiments / 5.2 Main Results · S5.SS2",
+              "segment_id": "S5.SS2"
+            },
+            {
+              "quote": "where 𝒟\\mathcal{D} denotes the dataset and qq is",
+              "url": "https://arxiv.org/html/2602.03036v2#S3.SS0.SSS0.Px2",
+              "locator": "3 Preliminary / Problem Formulation. · S3.SS0.SSS0.Px2",
+              "segment_id": "S3.SS0.SSS0.Px2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2606-00756",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c91",
+          "paper_id": "arxiv-2606-00756",
+          "kind": "source_finding",
+          "text": "CoMIC организует обмен memory/insights между edge/cloud agents без обновления параметров. Улучшение слабого backbone на длинных задачах сопровождается изменением subgoal decomposition и grounding, поэтому эти компоненты нужно разделять в ablation.",
+          "conditions": [
+            "Система и benchmark. Пять AgentBoard benchmarks, в том числе Jericho и symbolic planning."
+          ],
+          "limitations": [
+            "End-to-end успех ограничен способностью edge-модели строить подцели; крайне слабая модель не компенсируется памятью автоматически."
+          ],
+          "evidence": [
+            {
+              "quote": "We evaluate CoMIC on five AgentBoard benchmarks (Ma",
+              "url": "https://arxiv.org/html/2606.00756v2#S5.SS1.SSS0.Px2",
+              "locator": "5. Experiments / 5.1. Experimental Setup / Evaluation Tasks. · S5.SS1.SSS0.Px2",
+              "segment_id": "S5.SS1.SSS0.Px2"
+            },
+            {
+              "quote": "As shown in Table 1, the Standard agent",
+              "url": "https://arxiv.org/html/2606.00756v2#S5.SS2.SSS0.Px1",
+              "locator": "5. Experiments / 5.2. Main Results / CoMIC brings weak edge agents from zero to non-zero success and improves their progress. · S5.SS2.SSS0.Px1",
+              "segment_id": "S5.SS2.SSS0.Px1"
+            },
+            {
+              "quote": "While CoMIC improves the execution capabilities of weak",
+              "url": "https://arxiv.org/html/2606.00756v2#S6",
+              "locator": "6. Limitations · S6",
+              "segment_id": "S6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2609-03619",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c92",
+          "paper_id": "arxiv-2609-03619",
+          "kind": "source_finding",
+          "text": "R2-MAD извлекает прошлые debates с учётом текущего consensus и оценивает надёжность peers. Сравнение с random и similarity retrieval показывает, что полезность зависит от выбора опыта, а не просто добавления старых ответов.",
+          "conditions": [
+            "Система и benchmark. Multi-agent debate benchmarks, retrieval-policy ablations."
+          ],
+          "limitations": [
+            "На каждом раунде нужны summaries, retrieval и confidence estimates; дополнительные compute и предпосылку conditional independence нужно учитывать вместе с accuracy."
+          ],
+          "evidence": [
+            {
+              "quote": "To address both failure modes, we propose R2-MAD",
+              "url": "https://arxiv.org/html/2609.03619v1#S4.SS1",
+              "locator": "4 R2-MAD Framework / 4.1 Overview · S4.SS1",
+              "segment_id": "S4.SS1"
+            },
+            {
+              "quote": "Our policy attains the highest average accuracy (0.663),",
+              "url": "https://arxiv.org/html/2609.03619v1#S5.SS2.SSS0.Px3",
+              "locator": "5 Experiments / 5.2 Results and Analysis / RQ3: Does the debate-state-aware policy drive the gain? · S5.SS2.SSS0.Px3",
+              "segment_id": "S5.SS2.SSS0.Px3"
+            },
+            {
+              "quote": "The main limitation of R2-MAD is that it",
+              "url": "https://arxiv.org/html/2609.03619v1#Sx1",
+              "locator": "Limitations · Sx1",
+              "segment_id": "Sx1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2604-03295",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c93",
+          "paper_id": "arxiv-2604-03295",
+          "kind": "source_finding",
+          "text": "LLMA-Mem сопоставляет масштаб команды и накопление опыта: большая команда не всегда лучше меньшей с подходящей памятью. Task Score и Communication Score могут меняться по-разному, поэтому их нельзя объединять в одно утверждение о сотрудничестве.",
+          "conditions": [
+            "Система и benchmark. Несколько model families и task environments, оценка во времени."
+          ],
+          "limitations": [
+            "Исследованный team scale ограничен; результаты не задают универсальный оптимальный размер команды или горизонт накопления опыта."
+          ],
+          "evidence": [
+            {
+              "quote": "Based on this preliminary study, we propose LLMA-Mem",
+              "url": "https://arxiv.org/html/2604.03295v1#S3.SS2",
+              "locator": "3 Method / 3.2 Memory Architecture · S3.SS2",
+              "segment_id": "S3.SS2"
+            },
+            {
+              "quote": "As shown in Table 1, LLMA-Mem is consistently",
+              "url": "https://arxiv.org/html/2604.03295v1#S4.SS2",
+              "locator": "4 Experiments / 4.2 Main Results · S4.SS2",
+              "segment_id": "S4.SS2"
+            },
+            {
+              "quote": "Our work still has several limitations. First, although",
+              "url": "https://arxiv.org/html/2604.03295v1#S6",
+              "locator": "6 Limitations · S6",
+              "segment_id": "S6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2310-08560",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c94",
+          "paper_id": "arxiv-2310-08560",
+          "kind": "source_finding",
+          "text": "MemGPT вводит управление уровнями памяти по аналогии с ОС: LLM переносит информацию между ограниченным основным контекстом и внешним хранилищем. Consistency и engagement разговоров оцениваются отдельно от простого размера доступной истории.",
+          "conditions": [
+            "Система и benchmark · базовый механизм. Multi-session chat и задачи с контекстом больше окна модели."
+          ],
+          "limitations": [
+            "Качество зависит от корректных memory operations; память одного агента не обеспечивает multi-user authorization или надёжное совместное редактирование."
+          ],
+          "evidence": [
+            {
+              "quote": "We evaluate the quality of the generated response",
+              "url": "https://arxiv.org/html/2310.08560v2#S3.SS1.SSS1",
+              "locator": "3 Experiments / 3.1 MemGPT for conversational agents / 3.1.1 Deep memory retrieval task (consistency). · S3.SS1.SSS1",
+              "segment_id": "S3.SS1.SSS1"
+            },
+            {
+              "quote": "We therefore assess our proposed system, MemGPT, on",
+              "url": "https://arxiv.org/html/2310.08560v2#S3.SS1",
+              "locator": "3 Experiments / 3.1 MemGPT for conversational agents · S3.SS1",
+              "segment_id": "S3.SS1"
+            },
+            {
+              "quote": "During each inference cycle, LLM processor takes main",
+              "url": "https://arxiv.org/html/2310.08560v2#S2.SS3",
+              "locator": "2 MemGPT (MemoryGPT) / 2.3 Function executor (handling of completion tokens) · S2.SS3",
+              "segment_id": "S2.SS3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2308-10144",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c95",
+          "paper_id": "arxiv-2308-10144",
+          "kind": "source_finding",
+          "text": "ExpeL извлекает insights из прошлых попыток и использует их вместе с retrievable in-context examples. Это ранний механизм verbal experience reuse; наличие накопленного опыта отличается от обновления весов модели.",
+          "conditions": [
+            "Система и benchmark · базовый механизм. HotpotQA, ALFWorld, WebShop и другие текстовые benchmark задачи."
+          ],
+          "limitations": [
+            "Текстовые наблюдения ограничивают перенос в реальные мультимодальные условия; single-agent результаты не устанавливают качество распределённого sharing."
+          ],
+          "evidence": [
+            {
+              "quote": "In line with ReAct (Yao et al. 2023b),",
+              "url": "https://arxiv.org/html/2308.10144v3#S5.SS1",
+              "locator": "5 Experiments / 5.1 Experimental Setup · S5.SS1",
+              "segment_id": "S5.SS1"
+            },
+            {
+              "quote": "The primary findings of this study are presented",
+              "url": "https://arxiv.org/html/2308.10144v3#S5.SS2",
+              "locator": "5 Experiments / 5.2 Main Results · S5.SS2",
+              "segment_id": "S5.SS2"
+            },
+            {
+              "quote": "In this work, we investigated tasks with textual",
+              "url": "https://arxiv.org/html/2308.10144v3#S6.SS0.SSSx1",
+              "locator": "6 Conclusion and Limitations / Limitations · S6.SS0.SSSx1",
+              "segment_id": "S6.SS0.SSSx1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2303-11366",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c96",
+          "paper_id": "arxiv-2303-11366",
+          "kind": "source_finding",
+          "text": "Reflexion сохраняет verbal feedback между попытками и использует его при следующем решении. Увеличение числа trials и наличие evaluator — часть метода; его нельзя сравнивать с одной попыткой без учёта бюджета.",
+          "conditions": [
+            "Система и benchmark · базовый механизм. HotpotQA, ALFWorld и code-generation tasks, feedback/agent ablations."
+          ],
+          "limitations": [
+            "Policy optimization через язык может застревать в неоптимальных решениях; ошибочная саморефлексия не становится истинной из-за повторного сохранения."
+          ],
+          "evidence": [
+            {
+              "quote": "We evaluate various natural language RL setups on",
+              "url": "https://arxiv.org/html/2303.11366v4#S4",
+              "locator": "4 Experiments · S4",
+              "segment_id": "S4"
+            },
+            {
+              "quote": "ReAct + Reflexion significantly outperforms ReAct by completing",
+              "url": "https://arxiv.org/html/2303.11366v4#S4.SS1.SSS0.Px1",
+              "locator": "4 Experiments / 4.1 Sequential decision making: ALFWorld / Results · S4.SS1.SSS0.Px1",
+              "segment_id": "S4.SS1.SSS0.Px1"
+            },
+            {
+              "quote": "At its core, Reflexion is an optimization technique",
+              "url": "https://arxiv.org/html/2303.11366v4#S5",
+              "locator": "5 Limitations · S5",
+              "segment_id": "S5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2304-03442",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c97",
+          "paper_id": "arxiv-2304-03442",
+          "kind": "source_finding",
+          "text": "Generative Agents связывают memory stream, retrieval, reflection и planning в симуляции поведения. Контролируемая оценка проверяла believability: правдоподобное социальное поведение не равно истинности общего знания.",
+          "conditions": [
+            "Система и пользовательская оценка · базовый механизм. Интерактивная среда с несколькими агентами и ablation компонентов."
+          ],
+          "limitations": [
+            "Начальная реализация и ошибки поведения ограничивают перенос; gossip и память отдельных агентов не являются общим верифицированным knowledge store."
+          ],
+          "evidence": [
+            {
+              "quote": "The memory stream maintains a comprehensive record of",
+              "url": "https://arxiv.org/html/2304.03442v2#S4.SS1.SSSx2",
+              "locator": "4. Generative Agent Architecture / 4.1. Memory and Retrieval / Approach: · S4.SS1.SSSx2",
+              "segment_id": "S4.SS1.SSSx2"
+            },
+            {
+              "quote": "Our findings suggest that the full architecture of",
+              "url": "https://arxiv.org/html/2304.03442v2#S6.SS5",
+              "locator": "6. Controlled Evaluation / 6.5. Results · S6.SS5",
+              "segment_id": "S6.SS5"
+            },
+            {
+              "quote": "In this work, we introduced generative agents and",
+              "url": "https://arxiv.org/html/2304.03442v2#S8.SS2",
+              "locator": "8. Discussion / 8.2. Future Work and Limitations · S8.SS2",
+              "segment_id": "S8.SS2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2606-21024",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c98",
+          "paper_id": "arxiv-2606-21024",
+          "kind": "source_finding",
+          "text": "Negative Knowledge сохраняет структурированный след неудачной попытки: что пробовали, что не сработало и как изменить маршрут. В авторском сравнении простое повторение не давало того же эффекта, что запись отрицательного опыта.",
+          "conditions": [
+            "Система и авторская оценка. Bounded attempt-level records, сравнение raw self-debug и distilled negative knowledge."
+          ],
+          "limitations": [
+            "Неудача относится к условиям попытки; её перенос как универсального запрета может закрыть полезное направление. Требуются provenance и границы применимости записи."
+          ],
+          "evidence": [
+            {
+              "quote": "The central goal is for a scientific project",
+              "url": "https://arxiv.org/html/2606.21024v1#S2",
+              "locator": "2 Method: Negative Knowledge Memory Layer · S2",
+              "segment_id": "S2"
+            },
+            {
+              "quote": "Table 1 shows three things. First, plain retry",
+              "url": "https://arxiv.org/html/2606.21024v1#S3.SS0.SSS0.Px2",
+              "locator": "3 Evaluation: Negative-Knowledge Retry / Main result. · S3.SS0.SSS0.Px2",
+              "segment_id": "S3.SS0.SSS0.Px2"
+            },
+            {
+              "quote": "The schema has three design properties. (1) Attempt-level:",
+              "url": "https://arxiv.org/html/2606.21024v1#S2",
+              "locator": "2 Method: Negative Knowledge Memory Layer · S2",
+              "segment_id": "S2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2609-18094",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c99",
+          "paper_id": "arxiv-2609-18094",
+          "kind": "source_finding",
+          "text": "Agora использует Git-backed DAG для общего исследовательского опыта, включая отрицательные и нулевые результаты. Run показывает reuse и проверки чужих contributions, но причинный эффект на discovery per compute требует matched comparison.",
+          "conditions": [
+            "Система и эксплуатационное исследование. Наблюдение коллективного AutoResearch run и связей между contributions."
+          ],
+          "limitations": [
+            "Проверка другим аккаунтом не гарантирует независимость доказательства; один run без сопоставимого контроля не устанавливает выигрыш коллективной памяти."
+          ],
+          "evidence": [
+            {
+              "quote": "A project has participants 𝒜\\mathcal{A} and a growing",
+              "url": "https://arxiv.org/html/2609.18094v4#S3.SS1",
+              "locator": "3 Agora: A Git-Backed Research DAG / 3.1 Problem setting and design goals · S3.SS1",
+              "segment_id": "S3.SS1"
+            },
+            {
+              "quote": "The graph also records what did not work,",
+              "url": "https://arxiv.org/html/2609.18094v4#S4.SS5.SSS0.Px2",
+              "locator": "4 Experiments / 4.5 Evidence / Negative results. · S4.SS5.SSS0.Px2",
+              "segment_id": "S4.SS5.SSS0.Px2"
+            },
+            {
+              "quote": "Contribution types are tags rather than a fixed",
+              "url": "https://arxiv.org/html/2609.18094v4#S3.SS2.SSS0.Px1",
+              "locator": "3 Agora: A Git-Backed Research DAG / 3.2 Contribution graph and provenance / Contribution vocabulary. · S3.SS2.SSS0.Px1",
+              "segment_id": "S3.SS2.SSS0.Px1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "arxiv-2601-20352",
+      "coverage": "selected_full_text_sections",
+      "claims": [
+        {
+          "id": "c100",
+          "paper_id": "arxiv-2601-20352",
+          "kind": "source_finding",
+          "text": "AMA поручает нескольким агентам selection, updating и retrieval долговременной памяти. На LoCoMo результаты сравниваются с FullContext и другими memory systems; экономию входного контекста надо учитывать вместе с ценой координации.",
+          "conditions": [
+            "Система и benchmark. LoCoMo и LongMemEval, разные backbone и memory baselines."
+          ],
+          "limitations": [
+            "Дополнительные агенты создают computational overhead; reasoning capability backbone ограничивает результат, особенно при переходе к малым моделям."
+          ],
+          "evidence": [
+            {
+              "quote": "Datasets and Metrics. We evaluate long-term memory capabilities",
+              "url": "https://arxiv.org/html/2601.20352v4#S4.SS1",
+              "locator": "4 Experiment / 4.1 Experimental Setup · S4.SS1",
+              "segment_id": "S4.SS1"
+            },
+            {
+              "quote": "We first evaluate AMA on the LoCoMo benchmark",
+              "url": "https://arxiv.org/html/2601.20352v4#S4.SS2",
+              "locator": "4 Experiment / 4.2 Main Results · S4.SS2",
+              "segment_id": "S4.SS2"
+            },
+            {
+              "quote": "Despite the significant performance gains, the multi-agent collaboration",
+              "url": "https://arxiv.org/html/2601.20352v4#Sx1",
+              "locator": "Limitations · Sx1",
+              "segment_id": "Sx1"
+            }
+          ]
+        }
+      ]
     }
   ],
   "synthesis": {
@@ -2803,33 +5688,32 @@
         "items": [
           {
             "kind": "synthesis",
-            "text": "Общая память — это несколько механизмов: рабочий буфер одной задачи, межзадачный опыт и обмен между пользователями. Retrieval, admission, consolidation и governance нужно сравнивать отдельно.",
+            "text": "Рабочее состояние одной задачи, межзадачный опыт и multi-user память — разные механизмы. Сброс памяти после запроса, обучение memory policy и перенос внешних записей нельзя описывать как один вид коллективного обучения.",
             "claim_ids": [
-              "c3",
-              "c18",
-              "c21",
-              "c37"
+              "c57",
+              "c90",
+              "c86",
+              "c69"
             ]
           },
           {
             "kind": "synthesis",
-            "text": "Больше обмена не гарантирует более правильный ответ. Память может изменить маршрутизацию консультантов, скрыть конфликт при handoff или усилить ложь за счёт коррелированных копий.",
+            "text": "Больше записей и больше агентов не гарантируют лучшего решения. Полезность зависит от отбора, retrieval, качества исходного опыта и бюджета; communication score и task success проверяются отдельно.",
             "claim_ids": [
-              "c13",
-              "c9",
-              "c32",
-              "c42"
+              "c61",
+              "c51",
+              "c93",
+              "c92"
             ]
           },
           {
             "kind": "synthesis",
-            "text": "Качество решения, права доступа, актуальность производных планов и стоимость памяти — отдельные проверки. Формальная валидность записи не доказывает семантической правильности исполнения.",
+            "text": "Качество ответа, актуальность, provenance и права доступа — отдельные проверки. Нулевая наблюдённая утечка на синтетическом стенде не даёт общей гарантии безопасности, а prompt с правилами может оставлять существенную остаточную утечку.",
             "claim_ids": [
-              "c49",
-              "c39",
-              "c34",
-              "c46",
-              "c25"
+              "c89",
+              "c73",
+              "c58",
+              "c74"
             ]
           }
         ]
@@ -2840,12 +5724,22 @@
         "items": [
           {
             "kind": "editorial",
-            "text": "Корпус: 50 работ, выбранных по исследовательскому вопросу. Различаются 5 тематических групп. Обзоры и концептуальные предложения не считаются самостоятельными подтверждающими экспериментами.",
+            "text": "Корпус: 100 целенаправленно отобранных публикаций. Основные критерии — связь с исследовательским вопросом, вклад в объяснение механизма или измерения, доступность полного текста и возможность указать проверяемый фрагмент. Свежесть и число цитирований не заменяют эти критерии.",
             "claim_ids": []
           },
           {
             "kind": "editorial",
-            "text": "Поиск: 22 ноября 2026 года, arXiv, по 200 результатов на направление; затем тематический отбор и проверка доступности полных текстов. Недоступная работа не засчитана и заменена релевантным доступным источником. Охват просмотра указан в каждой карточке; полнота литературы не установлена.",
+            "text": "Поиск выполнен 22 ноября 2026 года: четыре первоначальных и шесть дополнительных ограниченных arXiv-запросов дали 1000 записей до устранения повторов. Это поисковые результаты, а не 1000 прочитанных работ. Новые 50 публикаций выбраны из расширенной выдачи; прежние 50 сохранены. Полнота литературы и объективный мировой top-100 не установлены.",
+            "claim_ids": []
+          },
+          {
+            "kind": "editorial",
+            "text": "В карточках указаны прочитанные фрагменты, тип исследования, условия и ограничения. Обзоры, комментарии, теория и архитектурные предложения не считаются новыми независимыми экспериментами. Более ранние базовые механизмы отмечены отдельно от прямых проверок основного вопроса.",
+            "claim_ids": []
+          },
+          {
+            "kind": "editorial",
+            "text": "Основная тема — обмен внешним опытом и управление общей памятью агентов. Neural/recurrent memory, MARL и обучаемые latent representations включены как контекст и границы темы, а не как прямое доказательство эффективности текстового shared store. Обновление весов, in-context adaptation и перенос записей различаются.",
             "claim_ids": []
           }
         ]
@@ -2887,55 +5781,80 @@
         "items": [
           {
             "kind": "synthesis",
-            "text": "Admission и координация: learned gates, общий асинхронный буфер и reliability memory выбирают разные единицы обмена. Выбор консультанта и итоговая accuracy проверяются раздельно.",
+            "text": "Базовые механизмы: memory stream и reflection, virtual context management, verbal feedback и извлечение insights формируют разные единицы опыта. Их single-agent результаты — отправная точка, а не готовая гарантия collective memory.",
             "claim_ids": [
-              "c3",
-              "c18",
-              "c30",
-              "c40",
-              "c13"
+              "c97",
+              "c94",
+              "c96",
+              "c95"
             ]
           },
           {
             "kind": "synthesis",
-            "text": "Консолидация: procedural skills, episodic memory и hypergraphs хранят разные структуры опыта. Их комплексные системы нужно разбирать по компонентам и бюджетам, а не только по общей таблице побед.",
+            "text": "Отбор и маршрутизация: role-aware routing, admission/scheduling и state-aware retrieval нужно сравнивать при одинаковом содержимом памяти и числе попыток.",
             "claim_ids": [
-              "c16",
-              "c22",
-              "c35",
-              "c41",
-              "c10"
+              "c51",
+              "c61",
+              "c92",
+              "c3"
             ]
           },
           {
             "kind": "synthesis",
-            "text": "Перенос: чужой опыт может обобщаться в guidance или продвигаться из local в global memory. Основную оценку замороженного опыта следует отделять от его обновления на тестовой последовательности.",
+            "text": "Организация: modular procedural memory, связанные notes, distillation и multi-agent maintenance решают разные bottlenecks. Сложность записи, хранения и извлечения надо разбирать по компонентам.",
             "claim_ids": [
-              "c4",
-              "c21",
-              "c26",
-              "c5"
+              "c56",
+              "c64",
+              "c71",
+              "c100"
             ]
           },
           {
             "kind": "synthesis",
-            "text": "Конфликты: нужно сохранить обе версии свидетельства, источник и цепочку производных выводов. Копирование одного убеждения не добавляет независимого подтверждения.",
+            "text": "Перенос: workflows, cross-model procedures и общая knowledge base требуют разделения offline learning, online updates и cross-domain evaluation.",
             "claim_ids": [
-              "c9",
-              "c32",
-              "c42",
-              "c39"
+              "c62",
+              "c69",
+              "c67",
+              "c77"
             ]
           },
           {
             "kind": "synthesis",
-            "text": "Governance: источники, роли, операции и derived knowledge задают границы доступа. Защита write path не заменяет проверку retrieval, promotion, reuse и удаления.",
+            "text": "Исправление: extraction/update hallucinations, validity-aware retrieval и повторное использование неудач требуют разных тестов. Запись провала должна сохранять условия попытки, а не превращаться в безусловный запрет.",
             "claim_ids": [
-              "c2",
-              "c33",
-              "c37",
-              "c44",
-              "c49"
+              "c74",
+              "c87",
+              "c98",
+              "c79"
+            ]
+          },
+          {
+            "kind": "synthesis",
+            "text": "Защита: topology, purpose-bound mediation и provenance-aware action gates задают разные threat models. Политика в prompt и enforceable access control не взаимозаменяемы.",
+            "claim_ids": [
+              "c58",
+              "c73",
+              "c89",
+              "c83"
+            ]
+          },
+          {
+            "kind": "synthesis",
+            "text": "Коллективная работа: file/Git protocols сохраняют артефакты, сообщения и отрицательные результаты. Operational run доказывает осуществимость процесса; выигрыш discovery per compute требует matched comparison.",
+            "claim_ids": [
+              "c80",
+              "c84",
+              "c99"
+            ]
+          },
+          {
+            "kind": "synthesis",
+            "text": "Граница темы: recurrent state в навигации, decentralized retrieval после pretraining и обучаемая latent memory не равны внешней текстовой базе опыта.",
+            "claim_ids": [
+              "c52",
+              "c60",
+              "c90"
             ]
           }
         ]
@@ -2946,7 +5865,7 @@
         "items": [
           {
             "kind": "editorial",
-            "text": "В таблице 50 публикаций. Выберите тематическую группу или найдите работу по названию. Тип исследования указан отдельно: строки нельзя складывать в общий рейтинг или считать независимыми подтверждениями одного эффекта.",
+            "text": "В таблице 100 публикаций. Выберите подтему или найдите название/метод. Прямые исследования основного вопроса, базовые механизмы, обзоры и концептуальные работы отмечены разными типами. Число строк не является числом независимых подтверждений; общий leaderboard не строится.",
             "claim_ids": []
           }
         ]
@@ -3009,6 +5928,39 @@
               "c45",
               "c7"
             ]
+          },
+          {
+            "kind": "synthesis",
+            "text": "Небольшая сессионная память может улучшать planning, не демонстрируя долговременного накопления. Online memory benchmark, напротив, оценивает изменение состояния по последовательности задач; условия нельзя смешивать.",
+            "claim_ids": [
+              "c57",
+              "c77",
+              "c62"
+            ]
+          },
+          {
+            "kind": "synthesis",
+            "text": "Стабильность и среднее качество не всегда дают одинаковый рейтинг: Intrinsic Memory Agents на ALFWorld не лидируют по mean reward, но показывают меньшую вариативность.",
+            "claim_ids": [
+              "c53"
+            ]
+          },
+          {
+            "kind": "synthesis",
+            "text": "Privacy results ограничены threat model. Single-agent extraction, синтетические topology probes и один четырёхагентный раунд не составляют универсальную security guarantee.",
+            "claim_ids": [
+              "c76",
+              "c58",
+              "c89"
+            ]
+          },
+          {
+            "kind": "synthesis",
+            "text": "Verifiable contribution и проверка другим аккаунтом полезны для аудита, но не гарантируют независимость научного свидетельства или причинный выигрыш коллективного процесса.",
+            "claim_ids": [
+              "c99",
+              "c98"
+            ]
           }
         ]
       },
@@ -3055,21 +6007,34 @@
         "items": [
           {
             "kind": "synthesis",
-            "text": "INMS — базовый общий пул; Learning to Share — learned admission внутри одной задачи; MemCollab — обобщение переносимого опыта.",
+            "text": "Начните с Generative Agents, MemGPT, Reflexion и ExpeL: что именно считается записью, как она извлекается и когда меняется.",
             "claim_ids": [
-              "c1",
-              "c3",
-              "c4"
+              "c97",
+              "c94",
+              "c96",
+              "c95"
             ]
           },
           {
             "kind": "synthesis",
-            "text": "Затем Collaborative Memory и ShareMem для пользовательских границ. Завершить отрицательными результатами Governed Shared Memory и вопросом независимости свидетельств в VLM-памяти.",
+            "text": "Затем прямой обмен опытом: selective sharing, LEGOMem, SEDM и Agent KB; сопоставляйте единицу памяти, бюджет и границы переноса.",
             "claim_ids": [
-              "c2",
-              "c5",
-              "c6",
-              "c7"
+              "c3",
+              "c56",
+              "c61",
+              "c67"
+            ]
+          },
+          {
+            "kind": "synthesis",
+            "text": "Для проверки надёжности: HaluMem, CoMemBench, MaaS и MAP-Graph; для коллективного исследования — negative knowledge и Agora с оговоркой об отсутствии matched comparison.",
+            "claim_ids": [
+              "c74",
+              "c31",
+              "c73",
+              "c89",
+              "c98",
+              "c99"
             ]
           }
         ]
@@ -3670,21 +6635,571 @@
       ],
       "theme": "Организация и консолидация",
       "study_type": "Система и benchmark"
+    },
+    {
+      "paper_id": "arxiv-2508-04903",
+      "method": "Role-aware routing против Full-Context и Static Routing.",
+      "guarantee": "RCR-Router отбирает контекст по роли агента; в контролируемом сравнении atomic memory items и правила обработки памяти одинаковы. Это позволяет отличать вклад routing от вклада сжатия памяти.",
+      "setup": "HotPotQA, ALFWorld и WebShop; разные метрики задач и backbone. Ограничение: Набор задач и конфигурации ролей ограничены; стоимость и качество нужно сравнивать при одинаковом содержимом памяти.",
+      "claim_ids": [
+        "c51"
+      ],
+      "theme": "Отбор опыта и координация",
+      "study_type": "Система и benchmark"
+    },
+    {
+      "paper_id": "arxiv-2501-13200",
+      "method": "Трансформер с shared recurrent memory и PPO.",
+      "guarantee": "SRMT исследует общую рекуррентную память для координации агентов на сетке. Это полезный контраст к внешней базе текстового опыта: состояние в обученной политике и переносимые записи имеют разные механизмы и критерии успеха.",
+      "setup": "Grid-based multi-agent pathfinding в POGEMA; CTDE, memory и planning baselines. Ограничение: Результаты по навигации не доказывают эффективность общей текстовой памяти LLM; reward design влияет на координацию.",
+      "claim_ids": [
+        "c52"
+      ],
+      "theme": "Границы и базовые механизмы",
+      "study_type": "Система и benchmark · граница темы"
+    },
+    {
+      "paper_id": "arxiv-2508-08997",
+      "method": "Разные механизмы памяти и generic/LLM-generated templates.",
+      "guarantee": "Intrinsic Memory Agents сохраняют структурированный контекст в специализированных шаблонах. На ALFWorld авторский метод не лидировал по среднему reward, но имел меньшую вариативность, поэтому лучший средний результат и стабильность надо различать.",
+      "setup": "ALFWorld и задачи структурированного планирования; повторный запуск G-Memory. Ограничение: Нужна более широкая проверка задач и числа агентов; показатели стабильности не заменяют качество решения.",
+      "claim_ids": [
+        "c53"
+      ],
+      "theme": "Организация и консолидация",
+      "study_type": "Система и benchmark"
+    },
+    {
+      "paper_id": "arxiv-2507-07957",
+      "method": "Multi-agent memory management с core и другими специализированными memory-компонентами.",
+      "guarantee": "MIRIX разделяет память на компоненты и поручает управление ими нескольким агентам. В screenshot-задачах извлечённая база заменяет хранение сырых изображений; экономию хранения нельзя сравнивать без учёта потери исходной информации.",
+      "setup": "Screenshot-based память и долговременная персонализация; сравнение с визуальным и long-context baselines. Ограничение: Хранение извлечённых фактов и сырых изображений даёт разные возможности последующей проверки; общего доказательства приватности это не даёт.",
+      "claim_ids": [
+        "c54"
+      ],
+      "theme": "Организация и консолидация",
+      "study_type": "Система и benchmark"
+    },
+    {
+      "paper_id": "arxiv-2512-13564",
+      "method": "Таксономия agent memory, ресурсов, benchmark и направлений развития.",
+      "guarantee": "Обзор систематизирует формы, функции и динамику agent memory. Плоская, связанная и иерархическая память имеют разные компромиссы; multi-agent memory и trustworthiness выделены как отдельные проблемы.",
+      "setup": "Обзор существующих архитектур; сравнение flat, planar и hierarchical memory. Ограничение: Сводная классификация не является независимой проверкой результатов включённых систем; единый рейтинг по ней не обоснован.",
+      "claim_ids": [
+        "c55"
+      ],
+      "theme": "Границы и базовые механизмы",
+      "study_type": "Обзор"
+    },
+    {
+      "paper_id": "arxiv-2510-04851",
+      "method": "Vanilla и другие варианты modular procedural memory, разные команды.",
+      "guarantee": "LEGOMem модульно распределяет procedural memory между агентами. В OfficeBench варианты памяти улучшали success rate относительно memory-less teams; наличие train/test-разделения позволяет отдельно обсуждать накопление и применение опыта.",
+      "setup": "OfficeBench: 148 задач для memory curation и 152 тестовых; LLM, Hybrid и SLM teams. Ограничение: Разделение задач одного benchmark не гарантирует перенос на новые приложения; task-success gain не доказывает изолированного вклада каждого модуля.",
+      "claim_ids": [
+        "c56"
+      ],
+      "theme": "Перенос и прикладные проверки",
+      "study_type": "Система и benchmark"
+    },
+    {
+      "paper_id": "arxiv-2511-01912",
+      "method": "Dual-evolving memory в трёхагентном planning loop.",
+      "guarantee": "EvoMem разделяет память ограничений и память неудач между Constraint Extractor, Actor и Verifier. Обе памяти сбрасываются после query session: это улучшение планирования внутри запроса, а не доказательство накопленного межзадачного обучения.",
+      "setup": "NaturalPlan: trip, meeting и calendar planning; CoT, Self-Reflect и PlanGen baselines. Ограничение: Сессионный reset ограничивает вывод о долговременном переносе; рост success rate не подтверждает пользу бесконечного накопления опыта.",
+      "claim_ids": [
+        "c57"
+      ],
+      "theme": "Отбор опыта и координация",
+      "study_type": "Система и benchmark"
+    },
+    {
+      "paper_id": "arxiv-2512-04668",
+      "method": "Сравнение шести topology families, моделей и положения атакующего.",
+      "guarantee": "Плотные топологии в эксперименте с leakage были уязвимее разреженных и иерархических. Положение атакующего и тип данных меняли масштаб утечки; connectivity нельзя считать безусловным улучшением сотрудничества.",
+      "setup": "Синтетические PII, текстовая коммуникация и горизонт десять раундов. Ограничение: Один атакующий и конкретный indirect-information prompt; exact/fuzzy detection и синтетические данные не дают гарантии для реальной приватности.",
+      "claim_ids": [
+        "c58"
+      ],
+      "theme": "Права доступа и защита",
+      "study_type": "Benchmark безопасности"
+    },
+    {
+      "paper_id": "arxiv-2512-15790",
+      "method": "Формальная threat model и предлагаемый evaluation protocol.",
+      "guarantee": "XAMT формулирует covert memory tampering как bilevel-задачу и описывает разные operational assumptions. Раздел experimental protocols содержит предписывающую постановку проверки; её нельзя принимать за независимо подтверждённую универсальность атаки.",
+      "setup": "В том числе CTDE/MARL с общими critics и experience buffers; SMAC как предлагаемый стенд. Ограничение: Полностью децентрализованные методы без shared buffers не являются прямой целью этой MARL-модели; обучение весов отличается от poisoning внешних записей.",
+      "claim_ids": [
+        "c59"
+      ],
+      "theme": "Права доступа и защита",
+      "study_type": "Формальная постановка и протокол"
+    },
+    {
+      "paper_id": "arxiv-2511-10030",
+      "method": "Предобучение embedding/decision models и retrieval для fast adaptation.",
+      "guarantee": "MAICC после предварительного обучения адаптирует команды к новым задачам через decentralized memory retrieval без обновления параметров во время адаптации. Это отделяет in-context адаптацию политики от обычного дообучения.",
+      "setup": "Cooperative MARL: Level-Based Foraging и SMAC v1/v2; шесть тестовых сценариев. Ограничение: Предобучение остаётся обязательным, а memory не является универсальной текстовой базой LLM; перенос ограничен задачами из исследуемого распределения.",
+      "claim_ids": [
+        "c60"
+      ],
+      "theme": "Границы и базовые механизмы",
+      "study_type": "Система и benchmark · граница темы"
+    },
+    {
+      "paper_id": "arxiv-2509-09498",
+      "method": "SCEC с hashes/seeds, verifiable write и selective memory use.",
+      "guarantee": "SEDM показывает, почему память следует применять избирательно: indiscriminate injection может вредить, а gate — восстанавливать пользу. На LoCoMo преимущества различаются по типу вопросов; единого лидерства по всем типам нет.",
+      "setup": "HotpotQA и LoCoMo, один agent model и gate backbone. Ограничение: Society-setting ограничен; G-Memory входит в retrieval-основу, поэтому сравнения нужно читать с учётом общей архитектуры.",
+      "claim_ids": [
+        "c61"
+      ],
+      "theme": "Отбор опыта и координация",
+      "study_type": "Система и benchmark"
+    },
+    {
+      "paper_id": "arxiv-2409-07429",
+      "method": "Induced workflow memory, offline/online варианты.",
+      "guarantee": "Agent Workflow Memory извлекает повторно используемые workflows из прошлых траекторий. Offline и online накопление опыта — разные режимы; website-based коллекции ограничивают область доступных подсказок.",
+      "setup": "Mind2Web и WebArena; cross-task, website и domain evaluation. Ограничение: Online-память меняется по мере тестирования, поэтому её нельзя приравнивать к замороженному train/test-корпусу; группировка по сайтам влияет на перенос.",
+      "claim_ids": [
+        "c62"
+      ],
+      "theme": "Перенос и прикладные проверки",
+      "study_type": "Система и benchmark"
+    },
+    {
+      "paper_id": "arxiv-2512-10166",
+      "method": "Stigmergic traces, личная память, ablation и corruption tests.",
+      "guarantee": "В симуляции коллективная память может возникать через следы в среде, а не общий текстовый store. Результаты зависят от плотности и размера сетки; повреждение следов снижало качество даже при частичной устойчивости.",
+      "setup": "Повторные grid-world симуляции с разными seeds и плотностью агентов. Ограничение: Небольшие сетки ведут себя иначе; simulation crossover и composite metrics не устанавливают эффективность памяти языковых агентов.",
+      "claim_ids": [
+        "c63"
+      ],
+      "theme": "Границы и базовые механизмы",
+      "study_type": "Симуляционное исследование · граница темы"
+    },
+    {
+      "paper_id": "arxiv-2502-12110",
+      "method": "Динамическая организация, linking и evolution памяти.",
+      "guarantee": "A-MEM создаёт связанные атомарные заметки по принципу Zettelkasten и меняет связи при поступлении опыта. Сравнения по LoCoMo различаются между моделями и типами вопросов; единое утверждение о превосходстве памяти скрывает эти различия.",
+      "setup": "LoCoMo, шесть foundation models и memory baselines. Ограничение: Качество организации зависит от возможностей самой LLM; single-agent memory не устанавливает безопасность совместного доступа нескольких пользователей.",
+      "claim_ids": [
+        "c64"
+      ],
+      "theme": "Границы и базовые механизмы",
+      "study_type": "Система и benchmark · базовый механизм"
+    },
+    {
+      "paper_id": "arxiv-2506-19846",
+      "method": "Иерархические agents, memory selection и обучение.",
+      "guarantee": "HiMA-Ecom соединяет benchmark и обучение иерархической команды с reward-driven memory. Планирование, действия и конечные ответы оцениваются раздельно; вклад memory надо отличать от SFT, reasoning process и RL команды.",
+      "setup": "E-commerce benchmark с in-domain и out-of-domain проверками. Ограничение: Один вертикальный домен, небольшие/средние модели и короткие траектории; накопленные prompt tokens не равны полной фактической стоимости.",
+      "claim_ids": [
+        "c65"
+      ],
+      "theme": "Перенос и прикладные проверки",
+      "study_type": "Benchmark и обучение команд"
+    },
+    {
+      "paper_id": "arxiv-2506-17338",
+      "method": "Коллективное semantic voting и Byzantine consensus для pruning.",
+      "guarantee": "Co-Forgetting Protocol сочетает semantic voting и PBFT для согласованного удаления памяти. Memory footprint, согласие о pruning и сохранение полезной информации — разные критерии, которые нельзя заменять одним consensus success rate.",
+      "setup": "Оценка retention, forgetting decisions и memory access в модельном MAS. Ограничение: Согласованное удаление не доказывает истинность решения; заявленные свойства зависят от модели атак и используемой разметки.",
+      "claim_ids": [
+        "c66"
+      ],
+      "theme": "Организация и консолидация",
+      "study_type": "Протокол и авторская оценка"
+    },
+    {
+      "paper_id": "arxiv-2507-06229",
+      "method": "Cross-domain experience repository, hybrid retrieval и feedback.",
+      "guarantee": "Agent KB извлекает обобщённый опыт для разных agent stacks и доменов. Hybrid retrieval и feedback stages рассматриваются отдельно, что помогает исследовать, какой именно компонент переносится между агентами.",
+      "setup": "GAIA и software-engineering suites, разные model families и agent frameworks. Ограничение: Нужно сопоставлять одинаковые backbone и число попыток; pass@3 не является pass@1, а corpus provenance важен для оценки переноса.",
+      "claim_ids": [
+        "c67"
+      ],
+      "theme": "Перенос и прикладные проверки",
+      "study_type": "Система и benchmark"
+    },
+    {
+      "paper_id": "arxiv-2506-06326",
+      "method": "Memory management по аналогии с операционной системой.",
+      "guarantee": "MemoryOS использует иерархическое хранение и управление conversational memory. В авторских сравнениях одного decay-механизма было недостаточно; содержание записи и способ извлечения дают дополнительные различия.",
+      "setup": "LoCoMo и GVD с виртуальными пользователями. Ограничение: Долговременная персонализация одной беседы не равна sharing между пользователями; эффективность иерархии не доказывает корректность прав доступа.",
+      "claim_ids": [
+        "c68"
+      ],
+      "theme": "Границы и базовые механизмы",
+      "study_type": "Система и benchmark · базовый механизм"
+    },
+    {
+      "paper_id": "arxiv-2508-06433",
+      "method": "Task-agnostic procedural memory и cross-model migration.",
+      "guarantee": "MemP систематизирует construction, retrieval и update procedural memory. Авторы отдельно рассматривают перенос процедур от более сильной модели к более слабой: это проверяемая форма обмена опытом, отличная от обучения весов.",
+      "setup": "TravelPlanner и ALFWorld, построение и повторное использование процедур. Ограничение: Retrieval ограничен vector similarity с ручными ключами; качество памяти зависит от исходных траекторий и не гарантировано вне сходных задач.",
+      "claim_ids": [
+        "c69"
+      ],
+      "theme": "Перенос и прикладные проверки",
+      "study_type": "Система и benchmark"
+    },
+    {
+      "paper_id": "arxiv-2308-01542",
+      "method": "Прототип интерактивного управления conversational memory.",
+      "guarantee": "Memory Sandbox делает память видимым редактируемым объектом: её можно просматривать, суммировать, менять и переносить между разговорами. Это ранний UI-подход к контролю контекста пользователем.",
+      "setup": "Общий для пользователя и агента view памяти текущего разговора. Ограничение: System overview и discussion не дают сравнительного доказательства точности или приватности; возможности интерфейса нужно проверять отдельным user study.",
+      "claim_ids": [
+        "c70"
+      ],
+      "theme": "Границы и базовые механизмы",
+      "study_type": "Архитектурный и интерфейсный прототип"
+    },
+    {
+      "paper_id": "arxiv-2508-03341",
+      "method": "Adaptive memory distillation и comparison ablations.",
+      "guarantee": "NEMORI отбирает и дистиллирует информацию по свойствам последовательности взаимодействий. В ablation prediction-error distillation отличается от прямой дистилляции знаний; запись полезного опыта и его последующее извлечение — отдельные задачи.",
+      "setup": "LoCoMo и LongMemEvalS, temporal и другие категории вопросов. Ограничение: Management и retrieval намеренно просты и могут стать bottleneck; результат distillation не подтверждает готовый governance для общей памяти.",
+      "claim_ids": [
+        "c71"
+      ],
+      "theme": "Организация и консолидация",
+      "study_type": "Система и benchmark"
+    },
+    {
+      "paper_id": "arxiv-2508-11733",
+      "method": "Experience-informed progressive pruning коммуникационного графа.",
+      "guarantee": "SafeSieve использует накопленный опыт для progressive pruning коммуникаций. Сравнение pre-design и post-pruning подходов важно для разделения качества команды и цены обмена, а robustness оценивается в заданных атаках.",
+      "setup": "Однородные и неоднородные команды, основные и меньшие backbone. Ограничение: Лидерство в авторской таблице относится к выбранным задачам и baseline; оно не является универсальной оптимальностью и не заменяет threat-model-specific проверку.",
+      "claim_ids": [
+        "c72"
+      ],
+      "theme": "Отбор опыта и координация",
+      "study_type": "Система и benchmark"
+    },
+    {
+      "paper_id": "arxiv-2506-22815",
+      "method": "Purpose/recipient framing и diagnostic privacy probes.",
+      "guarantee": "MaaS рассматривает выдачу памяти как purpose-bound mediation. На MAGPIE contextual-integrity prompting снижал утечку, но оставлял заметную остаточную утечку: prompt с правилами не заменяет enforceable gate.",
+      "setup": "MAGPIE: cooperative scenarios с shareable и private items. Ограничение: Диагностический prompt-only стенд не доказывает безопасность полноценного сервиса; генерация безопасной абстракции требует отдельной проверки.",
+      "claim_ids": [
+        "c73"
+      ],
+      "theme": "Права доступа и защита",
+      "study_type": "Концептуальная архитектура и диагностическое исследование"
+    },
+    {
+      "paper_id": "arxiv-2511-03506",
+      "method": "User-centered benchmark с контролируемым построением диалогов и memory operations.",
+      "guarantee": "HaluMem разделяет ошибки extraction, updating и downstream QA. На длинных последовательностях модели памяти ведут себя по-разному; меньше извлечённых записей не обязательно означает лучшее подавление галлюцинаций.",
+      "setup": "HaluMem-Medium/Long, системы с разной организацией памяти. Ограничение: Виртуальные persona и контролируемая генерация ограничивают реалистичность; качество конструктора и evaluators нужно учитывать отдельно.",
+      "claim_ids": [
+        "c74"
+      ],
+      "theme": "Конфликты и независимость свидетельств",
+      "study_type": "Benchmark"
+    },
+    {
+      "paper_id": "arxiv-2511-21730",
+      "method": "Seen/unseen queries, trajectory corpus и coverage-balanced retrieval evaluation.",
+      "guarantee": "Procedural-memory retrieval надо проверять на новых процедурах при контроле покрытия корпуса. Coverage-balanced дизайн отделяет нехватку подходящего опыта от неспособности encoder распознать полезную процедуру.",
+      "setup": "40 coverage-balanced запросов, corpus из 336 траекторий, выбранные embedding variants. Ограничение: LLM-based relevance judgments дороги и ограничивают охват; низкая согласованность с человеческой разметкой усложняет интерпретацию ceiling.",
+      "claim_ids": [
+        "c75"
+      ],
+      "theme": "Перенос и прикладные проверки",
+      "study_type": "Диагностический benchmark"
+    },
+    {
+      "paper_id": "arxiv-2502-13172",
+      "method": "Memory extraction attack и ablation генерации атакующих запросов.",
+      "guarantee": "MEXTRA исследует extraction приватной памяти через ответы агента. Доступ к retrieval-подсказкам и knowledge assumptions атакующего влияют на риск; доступность памяти агенту не означает допустимость её раскрытия пользователю.",
+      "setup": "Репрезентативные single-agent системы, включая RAP и EHRAgent. Ограничение: Авторы явно ограничивают проверку single-agent setup; распространение результата на общую multi-agent память требует отдельного испытания.",
+      "claim_ids": [
+        "c76"
+      ],
+      "theme": "Права доступа и защита",
+      "study_type": "Benchmark безопасности · базовый механизм"
+    },
+    {
+      "paper_id": "arxiv-2511-20857",
+      "method": "Benchmark, ExpRAG baseline и action-think-memory refine pipeline.",
+      "guarantee": "Evo-Memory оценивает test-time learning из меняющегося опыта и сравнивает retrieval с evolving-memory systems. ReMem связывает reasoning, действия и memory refinement; состояние памяти и порядок задач важны для воспроизводимости.",
+      "setup": "Single/multi-turn reasoning, QA и tool-use при разных backbone. Ограничение: Ограниченный набор моделей из-за бюджета/API; успех адаптивной системы не равен результату замороженного независимого корпуса.",
+      "claim_ids": [
+        "c77"
+      ],
+      "theme": "Перенос и прикладные проверки",
+      "study_type": "Benchmark и система"
+    },
+    {
+      "paper_id": "arxiv-2505-16067",
+      "method": "Фиксированная память, strict addition и разные deletion policies.",
+      "guarantee": "Исследование experience-following проверяет, как качество сохранённого опыта связано с последующими действиями. Addition и deletion сравниваются при смене распределения задач: история применения записи может служить обратной связью для управления памятью.",
+      "setup": "EHRAgent и AgentDriver, сценарии с distribution shift и без него. Ограничение: Изучены только добавление и удаление; выводы не покрывают весь цикл редактирования, консолидации и sharing.",
+      "claim_ids": [
+        "c78"
+      ],
+      "theme": "Организация и консолидация",
+      "study_type": "Эмпирическое исследование"
+    },
+    {
+      "paper_id": "arxiv-2605-04264",
+      "method": "Концептуальная design agenda для persistent multi-agent systems.",
+      "guarantee": "Governed Collaborative Memory предлагает рассматривать отбор записей как selection regime. Provenance, причины принятия/отклонения, исправление ошибок и сохранение ролей становятся отдельными требованиями к памяти.",
+      "setup": "Анализ candidate variants, retention и governance-as-learning. Ограничение: Метафора artificial selection и требования к системе не являются benchmark-доказательством её эффективности.",
+      "claim_ids": [
+        "c79"
+      ],
+      "theme": "Организация и консолидация",
+      "study_type": "Концептуальная работа"
+    },
+    {
+      "paper_id": "arxiv-2606-14445",
+      "method": "File-based protocol с inbox и real-time notification.",
+      "guarantee": "tap сохраняет сообщения как файлы с метаданными и отдельно организует уведомления. Persistence, delivery и coordination — разные слои; применение протокола для собственной разработки даёт operational evidence, а не контролируемый тест роста качества команды.",
+      "setup": "Небольшая группа неоднородных агентов в одном repository/Git workflow. Ограничение: Локальный filesystem-сценарий не равен межорганизационной системе; self-applied experience не изолирует причинный вклад протокола.",
+      "claim_ids": [
+        "c80"
+      ],
+      "theme": "Отбор опыта и координация",
+      "study_type": "Протокол и эксплуатационный отчёт"
+    },
+    {
+      "paper_id": "arxiv-2609-15054",
+      "method": "Bus communication substrate и многоуровневая организация информации.",
+      "guarantee": "BusMA разделяет private reasoning и публичную информацию на нескольких уровнях гранулярности. Дополнительная коммуникация не устраняет ограничения perception: авторы отмечают более скромные улучшения при сильном visual backbone.",
+      "setup": "13 visual, mathematical и knowledge-retrieval задач, два LLM backbone. Ограничение: Визуальный bottleneck может давать малые выигрыши или регрессии; взаимодействие не улучшает базовую способность модели автоматически.",
+      "claim_ids": [
+        "c81"
+      ],
+      "theme": "Отбор опыта и координация",
+      "study_type": "Система и benchmark"
+    },
+    {
+      "paper_id": "arxiv-2606-00610",
+      "method": "Совместная graph construction/maintenance и memory-aware hierarchical retrieval.",
+      "guarantee": "MemGraphRAG использует memory-based multi-agent процесс для согласованного построения knowledge graph и иерархического retrieval. Качество извлечения и качество конечного QA оцениваются отдельно.",
+      "setup": "Текстовые QA/GraphRAG benchmarks, string-based и LLM-based accuracy. Ограничение: Только текстовые входы; substring accuracy и LLM-as-judge имеют разные ограничения и не должны смешиваться с истинностью графа.",
+      "claim_ids": [
+        "c82"
+      ],
+      "theme": "Организация и консолидация",
+      "study_type": "Система и benchmark"
+    },
+    {
+      "paper_id": "arxiv-2608-11436",
+      "method": "Формальная модель detection/avoidance и provenance-enforcing broker.",
+      "guarantee": "Формальный анализ honeytokens показывает важность общей информации и возможностей атакующего. Если атакующий может имитировать допустимую политику, активация токена сама по себе не образует надёжную security boundary.",
+      "setup": "Shared-memory agents, наблюдение токенов и допустимых объектов при заданных assumptions. Ограничение: Результат не распространяется автоматически на внешнего атакующего с меньшей информацией; гарантии относятся к определённому нарушению политики.",
+      "claim_ids": [
+        "c83"
+      ],
+      "theme": "Права доступа и защита",
+      "study_type": "Формальный анализ"
+    },
+    {
+      "paper_id": "arxiv-2506-02049",
+      "method": "Graph evolution, локальные mutations и evaluation в Git workflow.",
+      "guarantee": "EvoGit использует Git-структуру для децентрализованной эволюции кода: изменения и результаты сохраняются как общая история. Эксперименты демонстрируют feasibility recursive development, а не гарантированное открытое самосовершенствование.",
+      "setup": "Генерация software frameworks и solver для bin packing. Ограничение: Контролируемая случайность важна для разнообразия, но требует seeds и точных trajectories; воспроизводимость не равна детерминированности.",
+      "claim_ids": [
+        "c84"
+      ],
+      "theme": "Отбор опыта и координация",
+      "study_type": "Прототип и авторская оценка"
+    },
+    {
+      "paper_id": "arxiv-2603-17787",
+      "method": "Dual memory model, schema enforcement и quality gates.",
+      "guarantee": "Governed Memory разделяет unstructured insights и structured properties и вводит schema/quality gates. В авторском стенде качество насыщалось при небольшой memory density; это аргумент измерять полезность записей, а не только объём store.",
+      "setup": "Enterprise-style entity memory и LoCoMo, density ablations. Ограничение: Quality gates эвристические, а часть оценивания основана на self-judgment; насыщение около семи записей не является универсальной нормой.",
+      "claim_ids": [
+        "c85"
+      ],
+      "theme": "Права доступа и защита",
+      "study_type": "Архитектура и авторская оценка"
+    },
+    {
+      "paper_id": "arxiv-2603-12631",
+      "method": "Adaptive credit assignment и совместное обучение memory agents.",
+      "guarantee": "CoMAM совместно оптимизирует Extraction, Profile и Retrieval agents через локальные и глобальные rewards. Это обучаемая координация memory operations; её вклад нельзя приписать только смене структуры хранения.",
+      "setup": "PersonaMem и LongMemEval с разными длинами conversational history. Ограничение: Компактный набор агентов исключает более полное editing, consistency maintenance и redundancy removal; комплексная система не покрывает весь lifecycle.",
+      "claim_ids": [
+        "c86"
+      ],
+      "theme": "Организация и консолидация",
+      "study_type": "Обучаемая память и benchmark"
+    },
+    {
+      "paper_id": "arxiv-2609-30289",
+      "method": "Иерархическая collaborative memory и updater/retriever/generator.",
+      "guarantee": "HiCoMER различает Team и Individual memories и связывает conflict updating с validity-aware retrieval. Retrieval текущего состояния и итоговая QA-точность измеряются отдельно, что помогает анализировать устаревшие или конфликтующие записи.",
+      "setup": "Два новых memory-grounded QA datasets, retrieval и answer-level metrics. Ограничение: Шумные, неполные или несогласованные Team/Individual records ухудшают maintenance; авторские datasets не доказывают устойчивость к любому источнику конфликтов.",
+      "claim_ids": [
+        "c87"
+      ],
+      "theme": "Конфликты и независимость свидетельств",
+      "study_type": "Система и benchmark"
+    },
+    {
+      "paper_id": "arxiv-2602-03224",
+      "method": "Text-memory evolution и dual-track benchmark.",
+      "guarantee": "TAME рассматривает memory misevolution даже на benign task stream. Trust-Memevo разделяет capability evolution и trustworthiness tracking: рост решения задач не исключает ухудшения поведения при обновлении памяти.",
+      "setup": "Math, Science, Code и Tool-use; evolution tasks и связанные проверки trustworthiness. Ограничение: В основном aggregate behavioral measures и текстовая память; механизм drift и перенос на multimodal shared memory требуют дополнительных проверок.",
+      "claim_ids": [
+        "c88"
+      ],
+      "theme": "Конфликты и независимость свидетельств",
+      "study_type": "Benchmark и система"
+    },
+    {
+      "paper_id": "arxiv-2608-10509",
+      "method": "Provenance-aware shared-memory graph без доступа к private chain-of-thought.",
+      "guarantee": "MAP-Graph использует provenance как сигнал для permission filtering, path trust и action gating. Нулевые наблюдённые leakage/ASR на авторском тесте — условный результат стенда, а не доказательство отсутствия всех атак.",
+      "setup": "Синтетические шаблонные задачи, один четырёхагентный раунд и симулированные действия. Ограничение: Один temperature-zero запуск не оценивает inference variance; отдельный trajectory-retaining baseline может зависеть от порядка задач.",
+      "claim_ids": [
+        "c89"
+      ],
+      "theme": "Права доступа и защита",
+      "study_type": "Система и benchmark безопасности"
+    },
+    {
+      "paper_id": "arxiv-2602-03036",
+      "method": "Latent Memory Policy Optimization и интеграция с MAS frameworks.",
+      "guarantee": "LatentMem создаёт специализированные latent representations памяти и обучает их через LMPO, вариант GRPO. Сравнение с vanilla MAS включает обучение memory policy, а не только подбор внешних текстовых записей.",
+      "setup": "Разные домены, размеры моделей и in-domain/cross-framework проверки. Ограничение: Выигрыш комплексной обучаемой архитектуры не устанавливает эффект общего store сам по себе; latent representations сложнее напрямую аудировать как текстовые свидетельства.",
+      "claim_ids": [
+        "c90"
+      ],
+      "theme": "Границы и базовые механизмы",
+      "study_type": "Обучаемая память и benchmark · граница темы"
+    },
+    {
+      "paper_id": "arxiv-2606-00756",
+      "method": "Collaborative memory и insights circulation с разными по силе агентами.",
+      "guarantee": "CoMIC организует обмен memory/insights между edge/cloud agents без обновления параметров. Улучшение слабого backbone на длинных задачах сопровождается изменением subgoal decomposition и grounding, поэтому эти компоненты нужно разделять в ablation.",
+      "setup": "Пять AgentBoard benchmarks, в том числе Jericho и symbolic planning. Ограничение: End-to-end успех ограничен способностью edge-модели строить подцели; крайне слабая модель не компенсируется памятью автоматически.",
+      "claim_ids": [
+        "c91"
+      ],
+      "theme": "Перенос и прикладные проверки",
+      "study_type": "Система и benchmark"
+    },
+    {
+      "paper_id": "arxiv-2609-03619",
+      "method": "State-aware experience retrieval и confidence-weighted peer influence.",
+      "guarantee": "R2-MAD извлекает прошлые debates с учётом текущего consensus и оценивает надёжность peers. Сравнение с random и similarity retrieval показывает, что полезность зависит от выбора опыта, а не просто добавления старых ответов.",
+      "setup": "Multi-agent debate benchmarks, retrieval-policy ablations. Ограничение: На каждом раунде нужны summaries, retrieval и confidence estimates; дополнительные compute и предпосылку conditional independence нужно учитывать вместе с accuracy.",
+      "claim_ids": [
+        "c92"
+      ],
+      "theme": "Отбор опыта и координация",
+      "study_type": "Система и benchmark"
+    },
+    {
+      "paper_id": "arxiv-2604-03295",
+      "method": "Episodic/procedural/другие memory modules и разные team topologies.",
+      "guarantee": "LLMA-Mem сопоставляет масштаб команды и накопление опыта: большая команда не всегда лучше меньшей с подходящей памятью. Task Score и Communication Score могут меняться по-разному, поэтому их нельзя объединять в одно утверждение о сотрудничестве.",
+      "setup": "Несколько model families и task environments, оценка во времени. Ограничение: Исследованный team scale ограничен; результаты не задают универсальный оптимальный размер команды или горизонт накопления опыта.",
+      "claim_ids": [
+        "c93"
+      ],
+      "theme": "Перенос и прикладные проверки",
+      "study_type": "Система и benchmark"
+    },
+    {
+      "paper_id": "arxiv-2310-08560",
+      "method": "Virtual context management и function executor.",
+      "guarantee": "MemGPT вводит управление уровнями памяти по аналогии с ОС: LLM переносит информацию между ограниченным основным контекстом и внешним хранилищем. Consistency и engagement разговоров оцениваются отдельно от простого размера доступной истории.",
+      "setup": "Multi-session chat и задачи с контекстом больше окна модели. Ограничение: Качество зависит от корректных memory operations; память одного агента не обеспечивает multi-user authorization или надёжное совместное редактирование.",
+      "claim_ids": [
+        "c94"
+      ],
+      "theme": "Границы и базовые механизмы",
+      "study_type": "Система и benchmark · базовый механизм"
+    },
+    {
+      "paper_id": "arxiv-2308-10144",
+      "method": "Experiential learning через анализ успехов/неудач и retrieval.",
+      "guarantee": "ExpeL извлекает insights из прошлых попыток и использует их вместе с retrievable in-context examples. Это ранний механизм verbal experience reuse; наличие накопленного опыта отличается от обновления весов модели.",
+      "setup": "HotpotQA, ALFWorld, WebShop и другие текстовые benchmark задачи. Ограничение: Текстовые наблюдения ограничивают перенос в реальные мультимодальные условия; single-agent результаты не устанавливают качество распределённого sharing.",
+      "claim_ids": [
+        "c95"
+      ],
+      "theme": "Границы и базовые механизмы",
+      "study_type": "Система и benchmark · базовый механизм"
+    },
+    {
+      "paper_id": "arxiv-2303-11366",
+      "method": "Actor, evaluator и self-reflection с episodic memory.",
+      "guarantee": "Reflexion сохраняет verbal feedback между попытками и использует его при следующем решении. Увеличение числа trials и наличие evaluator — часть метода; его нельзя сравнивать с одной попыткой без учёта бюджета.",
+      "setup": "HotpotQA, ALFWorld и code-generation tasks, feedback/agent ablations. Ограничение: Policy optimization через язык может застревать в неоптимальных решениях; ошибочная саморефлексия не становится истинной из-за повторного сохранения.",
+      "claim_ids": [
+        "c96"
+      ],
+      "theme": "Границы и базовые механизмы",
+      "study_type": "Система и benchmark · базовый механизм"
+    },
+    {
+      "paper_id": "arxiv-2304-03442",
+      "method": "Наблюдения как timestamped memory objects, reflection и планы.",
+      "guarantee": "Generative Agents связывают memory stream, retrieval, reflection и planning в симуляции поведения. Контролируемая оценка проверяла believability: правдоподобное социальное поведение не равно истинности общего знания.",
+      "setup": "Интерактивная среда с несколькими агентами и ablation компонентов. Ограничение: Начальная реализация и ошибки поведения ограничивают перенос; gossip и память отдельных агентов не являются общим верифицированным knowledge store.",
+      "claim_ids": [
+        "c97"
+      ],
+      "theme": "Границы и базовые механизмы",
+      "study_type": "Система и пользовательская оценка · базовый механизм"
+    },
+    {
+      "paper_id": "arxiv-2606-21024",
+      "method": "Failure-aware memory layer, same-task retry и cross-task reuse.",
+      "guarantee": "Negative Knowledge сохраняет структурированный след неудачной попытки: что пробовали, что не сработало и как изменить маршрут. В авторском сравнении простое повторение не давало того же эффекта, что запись отрицательного опыта.",
+      "setup": "Bounded attempt-level records, сравнение raw self-debug и distilled negative knowledge. Ограничение: Неудача относится к условиям попытки; её перенос как универсального запрета может закрыть полезное направление. Требуются provenance и границы применимости записи.",
+      "claim_ids": [
+        "c98"
+      ],
+      "theme": "Конфликты и независимость свидетельств",
+      "study_type": "Система и авторская оценка"
+    },
+    {
+      "paper_id": "arxiv-2609-18094",
+      "method": "Research DAG с artifacts, tags, parents и verification records.",
+      "guarantee": "Agora использует Git-backed DAG для общего исследовательского опыта, включая отрицательные и нулевые результаты. Run показывает reuse и проверки чужих contributions, но причинный эффект на discovery per compute требует matched comparison.",
+      "setup": "Наблюдение коллективного AutoResearch run и связей между contributions. Ограничение: Проверка другим аккаунтом не гарантирует независимость доказательства; один run без сопоставимого контроля не устанавливает выигрыш коллективной памяти.",
+      "claim_ids": [
+        "c99"
+      ],
+      "theme": "Отбор опыта и координация",
+      "study_type": "Система и эксплуатационное исследование"
+    },
+    {
+      "paper_id": "arxiv-2601-20352",
+      "method": "Adaptive memory через multi-agent collaboration.",
+      "guarantee": "AMA поручает нескольким агентам selection, updating и retrieval долговременной памяти. На LoCoMo результаты сравниваются с FullContext и другими memory systems; экономию входного контекста надо учитывать вместе с ценой координации.",
+      "setup": "LoCoMo и LongMemEval, разные backbone и memory baselines. Ограничение: Дополнительные агенты создают computational overhead; reasoning capability backbone ограничивает результат, особенно при переходе к малым моделям.",
+      "claim_ids": [
+        "c100"
+      ],
+      "theme": "Организация и консолидация",
+      "study_type": "Система и benchmark"
     }
   ],
   "quality": {
     "warnings": [
-      "Концептуальный обзор 50 целенаправленно выбранных работ; не исчерпывающий систематический обзор. Число публикаций не равно числу независимых экспериментов: есть обзоры, теоретические и архитектурные работы.",
-      "Для новых работ прочитаны выбранные абзацы методов, результатов/обсуждения и ограничений; не все разделы и приложения. Точные версии, фрагменты и SHA-256 сохранены.",
-      "Эксперименты авторов не воспроизводились, независимой научной рецензии нет. Предлагаемые собственные проверки не выполнялись."
+      "100 отобранных публикаций; не исчерпывающий систематический обзор и не объективный мировой top-100. Число публикаций не равно числу независимых экспериментов.",
+      "Прочитаны выбранные фрагменты полных HTML/PDF, а не все страницы и приложения. Различаются эксперименты, обзоры, комментарии, теория, протоколы и базовые механизмы.",
+      "Версии, SHA-256 и короткие цитаты зафиксированы. Совпадение цитаты не является независимой научной рецензией вывода. Эксперименты не воспроизводились, предложенные проверки не выполнялись."
     ]
   },
   "changes": {
-    "summary": "50 работ: тематическое сравнение механизмов, условий проверки и ограничений. Отдельно отмечены теория, обзоры и эмпирические исследования."
+    "summary": "100 работ: добавлены 50 тематически отобранных публикаций, ранние базовые механизмы, отрицательные результаты и методологические разногласия. Выводы и маршрут чтения пересмотрены; прежние выпуски сохранены."
   },
   "publication": {
     "released_at": "2026-11-22",
-    "note": "50 работ: тематическое сравнение механизмов, условий проверки и ограничений. Отдельно отмечены теория, обзоры и эмпирические исследования.",
+    "note": "100 работ: добавлены 50 тематически отобранных публикаций, ранние базовые механизмы, отрицательные результаты и методологические разногласия. Выводы и маршрут чтения пересмотрены; прежние выпуски сохранены.",
     "preparation": "source_based_editorial",
     "expert_peer_review": false
   }
