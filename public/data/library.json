@@ -47,24 +47,38 @@
       "has_review": true,
       "snapshot_id": "editorial-2026-11-22.3",
       "review_papers": 100,
-      "papers": 100,
-      "bibliography_checked_at": null,
+      "papers": 105,
+      "bibliography_checked_at": "2026-11-23",
       "bibliography_coverage": {
-        "count": 0,
-        "first_year": null,
-        "last_year": null,
-        "years": {},
+        "count": 5,
+        "first_year": 2026,
+        "last_year": 2026,
+        "years": {
+          "2026": 5
+        },
         "groups": {
           "relevance": 0,
-          "recent": 0,
+          "recent": 5,
           "earlier": 0,
           "evaluation": 0
         },
         "full_text_reviewed": 0,
-        "searches": 0,
+        "searches": 2,
         "truncated_searches": 0
       },
-      "discovery": null,
+      "discovery": {
+        "added": 6,
+        "updated": 0,
+        "added_ids": [
+          "2607.18727",
+          "2611.10453",
+          "2611.12412",
+          "2611.12552",
+          "2611.21847",
+          "2611.22461"
+        ],
+        "updated_ids": []
+      },
       "updated_at": "2026-11-22"
     }
   ]

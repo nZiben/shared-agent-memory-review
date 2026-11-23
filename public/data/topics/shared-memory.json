@@ -2173,6 +2173,137 @@
       "read_sections": "Выбранные фрагменты методов, результатов/обсуждения и ограничений; не полный разбор всех страниц: S4.SS1 4 Experiment / 4.1 Experimental Setup; S4.SS2 4 Experiment / 4.2 Main Results; Sx1 Limitations",
       "decision": "core",
       "reason": "Источник опубликованного обзора."
+    },
+    {
+      "id": "arxiv-2611-21847",
+      "title": "Inventa: Decentralized Self-Improving Agents for Autonomous Scientific Discovery",
+      "authors": [
+        "Prithwish Jana",
+        "Nikos Kanakaris",
+        "Purak Jain",
+        "Anoop Deoras",
+        "Sahika Genc"
+      ],
+      "year": 2026,
+      "doi": "",
+      "arxiv_id": "2611.21847v1",
+      "url": "https://arxiv.org/abs/2611.21847v1",
+      "published_at": "2026-11-16",
+      "updated_at": "2026-11-16",
+      "checked_at": "2026-11-23",
+      "coverage": "metadata_only",
+      "verification": "arxiv_metadata",
+      "discovery_groups": [
+        "recent"
+      ],
+      "screening_status": "not_fulltext_reviewed",
+      "added_at": "2026-11-23",
+      "decision": "reading_list",
+      "reason": "Проверена библиографическая запись arXiv. Полный текст и научные выводы ещё не разобраны; работа не является доказательством выводов обзора."
+    },
+    {
+      "id": "arxiv-2611-12552",
+      "title": "SciMARS: Multi-Agent Recursive Self-Improvement for Closed-Loop Scientific Discovery",
+      "authors": [
+        "Weimin Wu",
+        "Han Liu"
+      ],
+      "year": 2026,
+      "doi": "",
+      "arxiv_id": "2611.12552v1",
+      "url": "https://arxiv.org/abs/2611.12552v1",
+      "published_at": "2026-11-09",
+      "updated_at": "2026-11-09",
+      "checked_at": "2026-11-23",
+      "coverage": "metadata_only",
+      "verification": "arxiv_metadata",
+      "discovery_groups": [
+        "recent"
+      ],
+      "screening_status": "not_fulltext_reviewed",
+      "added_at": "2026-11-23",
+      "decision": "reading_list",
+      "reason": "Проверена библиографическая запись arXiv. Полный текст и научные выводы ещё не разобраны; работа не является доказательством выводов обзора."
+    },
+    {
+      "id": "arxiv-2611-12412",
+      "title": "Unprompted coordination through shared memory in LLM agents: a locked two-implementation replication and extension",
+      "authors": [
+        "Pekka Abrahamsson",
+        "Muhammad Waseem",
+        "Esa Karjalainen",
+        "Petrus Jussila",
+        "Henri Hansen",
+        "Jussi Rasku",
+        "Bilhanan Silverajan",
+        "Kai-Kristian Kemell"
+      ],
+      "year": 2026,
+      "doi": "",
+      "arxiv_id": "2611.12412v2",
+      "url": "https://arxiv.org/abs/2611.12412v2",
+      "published_at": "2026-11-09",
+      "updated_at": "2026-11-16",
+      "checked_at": "2026-11-23",
+      "coverage": "metadata_only",
+      "verification": "arxiv_metadata",
+      "discovery_groups": [
+        "recent"
+      ],
+      "screening_status": "not_fulltext_reviewed",
+      "added_at": "2026-11-23",
+      "decision": "reading_list",
+      "reason": "Проверена библиографическая запись arXiv. Полный текст и научные выводы ещё не разобраны; работа не является доказательством выводов обзора."
+    },
+    {
+      "id": "arxiv-2611-10453",
+      "title": "BunshinRL: Whole-Workspace Forking for Agentic Reinforcement Learning Rollouts",
+      "authors": [
+        "Yutong Huang",
+        "Vikranth Srivatsa",
+        "Alex Asch",
+        "Yiying Zhang"
+      ],
+      "year": 2026,
+      "doi": "",
+      "arxiv_id": "2611.10453v2",
+      "url": "https://arxiv.org/abs/2611.10453v2",
+      "published_at": "2026-11-07",
+      "updated_at": "2026-11-11",
+      "checked_at": "2026-11-23",
+      "coverage": "metadata_only",
+      "verification": "arxiv_metadata",
+      "discovery_groups": [
+        "recent"
+      ],
+      "screening_status": "not_fulltext_reviewed",
+      "added_at": "2026-11-23",
+      "decision": "reading_list",
+      "reason": "Проверена библиографическая запись arXiv. Полный текст и научные выводы ещё не разобраны; работа не является доказательством выводов обзора."
+    },
+    {
+      "id": "arxiv-2607-18727",
+      "title": "Formal Verification of an Out-of-Order Multiprocessor against an In-Order Weak-Memory ISA",
+      "authors": [
+        "Janggun Lee",
+        "Jeehoon Kang"
+      ],
+      "year": 2026,
+      "doi": "",
+      "arxiv_id": "2607.18727v2",
+      "url": "https://arxiv.org/abs/2607.18727v2",
+      "published_at": "2026-07-21",
+      "updated_at": "2026-11-16",
+      "checked_at": "2026-11-23",
+      "coverage": "metadata_only",
+      "verification": "arxiv_metadata",
+      "discovery_groups": [
+        "recent"
+      ],
+      "screening_status": "not_fulltext_reviewed",
+      "added_at": "2026-11-23",
+      "decision": "reading_list",
+      "reason": "Проверена библиографическая запись arXiv. Полный текст и научные выводы ещё не разобраны; работа не является доказательством выводов обзора."
     }
   ],
   "versions": [

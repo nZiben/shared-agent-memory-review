@@ -1,26 +1,241 @@
 {
   "schema_version": 1,
-  "checked_at": "2026-11-16",
-  "through": "2026-11-16",
+  "checked_at": "2026-11-23",
+  "through": "2026-11-23",
   "method": "Retained initial bounded corpus plus incremental, paginated arXiv submission/update discovery with a seven-day overlap. Explicit title/abstract filters; metadata-only candidates. No automatic scientific synthesis or review changes.",
   "topics": {
-    "shared-memory": []
+    "shared-memory": [
+      {
+        "title": "Surfacing Disagreement Beats Resolving It: A Gated Ablation Study of Provenance-Weighted Memory for Multi-Agent Debate",
+        "authors": [
+          "Ziaullah Khan",
+          "Abdul Rehman Khalid",
+          "Shrestha Nischal Lal",
+          "Nheng Vanchhay",
+          "Md Ariful Islam Mozumder",
+          "Hee-Cheol Kim"
+        ],
+        "year": 2026,
+        "arxiv_id": "2611.22461v1",
+        "doi": "",
+        "url": "https://arxiv.org/abs/2611.22461v1",
+        "id": "arxiv-2611-22461",
+        "published_at": "2026-11-17",
+        "updated_at": "2026-11-17",
+        "checked_at": "2026-11-23",
+        "coverage": "metadata_only",
+        "verification": "arxiv_metadata",
+        "screening_status": "not_fulltext_reviewed",
+        "discovery_groups": [
+          "recent"
+        ],
+        "added_at": "2026-11-23"
+      },
+      {
+        "title": "Inventa: Decentralized Self-Improving Agents for Autonomous Scientific Discovery",
+        "authors": [
+          "Prithwish Jana",
+          "Nikos Kanakaris",
+          "Purak Jain",
+          "Anoop Deoras",
+          "Sahika Genc"
+        ],
+        "year": 2026,
+        "arxiv_id": "2611.21847v1",
+        "doi": "",
+        "url": "https://arxiv.org/abs/2611.21847v1",
+        "id": "arxiv-2611-21847",
+        "published_at": "2026-11-16",
+        "updated_at": "2026-11-16",
+        "checked_at": "2026-11-23",
+        "coverage": "metadata_only",
+        "verification": "arxiv_metadata",
+        "screening_status": "not_fulltext_reviewed",
+        "discovery_groups": [
+          "recent"
+        ],
+        "added_at": "2026-11-23"
+      },
+      {
+        "title": "SciMARS: Multi-Agent Recursive Self-Improvement for Closed-Loop Scientific Discovery",
+        "authors": [
+          "Weimin Wu",
+          "Han Liu"
+        ],
+        "year": 2026,
+        "arxiv_id": "2611.12552v1",
+        "doi": "",
+        "url": "https://arxiv.org/abs/2611.12552v1",
+        "id": "arxiv-2611-12552",
+        "published_at": "2026-11-09",
+        "updated_at": "2026-11-09",
+        "checked_at": "2026-11-23",
+        "coverage": "metadata_only",
+        "verification": "arxiv_metadata",
+        "screening_status": "not_fulltext_reviewed",
+        "discovery_groups": [
+          "recent"
+        ],
+        "added_at": "2026-11-23"
+      },
+      {
+        "title": "Unprompted coordination through shared memory in LLM agents: a locked two-implementation replication and extension",
+        "authors": [
+          "Pekka Abrahamsson",
+          "Muhammad Waseem",
+          "Esa Karjalainen",
+          "Petrus Jussila",
+          "Henri Hansen",
+          "Jussi Rasku",
+          "Bilhanan Silverajan",
+          "Kai-Kristian Kemell"
+        ],
+        "year": 2026,
+        "arxiv_id": "2611.12412v2",
+        "doi": "",
+        "url": "https://arxiv.org/abs/2611.12412v2",
+        "id": "arxiv-2611-12412",
+        "published_at": "2026-11-09",
+        "updated_at": "2026-11-16",
+        "checked_at": "2026-11-23",
+        "coverage": "metadata_only",
+        "verification": "arxiv_metadata",
+        "screening_status": "not_fulltext_reviewed",
+        "discovery_groups": [
+          "recent"
+        ],
+        "added_at": "2026-11-23"
+      },
+      {
+        "title": "BunshinRL: Whole-Workspace Forking for Agentic Reinforcement Learning Rollouts",
+        "authors": [
+          "Yutong Huang",
+          "Vikranth Srivatsa",
+          "Alex Asch",
+          "Yiying Zhang"
+        ],
+        "year": 2026,
+        "arxiv_id": "2611.10453v2",
+        "doi": "",
+        "url": "https://arxiv.org/abs/2611.10453v2",
+        "id": "arxiv-2611-10453",
+        "published_at": "2026-11-07",
+        "updated_at": "2026-11-11",
+        "checked_at": "2026-11-23",
+        "coverage": "metadata_only",
+        "verification": "arxiv_metadata",
+        "screening_status": "not_fulltext_reviewed",
+        "discovery_groups": [
+          "recent"
+        ],
+        "added_at": "2026-11-23"
+      },
+      {
+        "title": "Formal Verification of an Out-of-Order Multiprocessor against an In-Order Weak-Memory ISA",
+        "authors": [
+          "Janggun Lee",
+          "Jeehoon Kang"
+        ],
+        "year": 2026,
+        "arxiv_id": "2607.18727v2",
+        "doi": "",
+        "url": "https://arxiv.org/abs/2607.18727v2",
+        "id": "arxiv-2607-18727",
+        "published_at": "2026-07-21",
+        "updated_at": "2026-11-16",
+        "checked_at": "2026-11-23",
+        "coverage": "metadata_only",
+        "verification": "arxiv_metadata",
+        "screening_status": "not_fulltext_reviewed",
+        "discovery_groups": [
+          "recent"
+        ],
+        "added_at": "2026-11-23"
+      }
+    ]
   },
-  "searches": [],
+  "searches": [
+    {
+      "topic": "shared-memory",
+      "strategy": "recent",
+      "label": "Incremental submittedDate",
+      "url": "https://export.arxiv.org/api/query?search_query=%28%28all%3A%22shared+memory%22+OR+all%3A%22collaborative+memory%22+OR+all%3A%22memory+sharing%22%29+AND+%28all%3A%22agent%22+OR+all%3A%22agents%22%29%29+AND+submittedDate%3A%5B201701010000+TO+202611232359%5D+AND+submittedDate%3A%5B202611090000+TO+202611232359%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending",
+      "returned": 6,
+      "eligible_returned": 4,
+      "total_matches": 6,
+      "truncated": false,
+      "scope_excluded": 2,
+      "scope_excluded_ids": [
+        "2611.26427v1",
+        "2611.12076v1"
+      ],
+      "response_sha256": "9f439cbedad52ef19ab13f1cbd41786b74d27dc708792157740477b38a4886fd",
+      "incremental": true,
+      "complete": true,
+      "window_start": "2026-11-09",
+      "page": 0
+    },
+    {
+      "topic": "shared-memory",
+      "strategy": "recent",
+      "label": "Incremental lastUpdatedDate",
+      "url": "https://export.arxiv.org/api/query?search_query=%28%28all%3A%22shared+memory%22+OR+all%3A%22collaborative+memory%22+OR+all%3A%22memory+sharing%22%29+AND+%28all%3A%22agent%22+OR+all%3A%22agents%22%29%29+AND+submittedDate%3A%5B201701010000+TO+202611232359%5D&start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending",
+      "returned": 100,
+      "eligible_returned": 6,
+      "total_matches": 174,
+      "truncated": false,
+      "scope_excluded": 3,
+      "scope_excluded_ids": [
+        "2611.26427v1",
+        "2611.09054v2",
+        "2611.12076v1"
+      ],
+      "response_sha256": "d34760ef415fe0d42705aa5fe894437aca764ac05cecafa49edc2bc85e8fb7c3",
+      "incremental": true,
+      "complete": true,
+      "window_start": "2026-11-09",
+      "page": 0
+    }
+  ],
   "coverage": {
     "shared-memory": {
-      "papers": 0,
+      "papers": 6,
       "first_year": null,
       "last_year": null,
-      "years": {},
-      "groups": {},
-      "note": "Automatic candidate scan not yet run for this new focus; reviewed sources are in its review."
+      "years": {
+        "2026": 6
+      },
+      "groups": {
+        "relevance": 0,
+        "recent": 6,
+        "earlier": 0,
+        "evaluation": 0
+      },
+      "note": "Automatic candidate scan not yet run for this new focus; reviewed sources are in its review.",
+      "first_publication": "2026-07-21",
+      "last_publication": "2026-11-17",
+      "systematic_search_complete": false,
+      "full_text_reviewed": 0
     }
   },
-  "plan_sha256": "97b575903f8069550ba0542f8ba1d30a6d89c44a5d47c10226e9dce467b332d2",
+  "plan_sha256": "8703079c4ef1f44be814609908db5236e9318a69a26f62522365924c26b9a796",
   "last_update": {
-    "checked_at": "2026-11-16",
-    "window_start": "2026-11-06",
-    "topics": {}
+    "checked_at": "2026-11-23",
+    "window_start": "2026-11-09",
+    "topics": {
+      "shared-memory": {
+        "added": 6,
+        "updated": 0,
+        "added_ids": [
+          "2607.18727",
+          "2611.10453",
+          "2611.12412",
+          "2611.12552",
+          "2611.21847",
+          "2611.22461"
+        ],
+        "updated_ids": []
+      }
+    }
   }
 }

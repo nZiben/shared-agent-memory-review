@@ -1,6 +1,48 @@
 {
-  "checked_at": "2026-11-16",
+  "checked_at": "2026-11-23",
   "method": "Retained initial bounded corpus plus incremental, paginated arXiv submission/update discovery with a seven-day overlap. Explicit title/abstract filters; metadata-only candidates. No automatic scientific synthesis or review changes.",
-  "plan_sha256": "97b575903f8069550ba0542f8ba1d30a6d89c44a5d47c10226e9dce467b332d2",
-  "searches": []
+  "plan_sha256": "8703079c4ef1f44be814609908db5236e9318a69a26f62522365924c26b9a796",
+  "searches": [
+    {
+      "topic": "shared-memory",
+      "strategy": "recent",
+      "label": "Incremental submittedDate",
+      "url": "https://export.arxiv.org/api/query?search_query=%28%28all%3A%22shared+memory%22+OR+all%3A%22collaborative+memory%22+OR+all%3A%22memory+sharing%22%29+AND+%28all%3A%22agent%22+OR+all%3A%22agents%22%29%29+AND+submittedDate%3A%5B201701010000+TO+202611232359%5D+AND+submittedDate%3A%5B202611090000+TO+202611232359%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending",
+      "returned": 6,
+      "eligible_returned": 4,
+      "total_matches": 6,
+      "truncated": false,
+      "scope_excluded": 2,
+      "scope_excluded_ids": [
+        "2611.26427v1",
+        "2611.12076v1"
+      ],
+      "response_sha256": "9f439cbedad52ef19ab13f1cbd41786b74d27dc708792157740477b38a4886fd",
+      "incremental": true,
+      "complete": true,
+      "window_start": "2026-11-09",
+      "page": 0
+    },
+    {
+      "topic": "shared-memory",
+      "strategy": "recent",
+      "label": "Incremental lastUpdatedDate",
+      "url": "https://export.arxiv.org/api/query?search_query=%28%28all%3A%22shared+memory%22+OR+all%3A%22collaborative+memory%22+OR+all%3A%22memory+sharing%22%29+AND+%28all%3A%22agent%22+OR+all%3A%22agents%22%29%29+AND+submittedDate%3A%5B201701010000+TO+202611232359%5D&start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending",
+      "returned": 100,
+      "eligible_returned": 6,
+      "total_matches": 174,
+      "truncated": false,
+      "scope_excluded": 3,
+      "scope_excluded_ids": [
+        "2611.26427v1",
+        "2611.09054v2",
+        "2611.12076v1"
+      ],
+      "response_sha256": "d34760ef415fe0d42705aa5fe894437aca764ac05cecafa49edc2bc85e8fb7c3",
+      "incremental": true,
+      "complete": true,
+      "window_start": "2026-11-09",
+      "page": 0
+    }
+  ]
 }
